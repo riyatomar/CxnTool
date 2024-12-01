@@ -1,9 +1,9 @@
 <sentence_id=1>
-1	राम	rAma	NNP	7	k1	9	begin
+1	राम	rAma	NNP	7	k1	13	op1
 2	,	,	SYM	1	rsym	-	-
-3	श्याम	SyAma	NNP	7	k1	10	begin
+3	श्याम	SyAma	NNP	7	k1	13	op1
 4	और	Ora	CC	7	k1	-	-
-5	मोहन	mohana	NNP	7	k1	11	begin
+5	मोहन	mohana	NNP	7	k1	13	op1
 6	दिल्ली	xillI	NNP	7	k2p	12	begin
 7	जाएंगे	jAeMge	VM	0	main	-	-
 8	।	.	SYM	7	rsym	-	-
@@ -38,9 +38,9 @@
 
 
 <sentence_id=4>
-1	राम	rAma	NNP	6	k1	8	begin
+1	राम	rAma	NNP	6	k1	10	op1
 2	और	Ora	CC	6	k1	-	-
-3	मोहन	mohana	NNP	6	k1	9	begin
+3	मोहन	mohana	NNP	6	k1	10	op1
 4	कल	kala	NN	6	k7t	-	-
 5	स्कूल	skUla	NN	6	k2p	-	-
 6	जायेंगे	jAyeMge	VM	0	main	-	-
@@ -52,9 +52,9 @@
 
 <sentence_id=5>
 1	सीता	sIwA	NNP	5	k1	-	-
-2	फल	Pala	NN	5	k2	-	-
+2	फल	Pala	NN	5	k2	8	op1
 3	या	yA	CC	5	k2	-	-
-4	सब्जी	sabjI	NN	5	k2	-	-
+4	सब्जी	sabjI	NN	5	k2	8	op1
 5	ले	le	VM	0	main	-	-
 6	आएगी	AegI	VAUX	5	lwg__vaux	-	-
 7	।	.	SYM	5	rsym	-	-
@@ -80,13 +80,15 @@
 5	रूस	rUsa	NNP	12	k4	-	-
 6	को	ko	PSP	5	lwg__psp	-	-
 7	शांति	SAMwi	NN	9	k2	-	-
-8	स्थापित	sWApiwa	JJ	9	pof	-	-
-9	करने	karane	VM	11	k2	-	-
+8	स्थापित	sWApiwa	JJ	9	pof	15	kriyAmUla
+9	करने	karane	VM	11	k2	15	verbalizer_B
 10	का	kA	PSP	9	lwg__psp	-	-
-11	आदेश	AxeSa	NN	12	pof	-	-
-12	दिया	xiyA	VM	0	main	-	-
+11	आदेश	AxeSa	NN	12	pof	16	kriyAmUla
+12	दिया	xiyA	VM	0	main	16	verbalizer_B
 13	।	.	SYM	12	rsym	-	-
 14	[NE_0]	[NE_0]	-	-	-	15	begin
+15	[CP_1]	[CP_1]	-	-	-	-	-
+16	[CP_2]	[CP_2]	-	-	-	-	-
 </sentence_id>
 
 
@@ -112,11 +114,12 @@
 7	के	ke	PSP	6	lwg__psp	-	-
 8	निहितार्थ	nihiwArWa	NN	10	k2	-	-
 9	का	kA	PSP	8	lwg__psp	-	-
-10	अध्ययन	aXyayana	NN	11	pof	-	-
-11	करता	karawA	VM	0	main	-	-
-12	है	hE	VAUX	11	lwg__vaux	-	-
+10	अध्ययन	aXyayana	NN	11	pof	15	kriyAmUla
+11	करता	karawA	VM	0	main	15	verbalizer_B
+12	है	hE	VAUX	11	lwg__vaux	15	verbalizer_I
 13	।	.	SYM	11	rsym	-	-
 14	[NC_1]	[NC_1]	-	-	-	15	mod
+15	[CP_1]	[CP_1]	-	-	-	-	-
 </sentence_id>
 
 
@@ -170,26 +173,28 @@
 5	लोगो	logo	NN	8	k1	-	-
 6	की	kI	PSP	5	lwg__psp	-	-
 7	अकाल	akAla	NNC	8	pof__cn	12	mod
-8	मृत्यु	mqwyu	NN	9	pof	12	head
-9	हुई	huI	VM	0	main	-	-
-10	है	hE	VAUX	9	lwg__vaux	-	-
+8	मृत्यु	mqwyu	NN	9	pof	13	kriyAmUla
+9	हुई	huI	VM	0	main	13	verbalizer_B
+10	है	hE	VAUX	9	lwg__vaux	13	verbalizer_I
 11	।	.	SYM	9	rsym	-	-
 12	[NC_1]	[NC_1]	-	-	-	-	-
+13	[CP_1]	[CP_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=13>
 1	हमारा	hamArA	PRP	2	r6	-	-
 2	देश	xeSa	NN	8	k1	-	-
-3	15	15	NNPC	5	pof__cn	11	component_of
-4	अगस्त	agaswa	NNPC	5	pof__cn	11	component_of
-5	1947	1947	NNP	8	k7t	11	component_of
+3	15	15	NNPC	5	pof__cn	12	component_of
+4	अगस्त	agaswa	NNPC	5	pof__cn	12	component_of
+5	1947	1947	NNP	8	k7t	12	component_of
 6	में	meM	PSP	5	lwg__psp	-	-
-7	आज़ाद	AjZAxa	JJ	8	pof	-	-
-8	हुआ	huA	VM	0	main	-	-
+7	आज़ाद	AjZAxa	JJ	8	pof	11	kriyAmUla
+8	हुआ	huA	VM	0	main	11	verbalizer_B
 9	।	.	SYM	8	rsym	-	-
 10	[NE_0]	[NE_0]	-	-	-	11	begin
-11	[CALENDAR_1]	[CALENDAR_1]	-	-	-	-	-
+11	[CP_1]	[CP_1]	-	-	-	-	-
+12	[CALENDAR_1]	[CALENDAR_1]	-	-	-	-	-
 </sentence_id>
 
 
@@ -240,10 +245,11 @@
 6	देख	xeKa	VM	10	rpk	-	-
 7	कर	kara	VAUX	6	lwg__vaux	-	-
 8	उन्हें	unheM	PRP	10	k2	-	-
-9	प्रणाम	praNAma	NN	10	pof	-	-
-10	किया	kiyA	VM	0	main	-	-
+9	प्रणाम	praNAma	NN	10	pof	13	kriyAmUla
+10	किया	kiyA	VM	0	main	13	verbalizer_B
 11	।	.	SYM	10	rsym	-	-
 12	[NE_1]	PER_1	-	-	-	-	-
+13	[CP_1]	[CP_1]	-	-	-	-	-
 </sentence_id>
 
 
@@ -345,56 +351,59 @@
 
 
 <sentence_id=24>
-1	राम	rAma	NNP	12	k1	20	begin
+1	राम	rAma	NNP	12	k1	27	op1
 2	और	Ora	CC	12	k1	-	-
 3	मोहन	mohana	NNPC	4	pof__cn	21	begin
-4	लाल	lAla	NNP	12	k1	-	-
+4	लाल	lAla	NNP	12	k1	27	op1
 5	भारत	BArawa	NNPC	6	pof__cn	22	begin
 6	सेवाश्रम	sevASrama	NNP	12	k7p	22	inside
 7	में	meM	PSP	6	lwg__psp	-	-
-8	सुबह	subaha	NN	12	k7t	24	start
+8	सुबह	subaha	NN	12	k7t	26	start
 9	से	se	PSP	8	lwg__psp	-	-
-10	शाम	SAma	NN	12	k7t	24	end
+10	शाम	SAma	NN	12	k7t	26	end
 11	तक	waka	PSP	10	lwg__psp	-	-
-12	नाचते	nAcawe	VM	18	rsk	-	-
+12	नाचते	nAcawe	VM	18	rsk	24	kriyAmUla
 13	हुए	hue	VAUX	12	lwg__vaux	-	-
 14	माता	mAwA	NNPC	15	pof__cn	23	begin
 15	देवी	xevI	NNP	17	k2	23	inside
 16	का	kA	PSP	15	lwg__psp	-	-
-17	भजन	Bajana	NN	18	pof	-	-
-18	किया	kiyA	VM	0	main	-	-
+17	भजन	Bajana	NN	18	pof	25	kriyAmUla
+18	किया	kiyA	VM	0	main	25	verbalizer_B
 19	।	.	SYM	18	rsym	-	-
 20	[NE_1]	PER_1	-	-	-	-	-
 21	[NE_2]	PER_2	-	-	-	-	-
 22	[NE_3]	[NE_3]	-	-	-	-	-
 23	[NE_4]	[NE_4]	-	-	-	-	-
-24	[SPAN_1]	[SPAN_1]	-	-	-	-	-
+24	[CP_1]	[CP_1]	-	-	-	-	-
+25	[CP_2]	[CP_2]	-	-	-	-	-
+26	[SPAN_1]	[SPAN_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=25>
 1	यह	yaha	PRP	18	k1	-	-
 2	प्रकृति	prakqwi	NNC	3	pof__cn	21	mod
-3	संबंध	saMbaMXa	NN	10	ccof	21	head
+3	संबंध	saMbaMXa	NN	10	ccof	24	op1
 4	और	Ora	CC	10	ccof	-	-
 5	मानव	mAnava	NNPC	7	pof__cn	22	begin
 6	प्रकृति	prakqwi	NNC	7	pof__cn	22	inside
 7	संबंध	saMbaMXa	NN	9	r6	22	inside
 8	की	kI	PSP	7	lwg__psp	-	-
-9	गुणवत्ता	guNavawwA	NN	10	ccof	-	-
+9	गुणवत्ता	guNavawwA	NN	10	ccof	24	op1
 10	और	Ora	CC	15	r6	-	-
 11	इसके	isake	PRP	13	r6	-	-
 12	मानवीय	mAnavIya	JJ	13	mod	-	-
-13	कल्याण	kalyANa	NN	10	ccof	-	-
+13	कल्याण	kalyANa	NN	10	ccof	24	op1
 14	के	ke	PSP	13	lwg__psp	-	-
 15	निहितार्थ	nihiwArWa	NN	17	k2	-	-
 16	का	kA	PSP	15	lwg__psp	-	-
-17	अध्ययन	aXyayana	NN	18	pof	-	-
-18	करता	karawA	VM	0	main	-	-
-19	है	hE	VAUX	18	lwg__vaux	-	-
+17	अध्ययन	aXyayana	NN	18	pof	23	kriyAmUla
+18	करता	karawA	VM	0	main	23	verbalizer_B
+19	है	hE	VAUX	18	lwg__vaux	23	verbalizer_I
 20	।	.	SYM	18	rsym	-	-
 21	[NC_1]	[NC_1]	-	-	-	-	-
 22	[NE_0]	[NE_0]	-	-	-	23	begin
+23	[CP_1]	[CP_1]	-	-	-	-	-
 </sentence_id>
 
 
@@ -414,14 +423,14 @@
 
 <sentence_id=27>
 1	मोहन	mohana	NNP	2	nmod__adj	14	begin
-2	सुबह	subaha	NN	11	k7t	15	start
+2	सुबह	subaha	NN	11	k7t	17	op1
 3	से	se	PSP	2	lwg__psp	-	-
-4	दोपहर	xopahara	NN	11	k7t	15	end
+4	दोपहर	xopahara	NN	11	k7t	17	op1
 5	तक	waka	PSP	4	lwg__psp	-	-
 6	या	yA	CC	11	k7t	-	-
-7	शाम	SAma	NN	11	k7t	16	start
+7	शाम	SAma	NN	11	k7t	17	op1
 8	से	se	PSP	7	lwg__psp	-	-
-9	रात	rAwa	NN	11	k7t	16	end
+9	रात	rAwa	NN	11	k7t	17	op1
 10	तक	waka	PSP	9	lwg__psp	-	-
 11	पढ़ा	paDZA	VM	0	main	-	-
 12	था	WA	VAUX	11	lwg__vaux	-	-
