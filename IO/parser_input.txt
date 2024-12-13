@@ -3,72 +3,65 @@
       {
             "parser_output": [
                 {
-                    "dependency_relation": "r6",
-                    "head_index": "2",
-                    "index": 1,
-                    "original_word": "हमारा",
-                    "pos_tag": "PRP"
-                },
-                {
                     "dependency_relation": "k1",
-                    "head_index": "8",
-                    "index": 2,
-                    "original_word": "देश",
-                    "pos_tag": "NN"
+                    "head_index": "7",
+                    "index": 1,
+                    "original_word": "राम",
+                    "pos_tag": "NNP"
                 },
                 {
-                    "dependency_relation": "pof__cn",
+                    "dependency_relation": "r6",
                     "head_index": "5",
+                    "index": 2,
+                    "original_word": "दिल्ली",
+                    "pos_tag": "NNP"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
                     "index": 3,
-                    "original_word": "15",
-                    "pos_tag": "NNPC"
+                    "original_word": "के",
+                    "pos_tag": "PSP"
                 },
                 {
                     "dependency_relation": "pof__cn",
                     "head_index": "5",
                     "index": 4,
-                    "original_word": "अगस्त",
+                    "original_word": "कुतुब",
                     "pos_tag": "NNPC"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "8",
+                    "dependency_relation": "k7p",
+                    "head_index": "7",
                     "index": 5,
-                    "original_word": "1947",
+                    "original_word": "मीनार",
                     "pos_tag": "NNP"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "5",
                     "index": 6,
-                    "original_word": "में",
+                    "original_word": "पर",
                     "pos_tag": "PSP"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "आज़ाद",
-                    "pos_tag": "JJ"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 8,
-                    "original_word": "हुआ",
+                    "index": 7,
+                    "original_word": "चढ़ा",
                     "pos_tag": "VM"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "8",
-                    "index": 9,
+                    "head_index": "7",
+                    "index": 8,
                     "original_word": "।",
                     "pos_tag": "SYM"
                 }
             ],
             "project_id": 1,
-            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
-            "sentence_id": 13
+            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
+            "sentence_id": 21
         }
     ]
 }

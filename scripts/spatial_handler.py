@@ -27,13 +27,28 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                             spatial_index = len(parser_output) + len(new_entries) + 1
                             new_entry = {
                                 'index': spatial_index,
-                                'original_word': f'[SPATIAL_{spatial_count}]',
-                                'wx_word': f'[SPATIAL_{spatial_count}]'
+                                'original_word': f'[spatial_{spatial_count}]',
+                                'wx_word': f'[spatial_{spatial_count}]'
                             }
                             new_entries.append(new_entry)
 
-                            update_cnx_value(item, spatial_index, f'whole')
-                            update_cnx_value(next_item, spatial_index, f'part')
+                            if item.get('cnx_component') is not None:
+                                already_index = item.get('cnx_index')
+                                for entry in new_entries:
+                                    if int(entry.get('index', -1)) == int(already_index):
+                                        update_cnx_value(entry, spatial_index, f'whole')
+                            else:
+                                update_cnx_value(item, spatial_index, f'whole')
+                               
+
+                            if next_item.get('cnx_component') is not None:
+                                already_index = next_item.get('cnx_index')
+                                for entry in new_entries:
+                                    if int(entry.get('index', -1)) == int(already_index):
+                                        update_cnx_value(entry, spatial_index, f'part')
+                            else:
+                                update_cnx_value(next_item, spatial_index, f'part')
+
                             spatial_count += 1
                             break
                     break
@@ -61,13 +76,29 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                             spatial_index = len(parser_output) + len(new_entries) + 1
                             new_entry = {
                                 'index': spatial_index,
-                                'original_word': f'[SPATIAL_{spatial_count}]',
-                                'wx_word': f'[SPATIAL_{spatial_count}]'
+                                'original_word': f'[spatial_{spatial_count}]',
+                                'wx_word': f'[spatial_{spatial_count}]'
                             }
                             new_entries.append(new_entry)
 
-                            update_cnx_value(item, spatial_index, f'whole')
-                            update_cnx_value(k7p_item, spatial_index, f'part')
+                            if item.get('cnx_component') is not None:
+                                already_index = item.get('cnx_index')
+                                for entry in new_entries:
+                                    if int(entry.get('index', -1)) == int(already_index):
+                                        update_cnx_value(entry, spatial_index, f'whole')
+                            else:
+                                update_cnx_value(item, spatial_index, f'whole')
+                               
+
+                            if next_item.get('cnx_component') is not None:
+                                already_index = next_item.get('cnx_index')
+                                for entry in new_entries:
+                                    if int(entry.get('index', -1)) == int(already_index):
+                                        update_cnx_value(entry, spatial_index, f'part')
+                            else:
+                                update_cnx_value(next_item, spatial_index, f'part')
+
+                                
                             spatial_count += 1
                             break
 

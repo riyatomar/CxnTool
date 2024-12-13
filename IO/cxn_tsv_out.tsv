@@ -1,14 +1,14 @@
-<sentence_id=13>
-1	हमारा	hamArA	PRP	2	r6	-	-
-2	देश	xeSa	NN	8	k1	-	-
-3	15	15	NNPC	5	pof__cn	11	component_of
-4	अगस्त	agaswa	NNPC	5	pof__cn	11	component_of
-5	1947	1947	NNP	8	k7t	11	component_of
-6	में	meM	PSP	5	lwg__psp	-	-
-7	आज़ाद	AjZAxa	JJ	8	pof	10	kriyAmUla
-8	हुआ	huA	VM	0	main	10	verbalizer_B
-9	।	.	SYM	8	rsym	-	-
-10	[cp_1]	[cp_1]	-	-	-	-	-
-11	[calendar_1]	[calendar_1]	-	-	-	-	-
+<sentence_id=21>
+1	राम	rAma	NNP	7	k1	9	begin
+2	दिल्ली	xillI	NNP	5	r6	10	begin
+3	के	ke	PSP	2	lwg__psp	-	-
+4	कुतुब	kuwuba	NNPC	5	pof__cn	11	begin
+5	मीनार	mInAra	NNP	7	k7p	11	inside
+6	पर	para	PSP	5	lwg__psp	-	-
+7	चढ़ा	caDZA	VM	0	main	-	-
+8	।	.	SYM	7	rsym	-	-
+9	[ne_1]	per_1	-	-	-	-	-
+10	[ne_2]	loc_1	-	-	-	-	-
+11	[ne_3]	loc_2	-	-	-	-	-
 </sentence_id>
 

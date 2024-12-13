@@ -1,38 +1,34 @@
 {
     "data": [
-     {
+    {
             "annotation": [
                 {
-                    "annotation": "O",
-                    "word": "हमारा"
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "दिल्ली"
                 },
                 {
                     "annotation": "O",
-                    "word": "देश"
+                    "word": "के"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "कुतुब"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "मीनार"
                 },
                 {
                     "annotation": "O",
-                    "word": "15"
+                    "word": "पर"
                 },
                 {
                     "annotation": "O",
-                    "word": "अगस्त"
-                },
-                {
-                    "annotation": "O",
-                    "word": "1947"
-                },
-                {
-                    "annotation": "O",
-                    "word": "में"
-                },
-                {
-                    "annotation": "O",
-                    "word": "आज़ाद"
-                },
-                {
-                    "annotation": "O",
-                    "word": "हुआ"
+                    "word": "चढ़ा"
                 },
                 {
                     "annotation": "O",
@@ -40,8 +36,8 @@
                 }
             ],
             "project_id": 1,
-            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
-            "sentence_id": 13
+            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
+            "sentence_id": 21
         }
     ],
     "response_for": "USR"

@@ -3,101 +3,96 @@
         {
             "parser_output": [
                 {
-                    "dependency_relation": "r6",
-                    "head_index": "2",
-                    "index": 1,
-                    "original_word": "हमारा",
-                    "pos_tag": "PRP",
-                    "wx_word": "hamArA"
-                },
-                {
                     "dependency_relation": "k1",
-                    "head_index": "8",
-                    "index": 2,
-                    "original_word": "देश",
-                    "pos_tag": "NN",
-                    "wx_word": "xeSa"
+                    "head_index": "7",
+                    "index": 1,
+                    "original_word": "राम",
+                    "pos_tag": "NNP",
+                    "wx_word": "rAma",
+                    "cnx_index": 9,
+                    "cnx_component": "begin"
                 },
                 {
-                    "dependency_relation": "pof__cn",
+                    "dependency_relation": "r6",
                     "head_index": "5",
+                    "index": 2,
+                    "original_word": "दिल्ली",
+                    "pos_tag": "NNP",
+                    "wx_word": "xillI",
+                    "cnx_index": 10,
+                    "cnx_component": "begin"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
                     "index": 3,
-                    "original_word": "15",
-                    "pos_tag": "NNPC",
-                    "wx_word": "15",
-                    "cnx_index": 11,
-                    "cnx_component": "component_of"
+                    "original_word": "के",
+                    "pos_tag": "PSP",
+                    "wx_word": "ke"
                 },
                 {
                     "dependency_relation": "pof__cn",
                     "head_index": "5",
                     "index": 4,
-                    "original_word": "अगस्त",
+                    "original_word": "कुतुब",
                     "pos_tag": "NNPC",
-                    "wx_word": "agaswa",
+                    "wx_word": "kuwuba",
                     "cnx_index": 11,
-                    "cnx_component": "component_of"
+                    "cnx_component": "begin"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "8",
+                    "dependency_relation": "k7p",
+                    "head_index": "7",
                     "index": 5,
-                    "original_word": "1947",
+                    "original_word": "मीनार",
                     "pos_tag": "NNP",
-                    "wx_word": "1947",
+                    "wx_word": "mInAra",
                     "cnx_index": 11,
-                    "cnx_component": "component_of"
+                    "cnx_component": "inside"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "5",
                     "index": 6,
-                    "original_word": "में",
+                    "original_word": "पर",
                     "pos_tag": "PSP",
-                    "wx_word": "meM"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "आज़ाद",
-                    "pos_tag": "JJ",
-                    "wx_word": "AjZAxa",
-                    "cnx_index": 10,
-                    "cnx_component": "kriyAmUla"
+                    "wx_word": "para"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 8,
-                    "original_word": "हुआ",
+                    "index": 7,
+                    "original_word": "चढ़ा",
                     "pos_tag": "VM",
-                    "wx_word": "huA",
-                    "cnx_index": 10,
-                    "cnx_component": "verbalizer_B"
+                    "wx_word": "caDZA"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "8",
-                    "index": 9,
+                    "head_index": "7",
+                    "index": 8,
                     "original_word": "।",
                     "pos_tag": "SYM",
                     "wx_word": "."
                 },
                 {
+                    "index": 9,
+                    "original_word": "[ne_1]",
+                    "wx_word": "per_1"
+                },
+                {
                     "index": 10,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]"
+                    "original_word": "[ne_2]",
+                    "wx_word": "loc_1"
                 },
                 {
                     "index": 11,
-                    "original_word": "[calendar_1]",
-                    "wx_word": "[calendar_1]"
+                    "original_word": "[ne_3]",
+                    "wx_word": "loc_2"
                 }
             ],
             "project_id": 1,
-            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
-            "sentence_id": 13
+            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
+            "sentence_id": 21
         }
     ]
 }
