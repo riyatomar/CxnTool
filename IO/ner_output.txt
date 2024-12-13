@@ -15,11 +15,11 @@
                     "word": "के"
                 },
                 {
-                    "annotation": "B-LOC",
+                    "annotation": "O",
                     "word": "कुतुब"
                 },
                 {
-                    "annotation": "I-LOC",
+                    "annotation": "O",
                     "word": "मीनार"
                 },
                 {

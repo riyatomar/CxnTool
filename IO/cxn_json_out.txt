@@ -36,9 +36,7 @@
                     "index": 4,
                     "original_word": "कुतुब",
                     "pos_tag": "NNPC",
-                    "wx_word": "kuwuba",
-                    "cnx_index": 11,
-                    "cnx_component": "begin"
+                    "wx_word": "kuwuba"
                 },
                 {
                     "dependency_relation": "k7p",
@@ -48,7 +46,7 @@
                     "pos_tag": "NNP",
                     "wx_word": "mInAra",
                     "cnx_index": 11,
-                    "cnx_component": "inside"
+                    "cnx_component": "part"
                 },
                 {
                     "dependency_relation": "lwg__psp",
@@ -82,12 +80,14 @@
                 {
                     "index": 10,
                     "original_word": "[ne_2]",
-                    "wx_word": "loc_1"
+                    "wx_word": "loc_1",
+                    "cnx_index": 11,
+                    "cnx_component": "whole"
                 },
                 {
                     "index": 11,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_2"
+                    "original_word": "[spatial_1]",
+                    "wx_word": "[spatial_1]"
                 }
             ],
             "project_id": 1,

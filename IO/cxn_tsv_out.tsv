@@ -2,13 +2,13 @@
 1	राम	rAma	NNP	7	k1	9	begin
 2	दिल्ली	xillI	NNP	5	r6	10	begin
 3	के	ke	PSP	2	lwg__psp	-	-
-4	कुतुब	kuwuba	NNPC	5	pof__cn	11	begin
-5	मीनार	mInAra	NNP	7	k7p	11	inside
+4	कुतुब	kuwuba	NNPC	5	pof__cn	-	-
+5	मीनार	mInAra	NNP	7	k7p	11	part
 6	पर	para	PSP	5	lwg__psp	-	-
 7	चढ़ा	caDZA	VM	0	main	-	-
 8	।	.	SYM	7	rsym	-	-
 9	[ne_1]	per_1	-	-	-	-	-
-10	[ne_2]	loc_1	-	-	-	-	-
-11	[ne_3]	loc_2	-	-	-	-	-
+10	[ne_2]	loc_1	-	-	-	11	whole
+11	[spatial_1]	[spatial_1]	-	-	-	-	-
 </sentence_id>
 
