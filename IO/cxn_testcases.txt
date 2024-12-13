@@ -1,0 +1,139 @@
+{
+  "sentences": [
+    {
+      "project_id": 1,
+      "sentence_id": 1,
+      "sentence": "मोहन लाल बाजार गया था ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 2,
+      "sentence": "मैं सुबह से रात तक पढ़ूंगा ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 3,
+      "sentence": "राम और मोहन कल स्कूल जायेंगे ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 4,
+      "sentence": "सीता फल या सब्जी ले आएगी ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 5,
+      "sentence": "अयोध्या के राजा राम हैं ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 6,
+      "sentence": "संयुक्त राष्ट्र संघ ने रूस को शांति स्थापित करने का आदेश दिया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 7,
+      "sentence": "राम , श्याम और मोहन दिल्ली जाएंगे ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 8,
+      "sentence": "नासा ने मंगल ग्रह पर यान भेजा ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 9,
+      "sentence": "यह मानव प्रकृति संबंध की गुणवत्ता के निहितार्थ का अध्ययन करता है ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 10,
+      "sentence": "राम ने 10 किलो से लेकर 20 किलो तक वजन उठाया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 11,
+      "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 मंजिलें चढ़ा ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 12,
+      "sentence": "महामारी के कारण बहुत लोगो की अकाल मृत्यु हुई है ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 13,
+      "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 14,
+      "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 सीढ़ियाँ चढ़ा ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 15,
+      "sentence": "राम मोहन को रेलवे स्टेशन छोड़ने गया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 16,
+      "sentence": "राम ने अपने गुरु को देख कर उन्हें प्रणाम किया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 17,
+      "sentence": "मोहन ने 10 किलो चावल खरीदे ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 18,
+      "sentence": "15 अगस्त 1947 को हमारा देश आजाद हुआ था ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 19,
+      "sentence": "मेरा जन्मदिन 21 अगस्त को है ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 20,
+      "sentence": "राम दिल्ली में कुतुब मीनार पर चढ़ा ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 21,
+      "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 22,
+      "sentence": "रोज़ 4 लीटर पानी पीना चाहिए ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 23,
+      "sentence": "राम 5 किलो आलू लाया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 24,
+      "sentence": "राम और मोहन लाल भारत सेवाश्रम में सुबह से शाम तक नाचते हूये माता देवी का भजन किया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 25,
+      "sentence": "यह प्रकृति संबंध और मानव प्रकृति संबंध की गुणवत्ता और इसके मानवीय कल्याण के निहितार्थ का अध्ययन करता है ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 26,
+      "sentence": "राम जनवरी से मार्च तक घर गया ।"
+    },
+    {
+      "project_id": 1,
+      "sentence_id": 27,
+      "sentence": "मोहन सुबह से दोपहर तक या शाम से रात तक पढ़ा था ।"
+    }
+  ]
+}

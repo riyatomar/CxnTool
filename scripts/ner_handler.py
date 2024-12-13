@@ -33,8 +33,8 @@ def handle_ner_annotations(ner_output, parser_output, ne_count, new_entries):
 
             new_entries.append({
                 'index': ne_index,
-                'original_word': f'[NE_{ne_count}]',
-                'wx_word': wx_word,
+                'original_word': f'[ne_{ne_count}]',
+                'wx_word': wx_word.lower(),
             })
         
         elif annotation.startswith("I-"):
@@ -55,8 +55,8 @@ def handle_ner_annotations(ner_output, parser_output, ne_count, new_entries):
 
                 new_entries.append({
                     'index': ne_index,
-                    'original_word': f'[NE_{ne_count}]',
-                    'wx_word': wx_word,
+                    'original_word': f'[ne_{ne_count}]',
+                    'wx_word': wx_word.lower(),
                 })
             else:
                 # Handle if there is no valid sequence or a break
@@ -68,3 +68,4 @@ def handle_ner_annotations(ner_output, parser_output, ne_count, new_entries):
             current_entity_type = None
 
     return parser_output, ne_count, new_entries
+

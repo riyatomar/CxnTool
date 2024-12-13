@@ -17,8 +17,9 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
             for target_item in parser_output:
                 if int(target_item.get('head_index', -1)) == head_index and target_item.get('dependency_relation', '') == dep_rel and target_item.get('pos_tag') != 'CC':
                     cnx_index = len(parser_output) + len(new_entries) + 1
+                    # print(cnx_index)
                     update_cnx_value(target_item, cnx_index, f'op{op_count}')
-                    
+
                     if isinstance(target_item['cnx_index'], list) and len(target_item['cnx_index']) > 1:
                         cxn_value1_index = target_item['cnx_index'][0]
                         cxn_value1_component = target_item['cnx_component'][0]
@@ -39,7 +40,8 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
                     
                     matching_items.append(target_item)
                     op_count += 1
-
+            
+            # print(matching)
             if matching_items and original_word in CONJ_LIST:
                 conj_entry = {
                     'index': cnx_index,

@@ -23,18 +23,19 @@ def modify_json_data(json_data, ner_data):
 
         # Preprocess the parser_output
         for item in parser_output:
+            # print(item)
             original_word = item.get('original_word', '')
             item['wx_word'] = devanagari_to_wx(original_word)
 
         # Process annotations and relations
         parser_output, ne_count, new_entries = handle_ner_annotations(ner_data, parser_output, ne_count, new_entries)
         nc_count, ne_count = handle_mod_and_head(parser_output, new_entries, nc_count, ne_count)
-        cp_count = handle_pof_rvks_rbk(parser_output, new_entries, cp_count)
-        meas_count = handle_measurement_units(parser_output, new_entries, meas_count, MEAS_UNITS)
-        calendaric_count = handle_calendaric_units(parser_output, new_entries, calendaric_count, CALENDARIC_UNITS)
-        spatial_count = handle_spatial_relations(parser_output, new_entries, spatial_count)
-        span_count = handle_spans(parser_output, new_entries, span_count)
-        conj_count, disjunct_count = handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count, CONJ_LIST, DISJUNCT_LIST)
+        # cp_count = handle_pof_rvks_rbk(parser_output, new_entries, cp_count)
+        # meas_count = handle_measurement_units(parser_output, new_entries, meas_count, MEAS_UNITS)
+        # calendaric_count = handle_calendaric_units(parser_output, new_entries, calendaric_count, CALENDARIC_UNITS)
+        # spatial_count = handle_spatial_relations(parser_output, new_entries, spatial_count)
+        # span_count = handle_spans(parser_output, new_entries, span_count)
+        # conj_count, disjunct_count = handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count, CONJ_LIST, DISJUNCT_LIST)
 
         # Append the new entries to the parser output
         parser_output.extend(new_entries)
