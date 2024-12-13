@@ -1,78 +1,54 @@
 from scripts.file_utils import update_cnx_value
 
 def handle_mod_and_head(parser_output, new_entries, nc_count, ne_count):
-    def is_wx_word_present(word, entries):
+    def is_wx_word_present(word, entries_set):
         """Check if a wx_word is already present in new_entries."""
-        return any(entry.get('original_word') == word for entry in entries)
+        return word in entries_set
+
+    # Cache existing words for fast lookup
+    existing_words = {entry['original_word'] for entry in new_entries}
 
     for i, item in enumerate(parser_output):
         if item.get('dependency_relation') == 'pof__cn' and item.get('pos_tag') in ['NNC', 'NNPC']:
+            # Skip if already has cnx_index
             if 'cnx_index' in item and item['cnx_index']:
                 continue
-             
+
             nc_index = len(parser_output) + len(new_entries) + 1
+            prefix = 'nc' if item.get('pos_tag') == 'NNC' else 'ne'
+            current_count = nc_count if prefix == 'nc' else ne_count
 
-            # Determine the prefix, counter, and cnx_value structure based on the pos_tag
-            if item.get('pos_tag') == 'NNC':
-                prefix = 'NC'
-                current_count = nc_count
-                while is_wx_word_present(f'[{prefix}_{current_count}]', new_entries):
-                    current_count += 1  # Ensure uniqueness
+            # Ensure unique naming
+            while is_wx_word_present(f'[{prefix}_{current_count}]', existing_words):
+                current_count += 1
+
+            # Increment counts for the next item
+            if prefix == 'nc':
                 nc_count = current_count + 1
-                update_cnx_value(item, nc_index, f'mod')
-            elif item.get('pos_tag') == 'NNPC':
-                prefix = 'NE'
-                current_count = ne_count
-                while is_wx_word_present(f'[{prefix}_{current_count}]', new_entries):
-                    current_count += 1  # Ensure uniqueness
+            else:
                 ne_count = current_count + 1
-                update_cnx_value(item, nc_index, f'begin')
 
-            if isinstance(item['cnx_index'], list):
-                item['cnx_index'] = item['cnx_index'][0]
-                item['cnx_component'] = item['cnx_component'][0]
+            update_cnx_value(item, nc_index, 'mod' if prefix == 'nc' else 'begin')
 
-            # Create a new entry with appropriate `wx_word`
+            # Add new entry for the current `pof__cn`
             new_nc_entry = {
                 'index': nc_index,
                 'original_word': f'[{prefix}_{current_count}]',
                 'wx_word': f'[{prefix}_{current_count}]',
             }
             new_entries.append(new_nc_entry)
+            existing_words.add(new_nc_entry['original_word'])
 
-            # Adjust `cnx_value` for the next item in sequence if it matches criteria
-            if i + 1 < len(parser_output):
-                next_item = parser_output[i + 1]
-                if next_item.get('dependency_relation') == 'pof__cn':
-                    if item.get('pos_tag') == 'NNC':
-                        next_item['cnx_index'] = nc_index
-                        next_item['cnx_component'] = 'head'
-                    elif item.get('pos_tag') == 'NNPC':
-                        next_item['cnx_index'] = nc_index
-                        next_item['cnx_component'] = 'inside'
-
-                    # first_cnx_value = next_item.get('cnx_value')
-                    first_cnx_index = next_item.get('cnx_index')
-                    first_cnx_component = next_item.get('cnx_component')
-
-                    # second_cnx_value = f'{nc_index + 1}:mod' if item.get('pos_tag') == 'NNC' else f'{nc_index + 1}:B'
-                    second_cnx_index = f'{nc_index + 1}' if item.get('pos_tag') == 'NNC' else f'{nc_index + 1}'
-                    second_cnx_component = 'mod' if item.get('pos_tag') == 'NNC' else 'begin'
-
-                    next_item['cnx_index'] = first_cnx_index
-                    next_item['cnx_component'] = first_cnx_component
-                    new_nc_entry['cnx_index'] = second_cnx_index
-                    new_nc_entry['cnx_component'] = second_cnx_component
-
-            # Update the `cnx_value` of the target item's head if applicable
+            # Update relationships for this item
             head_index = int(item.get('head_index', -1))
+            # print(head_index)
             for target_item in parser_output:
                 if int(target_item.get('index', -1)) == head_index:
-                    if item.get('pos_tag') == 'NNC':
-                        target_item['cnx_index'] = nc_index
-                        target_item['cnx_component'] = 'head'
-                    elif item.get('pos_tag') == 'NNPC':
-                        target_item['cnx_index'] = nc_index
-                        target_item['cnx_component'] = 'inside'
+                    print(target_item.get('cnx_index'), target_item.get('cnx_component'))
+                    target_item['cnx_index'] = nc_index
+                    target_item['cnx_component'] = 'head' if prefix == 'nc' else 'inside'
 
     return nc_count, ne_count
+
+
+# add "(target_item.get('cnx_index'), target_item.get('cnx_component'))" in the cnx_index and cnx_component of previous new_nc_entry
