@@ -1,10 +1,10 @@
 from scripts.file_utils import update_cnx_value
 import re 
 
-def handle_measurement_units(parser_output, new_entries, meas_count, MEAS_UNITS):
+def handle_measurement_units(parser_output, new_entries, meas_count, meas_UNITS):
     for i, item in enumerate(parser_output):
         wx_word = item.get('wx_word', '').strip()
-        if any(unit in wx_word for unit in MEAS_UNITS):
+        if any(unit in wx_word for unit in meas_UNITS):
             if i > 0:
                 prev_item = parser_output[i - 1]
                 prev_word = prev_item.get('wx_word', '')
@@ -16,8 +16,8 @@ def handle_measurement_units(parser_output, new_entries, meas_count, MEAS_UNITS)
                     
                     meas_entry = {
                         'index': meas_index,
-                        'original_word': f'[MEAS_{meas_count}]',
-                        'wx_word': f'[MEAS_{meas_count}]'
+                        'original_word': f'[meas_{meas_count}]',
+                        'wx_word': f'[meas_{meas_count}]'
                     }
                     new_entries.append(meas_entry)
                     meas_count += 1

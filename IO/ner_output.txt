@@ -1,30 +1,26 @@
 {
     "data": [
-       {
+     {
             "annotation": [
                 {
-                    "annotation": "B-PER",
-                    "word": "राम"
+                    "annotation": "O",
+                    "word": "हमारा"
                 },
                 {
                     "annotation": "O",
-                    "word": "और"
+                    "word": "देश"
                 },
                 {
-                    "annotation": "B-PER",
-                    "word": "मोहन"
+                    "annotation": "O",
+                    "word": "15"
                 },
                 {
-                    "annotation": "I-PER",
-                    "word": "लाल"
+                    "annotation": "O",
+                    "word": "अगस्त"
                 },
                 {
-                    "annotation": "B-LOC",
-                    "word": "भारत"
-                },
-                {
-                    "annotation": "I-LOC",
-                    "word": "सेवाश्रम"
+                    "annotation": "O",
+                    "word": "1947"
                 },
                 {
                     "annotation": "O",
@@ -32,47 +28,11 @@
                 },
                 {
                     "annotation": "O",
-                    "word": "सुबह"
+                    "word": "आज़ाद"
                 },
                 {
                     "annotation": "O",
-                    "word": "से"
-                },
-                {
-                    "annotation": "O",
-                    "word": "शाम"
-                },
-                {
-                    "annotation": "O",
-                    "word": "तक"
-                },
-                {
-                    "annotation": "O",
-                    "word": "नाचते"
-                },
-                {
-                    "annotation": "O",
-                    "word": "हुए"
-                },
-                {
-                    "annotation": "B-PER",
-                    "word": "माता"
-                },
-                {
-                    "annotation": "I-PER",
-                    "word": "देवी"
-                },
-                {
-                    "annotation": "O",
-                    "word": "का"
-                },
-                {
-                    "annotation": "O",
-                    "word": "भजन"
-                },
-                {
-                    "annotation": "O",
-                    "word": "किया"
+                    "word": "हुआ"
                 },
                 {
                     "annotation": "O",
@@ -80,8 +40,8 @@
                 }
             ],
             "project_id": 1,
-            "sentence": "राम और मोहन लाल भारत सेवाश्रम में सुबह से शाम तक नाचते हुए माता देवी का भजन किया ।",
-            "sentence_id": 24
+            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
+            "sentence_id": 13
         }
     ],
     "response_for": "USR"

@@ -1,28 +1,14 @@
-<sentence_id=24>
-1	राम	rAma	NNP	12	k1	20	begin
-2	और	Ora	CC	12	k1	-	-
-3	मोहन	mohana	NNPC	4	pof__cn	21	begin
-4	लाल	lAla	NNP	12	k1	21	inside
-5	भारत	BArawa	NNPC	6	pof__cn	22	begin
-6	सेवाश्रम	sevASrama	NNP	12	k7p	22	inside
-7	में	meM	PSP	6	lwg__psp	-	-
-8	सुबह	subaha	NN	12	k7t	-	-
-9	से	se	PSP	8	lwg__psp	-	-
-10	शाम	SAma	NN	12	k7t	-	-
-11	तक	waka	PSP	10	lwg__psp	-	-
-12	नाचते	nAcawe	VM	13	pof	24	kriyAmUla
-13	हुए	hue	VAUX	12	lwg__vaux	24	verbalizer_B
-14	माता	mAwA	NNPC	15	pof__cn	23	begin
-15	देवी	xevI	NNP	17	k2	23	inside
-16	का	kA	PSP	15	lwg__psp	-	-
-17	भजन	Bajana	NN	18	pof	25	kriyAmUla
-18	किया	kiyA	VM	0	main	25	verbalizer_B
-19	।	.	SYM	18	rsym	-	-
-20	[ne_1]	per_1	-	-	-	-	-
-21	[ne_2]	per_2	-	-	-	-	-
-22	[ne_3]	loc_1	-	-	-	-	-
-23	[ne_4]	per_3	-	-	-	-	-
-24	[cp_1]	[cp_1]	-	-	-	-	-
-25	[cp_2]	[cp_2]	-	-	-	-	-
+<sentence_id=13>
+1	हमारा	hamArA	PRP	2	r6	-	-
+2	देश	xeSa	NN	8	k1	-	-
+3	15	15	NNPC	5	pof__cn	11	component_of
+4	अगस्त	agaswa	NNPC	5	pof__cn	11	component_of
+5	1947	1947	NNP	8	k7t	11	component_of
+6	में	meM	PSP	5	lwg__psp	-	-
+7	आज़ाद	AjZAxa	JJ	8	pof	10	kriyAmUla
+8	हुआ	huA	VM	0	main	10	verbalizer_B
+9	।	.	SYM	8	rsym	-	-
+10	[cp_1]	[cp_1]	-	-	-	-	-
+11	[calendar_1]	[calendar_1]	-	-	-	-	-
 </sentence_id>
 

@@ -3,213 +3,101 @@
         {
             "parser_output": [
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "12",
+                    "dependency_relation": "r6",
+                    "head_index": "2",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 20,
-                    "cnx_component": "begin"
+                    "original_word": "हमारा",
+                    "pos_tag": "PRP",
+                    "wx_word": "hamArA"
                 },
                 {
                     "dependency_relation": "k1",
-                    "head_index": "12",
+                    "head_index": "8",
                     "index": 2,
-                    "original_word": "और",
-                    "pos_tag": "CC",
-                    "wx_word": "Ora"
+                    "original_word": "देश",
+                    "pos_tag": "NN",
+                    "wx_word": "xeSa"
                 },
                 {
                     "dependency_relation": "pof__cn",
-                    "head_index": "4",
+                    "head_index": "5",
                     "index": 3,
-                    "original_word": "मोहन",
+                    "original_word": "15",
                     "pos_tag": "NNPC",
-                    "wx_word": "mohana",
-                    "cnx_index": 21,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "12",
-                    "index": 4,
-                    "original_word": "लाल",
-                    "pos_tag": "NNP",
-                    "wx_word": "lAla",
-                    "cnx_index": 21,
-                    "cnx_component": "inside"
+                    "wx_word": "15",
+                    "cnx_index": 11,
+                    "cnx_component": "component_of"
                 },
                 {
                     "dependency_relation": "pof__cn",
-                    "head_index": "6",
-                    "index": 5,
-                    "original_word": "भारत",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "अगस्त",
                     "pos_tag": "NNPC",
-                    "wx_word": "BArawa",
-                    "cnx_index": 22,
-                    "cnx_component": "begin"
+                    "wx_word": "agaswa",
+                    "cnx_index": 11,
+                    "cnx_component": "component_of"
                 },
                 {
-                    "dependency_relation": "k7p",
-                    "head_index": "12",
-                    "index": 6,
-                    "original_word": "सेवाश्रम",
+                    "dependency_relation": "k7t",
+                    "head_index": "8",
+                    "index": 5,
+                    "original_word": "1947",
                     "pos_tag": "NNP",
-                    "wx_word": "sevASrama",
-                    "cnx_index": 22,
-                    "cnx_component": "inside"
+                    "wx_word": "1947",
+                    "cnx_index": 11,
+                    "cnx_component": "component_of"
                 },
                 {
                     "dependency_relation": "lwg__psp",
-                    "head_index": "6",
-                    "index": 7,
+                    "head_index": "5",
+                    "index": 6,
                     "original_word": "में",
                     "pos_tag": "PSP",
                     "wx_word": "meM"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "12",
-                    "index": 8,
-                    "original_word": "सुबह",
-                    "pos_tag": "NN",
-                    "wx_word": "subaha"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
+                    "dependency_relation": "pof",
                     "head_index": "8",
-                    "index": 9,
-                    "original_word": "से",
-                    "pos_tag": "PSP",
-                    "wx_word": "se"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "12",
-                    "index": 10,
-                    "original_word": "शाम",
-                    "pos_tag": "NN",
-                    "wx_word": "SAma"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "10",
-                    "index": 11,
-                    "original_word": "तक",
-                    "pos_tag": "PSP",
-                    "wx_word": "waka"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "13",
-                    "index": 12,
-                    "original_word": "नाचते",
-                    "pos_tag": "VM",
-                    "wx_word": "nAcawe",
-                    "cnx_index": 24,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "12",
-                    "index": 13,
-                    "original_word": "हुए",
-                    "pos_tag": "VAUX",
-                    "wx_word": "hue",
-                    "cnx_index": 24,
-                    "cnx_component": "verbalizer_B"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "15",
-                    "index": 14,
-                    "original_word": "माता",
-                    "pos_tag": "NNPC",
-                    "wx_word": "mAwA",
-                    "cnx_index": 23,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "17",
-                    "index": 15,
-                    "original_word": "देवी",
-                    "pos_tag": "NNP",
-                    "wx_word": "xevI",
-                    "cnx_index": 23,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "15",
-                    "index": 16,
-                    "original_word": "का",
-                    "pos_tag": "PSP",
-                    "wx_word": "kA"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "18",
-                    "index": 17,
-                    "original_word": "भजन",
-                    "pos_tag": "NN",
-                    "wx_word": "Bajana",
-                    "cnx_index": 25,
+                    "index": 7,
+                    "original_word": "आज़ाद",
+                    "pos_tag": "JJ",
+                    "wx_word": "AjZAxa",
+                    "cnx_index": 10,
                     "cnx_component": "kriyAmUla"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 18,
-                    "original_word": "किया",
+                    "index": 8,
+                    "original_word": "हुआ",
                     "pos_tag": "VM",
-                    "wx_word": "kiyA",
-                    "cnx_index": 25,
+                    "wx_word": "huA",
+                    "cnx_index": 10,
                     "cnx_component": "verbalizer_B"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "18",
-                    "index": 19,
+                    "head_index": "8",
+                    "index": 9,
                     "original_word": "।",
                     "pos_tag": "SYM",
                     "wx_word": "."
                 },
                 {
-                    "index": 20,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
-                },
-                {
-                    "index": 21,
-                    "original_word": "[ne_2]",
-                    "wx_word": "per_2"
-                },
-                {
-                    "index": 22,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_1"
-                },
-                {
-                    "index": 23,
-                    "original_word": "[ne_4]",
-                    "wx_word": "per_3"
-                },
-                {
-                    "index": 24,
+                    "index": 10,
                     "original_word": "[cp_1]",
                     "wx_word": "[cp_1]"
                 },
                 {
-                    "index": 25,
-                    "original_word": "[cp_2]",
-                    "wx_word": "[cp_2]"
+                    "index": 11,
+                    "original_word": "[calendar_1]",
+                    "wx_word": "[calendar_1]"
                 }
             ],
             "project_id": 1,
-            "sentence": "राम और मोहन लाल भारत सेवाश्रम में सुबह से शाम तक नाचते हुए माता देवी का भजन किया ।",
-            "sentence_id": 24
+            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
+            "sentence_id": 13
         }
     ]
 }
