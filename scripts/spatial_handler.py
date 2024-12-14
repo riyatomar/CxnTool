@@ -53,62 +53,7 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                             break
                     break
 
-    # # New Rule: Handling 'r6' relation with 'k7p' and 'main'
-    # for item in parser_output:
-    #     if i + 1 < len(parser_output):
-    #         next_item = parser_output[i + 1]
-    #         print(next_item)
-    #     if item.get('pos_tag') in ['NN', 'NNP'] and item.get('dependency_relation') == 'r6' and  next_item.get('pos_tag') == 'PSP':
-    #         head_index = int(item.get('head_index', -1))
-    #         print('True')
-
-    #         # Find the word with index equal to this head_index and 'k7p' relation
-    #         for k7p_item in parser_output:
-    #             if (
-    #                 int(k7p_item.get('index', -1)) == head_index and
-    #                 k7p_item.get('dependency_relation') == 'k7p'
-    #             ):
-    #                 # Check if the 'k7p' head_index points to 'main'
-    #                 main_head_index = int(k7p_item.get('head_index', -1))
-    #                 for main_item in parser_output:
-    #                     if (
-    #                         int(main_item.get('index', -1)) == main_head_index and
-    #                         main_item.get('dependency_relation') == 'main'
-    #                     ):
-    #                         spatial_index = len(parser_output) + len(new_entries) + 1
-    #                         new_entry = {
-    #                             'index': spatial_index,
-    #                             'original_word': f'[spatial_{spatial_count}]',
-    #                             'wx_word': f'[spatial_{spatial_count}]'
-    #                         }
-    #                         new_entries.append(new_entry)
-
-    #                         if item.get('cnx_component') is not None:
-    #                             print(item.get('wx_word'))
-    #                             already_index = item.get('cnx_index')
-    #                             for entry in new_entries:
-    #                                 if int(entry.get('index', -1)) == int(already_index):
-    #                                     update_cnx_value(entry, spatial_index, f'whole')
-    #                         else:
-    #                             update_cnx_value(item, spatial_index, f'whole')
-                               
-
-    #                         if next_item.get('cnx_component') is not None:
-    #                             already_index = next_item.get('cnx_index')
-    #                             for entry in new_entries:
-    #                                 if int(entry.get('index', -1)) == int(already_index):
-    #                                     update_cnx_value(entry, spatial_index, f'part')
-    #                         else:
-    #                             update_cnx_value(next_item, spatial_index, f'part')
-
-                                
-    #                         spatial_count += 1
-    #                         break
-
-    # return spatial_count
-
-
-        # New Rule: Handling 'r6' relation with 'k7p' and 'main'
+    # New Rule: Handling 'r6' relation with 'k7p' and 'main'
     for i, item in enumerate(parser_output):
         if item.get('pos_tag') in ['NN', 'NNP'] and item.get('dependency_relation') == 'r6':
             head_index = int(item.get('head_index', -1))

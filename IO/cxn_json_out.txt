@@ -13,56 +13,56 @@
                     "cnx_component": "begin"
                 },
                 {
-                    "dependency_relation": "r6",
-                    "head_index": "5",
+                    "dependency_relation": "rsp",
+                    "head_index": "4",
                     "index": 2,
-                    "original_word": "दिल्ली",
+                    "original_word": "जनवरी",
                     "pos_tag": "NNP",
-                    "wx_word": "xillI",
+                    "wx_word": "janavarI",
                     "cnx_index": 10,
-                    "cnx_component": "begin"
+                    "cnx_component": "start"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "2",
                     "index": 3,
-                    "original_word": "के",
+                    "original_word": "से",
                     "pos_tag": "PSP",
-                    "wx_word": "ke"
+                    "wx_word": "se"
                 },
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "कुतुब",
-                    "pos_tag": "NNPC",
-                    "wx_word": "kuwuba"
-                },
-                {
-                    "dependency_relation": "k7p",
+                    "dependency_relation": "k7t",
                     "head_index": "7",
-                    "index": 5,
-                    "original_word": "मीनार",
+                    "index": 4,
+                    "original_word": "मार्च",
                     "pos_tag": "NNP",
-                    "wx_word": "mInAra",
-                    "cnx_index": 11,
-                    "cnx_component": "part"
+                    "wx_word": "mArca",
+                    "cnx_index": 10,
+                    "cnx_component": "end"
                 },
                 {
                     "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "पर",
+                    "head_index": "4",
+                    "index": 5,
+                    "original_word": "तक",
                     "pos_tag": "PSP",
-                    "wx_word": "para"
+                    "wx_word": "waka"
+                },
+                {
+                    "dependency_relation": "k2p",
+                    "head_index": "7",
+                    "index": 6,
+                    "original_word": "घर",
+                    "pos_tag": "NN",
+                    "wx_word": "Gara"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
                     "index": 7,
-                    "original_word": "चढ़ा",
+                    "original_word": "गया",
                     "pos_tag": "VM",
-                    "wx_word": "caDZA"
+                    "wx_word": "gayA"
                 },
                 {
                     "dependency_relation": "rsym",
@@ -79,20 +79,13 @@
                 },
                 {
                     "index": 10,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1",
-                    "cnx_index": 11,
-                    "cnx_component": "whole"
-                },
-                {
-                    "index": 11,
-                    "original_word": "[spatial_1]",
-                    "wx_word": "[spatial_1]"
+                    "original_word": "[span_1]",
+                    "wx_word": "[span_1]"
                 }
             ],
             "project_id": 1,
-            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
-            "sentence_id": 21
+            "sentence": "राम जनवरी से मार्च तक घर गया ।",
+            "sentence_id": 26
         }
     ]
 }

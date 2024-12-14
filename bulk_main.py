@@ -34,7 +34,7 @@ def modify_json_data(json_data, ner_data):
         meas_count = handle_measurement_units(parser_output, new_entries, meas_count, MEAS_UNITS)
         calendaric_count = handle_calendaric_units(parser_output, new_entries, calendaric_count, CALENDARIC_UNITS)
         spatial_count = handle_spatial_relations(parser_output, new_entries, spatial_count)
-        # span_count = handle_spans(parser_output, new_entries, span_count)
+        span_count = handle_spans(parser_output, new_entries, span_count)
         # conj_count, disjunct_count = handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count, CONJ_LIST, DISJUNCT_LIST)
 
         # Append the new entries to the parser output

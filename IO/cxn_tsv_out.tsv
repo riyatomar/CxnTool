@@ -1,14 +1,13 @@
-<sentence_id=21>
+<sentence_id=26>
 1	राम	rAma	NNP	7	k1	9	begin
-2	दिल्ली	xillI	NNP	5	r6	10	begin
-3	के	ke	PSP	2	lwg__psp	-	-
-4	कुतुब	kuwuba	NNPC	5	pof__cn	-	-
-5	मीनार	mInAra	NNP	7	k7p	11	part
-6	पर	para	PSP	5	lwg__psp	-	-
-7	चढ़ा	caDZA	VM	0	main	-	-
+2	जनवरी	janavarI	NNP	4	rsp	10	start
+3	से	se	PSP	2	lwg__psp	-	-
+4	मार्च	mArca	NNP	7	k7t	10	end
+5	तक	waka	PSP	4	lwg__psp	-	-
+6	घर	Gara	NN	7	k2p	-	-
+7	गया	gayA	VM	0	main	-	-
 8	।	.	SYM	7	rsym	-	-
 9	[ne_1]	per_1	-	-	-	-	-
-10	[ne_2]	loc_1	-	-	-	11	whole
-11	[spatial_1]	[spatial_1]	-	-	-	-	-
+10	[span_1]	[span_1]	-	-	-	-	-
 </sentence_id>
 

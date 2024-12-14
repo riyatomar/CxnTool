@@ -10,45 +10,45 @@
                     "pos_tag": "NNP"
                 },
                 {
-                    "dependency_relation": "r6",
-                    "head_index": "5",
+                    "dependency_relation": "rsp",
+                    "head_index": "4",
                     "index": 2,
-                    "original_word": "दिल्ली",
+                    "original_word": "जनवरी",
                     "pos_tag": "NNP"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "2",
                     "index": 3,
-                    "original_word": "के",
+                    "original_word": "से",
                     "pos_tag": "PSP"
                 },
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "कुतुब",
-                    "pos_tag": "NNPC"
-                },
-                {
-                    "dependency_relation": "k7p",
+                    "dependency_relation": "k7t",
                     "head_index": "7",
-                    "index": 5,
-                    "original_word": "मीनार",
+                    "index": 4,
+                    "original_word": "मार्च",
                     "pos_tag": "NNP"
                 },
                 {
                     "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "पर",
+                    "head_index": "4",
+                    "index": 5,
+                    "original_word": "तक",
                     "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "k2p",
+                    "head_index": "7",
+                    "index": 6,
+                    "original_word": "घर",
+                    "pos_tag": "NN"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
                     "index": 7,
-                    "original_word": "चढ़ा",
+                    "original_word": "गया",
                     "pos_tag": "VM"
                 },
                 {
@@ -60,8 +60,8 @@
                 }
             ],
             "project_id": 1,
-            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
-            "sentence_id": 21
+            "sentence": "राम जनवरी से मार्च तक घर गया ।",
+            "sentence_id": 26
         }
     ]
 }
