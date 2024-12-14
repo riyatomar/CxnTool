@@ -3,23 +3,23 @@
         {
             "parser_output": [
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "2",
                     "index": 1,
-                    "original_word": "राम",
+                    "original_word": "मोहन",
                     "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 9,
+                    "wx_word": "mohana",
+                    "cnx_index": 14,
                     "cnx_component": "begin"
                 },
                 {
-                    "dependency_relation": "rsp",
-                    "head_index": "4",
+                    "dependency_relation": "k7t",
+                    "head_index": "11",
                     "index": 2,
-                    "original_word": "जनवरी",
-                    "pos_tag": "NNP",
-                    "wx_word": "janavarI",
-                    "cnx_index": 10,
+                    "original_word": "सुबह",
+                    "pos_tag": "NN",
+                    "wx_word": "subaha",
+                    "cnx_index": 15,
                     "cnx_component": "start"
                 },
                 {
@@ -32,12 +32,12 @@
                 },
                 {
                     "dependency_relation": "k7t",
-                    "head_index": "7",
+                    "head_index": "11",
                     "index": 4,
-                    "original_word": "मार्च",
-                    "pos_tag": "NNP",
-                    "wx_word": "mArca",
-                    "cnx_index": 10,
+                    "original_word": "दोपहर",
+                    "pos_tag": "NN",
+                    "wx_word": "xopahara",
+                    "cnx_index": 15,
                     "cnx_component": "end"
                 },
                 {
@@ -49,43 +49,92 @@
                     "wx_word": "waka"
                 },
                 {
-                    "dependency_relation": "k2p",
-                    "head_index": "7",
+                    "dependency_relation": "k7t",
+                    "head_index": "11",
                     "index": 6,
-                    "original_word": "घर",
+                    "original_word": "या",
+                    "pos_tag": "CC",
+                    "wx_word": "yA"
+                },
+                {
+                    "dependency_relation": "k7t",
+                    "head_index": "11",
+                    "index": 7,
+                    "original_word": "शाम",
                     "pos_tag": "NN",
-                    "wx_word": "Gara"
+                    "wx_word": "SAma",
+                    "cnx_index": 16,
+                    "cnx_component": "op2"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "से",
+                    "pos_tag": "PSP",
+                    "wx_word": "se"
+                },
+                {
+                    "dependency_relation": "k7",
+                    "head_index": "11",
+                    "index": 9,
+                    "original_word": "रात",
+                    "pos_tag": "NN",
+                    "wx_word": "rAwa"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "9",
+                    "index": 10,
+                    "original_word": "तक",
+                    "pos_tag": "PSP",
+                    "wx_word": "waka"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 7,
-                    "original_word": "गया",
+                    "index": 11,
+                    "original_word": "पढ़ा",
                     "pos_tag": "VM",
-                    "wx_word": "gayA"
+                    "wx_word": "paDZA"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "11",
+                    "index": 12,
+                    "original_word": "था",
+                    "pos_tag": "VAUX",
+                    "wx_word": "WA"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "7",
-                    "index": 8,
+                    "head_index": "11",
+                    "index": 13,
                     "original_word": "।",
                     "pos_tag": "SYM",
                     "wx_word": "."
                 },
                 {
-                    "index": 9,
+                    "index": 14,
                     "original_word": "[ne_1]",
                     "wx_word": "per_1"
                 },
                 {
-                    "index": 10,
+                    "index": 15,
                     "original_word": "[span_1]",
-                    "wx_word": "[span_1]"
+                    "wx_word": "[span_1]",
+                    "cnx_index": 16,
+                    "cnx_component": "op1"
+                },
+                {
+                    "index": 16,
+                    "original_word": "[disjunct_1]",
+                    "wx_word": "[disjunct_1]"
                 }
             ],
             "project_id": 1,
-            "sentence": "राम जनवरी से मार्च तक घर गया ।",
-            "sentence_id": 26
+            "sentence": "मोहन सुबह से दोपहर तक या शाम से रात तक पढ़ा था ।",
+            "sentence_id": 27
         }
     ]
 }

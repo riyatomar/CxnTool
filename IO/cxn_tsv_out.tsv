@@ -1,13 +1,19 @@
-<sentence_id=26>
-1	राम	rAma	NNP	7	k1	9	begin
-2	जनवरी	janavarI	NNP	4	rsp	10	start
+<sentence_id=27>
+1	मोहन	mohana	NNP	2	nmod__adj	14	begin
+2	सुबह	subaha	NN	11	k7t	15	start
 3	से	se	PSP	2	lwg__psp	-	-
-4	मार्च	mArca	NNP	7	k7t	10	end
+4	दोपहर	xopahara	NN	11	k7t	15	end
 5	तक	waka	PSP	4	lwg__psp	-	-
-6	घर	Gara	NN	7	k2p	-	-
-7	गया	gayA	VM	0	main	-	-
-8	।	.	SYM	7	rsym	-	-
-9	[ne_1]	per_1	-	-	-	-	-
-10	[span_1]	[span_1]	-	-	-	-	-
+6	या	yA	CC	11	k7t	-	-
+7	शाम	SAma	NN	11	k7t	16	op2
+8	से	se	PSP	7	lwg__psp	-	-
+9	रात	rAwa	NN	11	k7	-	-
+10	तक	waka	PSP	9	lwg__psp	-	-
+11	पढ़ा	paDZA	VM	0	main	-	-
+12	था	WA	VAUX	11	lwg__vaux	-	-
+13	।	.	SYM	11	rsym	-	-
+14	[ne_1]	per_1	-	-	-	-	-
+15	[span_1]	[span_1]	-	-	-	16	op1
+16	[disjunct_1]	[disjunct_1]	-	-	-	-	-
 </sentence_id>
 

@@ -1,6 +1,6 @@
 from scripts.file_utils import update_cnx_value
 
-def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count, CONJ_LIST, DISJUNCT_LIST):
+def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count, conj_LIST, disjunct_LIST):
     for cc_item in parser_output:
         if cc_item.get('pos_tag') == 'CC':
             head_index = int(cc_item.get('head_index', -1))
@@ -8,54 +8,58 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
             original_word = cc_item.get('original_word', '')
             op_count = 1
             matching_items = []
-            cxn_value1_index = None
-            cxn_value2_index = None
-            cxn_value1_component = None
-            cxn_value2_component = None
+            count = []
+            # for target_item in parser_output:
+            #     if int(target_item.get('head_index', -1)) == head_index and target_item.get('dependency_relation', '') == dep_rel and target_item.get('pos_tag') != 'CC':
+            #         cnx_index = len(parser_output) + len(new_entries) + 1
 
-
+            #         if target_item.get('cnx_component') is not None:
+            #             already_index = target_item.get('cnx_index')
+            #             for entry in new_entries:
+            #                 if int(entry.get('index', -1)) == int(already_index) and entry.get('cnx_component') is None:
+            #                     update_cnx_value(entry, cnx_index, f'op{op_count}')
+            #         else:
+            #             update_cnx_value(target_item, cnx_index, f'op{op_count}')
+                    
+            #         matching_items.append(target_item)
+            #         op_count += 1
+                    
             for target_item in parser_output:
                 if int(target_item.get('head_index', -1)) == head_index and target_item.get('dependency_relation', '') == dep_rel and target_item.get('pos_tag') != 'CC':
                     cnx_index = len(parser_output) + len(new_entries) + 1
-                    # print(cnx_index)
-                    update_cnx_value(target_item, cnx_index, f'op{op_count}')
-
-                    if isinstance(target_item['cnx_index'], list) and len(target_item['cnx_index']) > 1:
-                        cxn_value1_index = target_item['cnx_index'][0]
-                        cxn_value1_component = target_item['cnx_component'][0]
-
-                        cxn_value2_index = target_item['cnx_index'][1]
-                        cxn_value2_component = target_item['cnx_component'][1]
-
-                        target_item['cnx_index'] = target_item['cnx_index'][0]
-                        target_item['cnx_component'] = target_item['cnx_component'][0]
-                    else:
-                        continue
-
-                    for entry in new_entries:
-                        if entry.get('index') == int(cxn_value1_index):
-                            entry['cnx_index'] = cxn_value2_index
-                            entry['cnx_component'] = cxn_value2_component
-
+                    updated = False  # Track whether `op_count` should be incremented
                     
+                    if target_item.get('cnx_component') is not None:
+                        already_index = target_item.get('cnx_index')
+                        for entry in new_entries:
+                            if int(entry.get('index', -1)) == int(already_index) and entry.get('cnx_component') is None:
+                                update_cnx_value(entry, cnx_index, f'op{op_count}')
+                                print(entry)
+                                updated = True  # Mark this as a valid update
+                                break  # Stop checking other entries once updated
+                    else:
+                        update_cnx_value(target_item, cnx_index, f'op{op_count}')
+                        updated = True  # Mark this as a valid update
+
+                    if updated:  # Increment `op_count` only if an update occurred
+                        op_count += 1
+
                     matching_items.append(target_item)
-                    op_count += 1
-            
-            # print(matching)
-            if matching_items and original_word in CONJ_LIST:
+
+            if matching_items and original_word in conj_LIST:
                 conj_entry = {
                     'index': cnx_index,
-                    'original_word': f'[CONJ_{conj_count}]',
-                    'wx_word': f'[CONJ_{conj_count}]'
+                    'original_word': f'[conj_{conj_count}]',
+                    'wx_word': f'[conj_{conj_count}]'
                 }
                 new_entries.append(conj_entry)
                 conj_count += 1
 
-            elif matching_items and original_word in DISJUNCT_LIST:
+            elif matching_items and original_word in disjunct_LIST:
                 disjunct_entry = {
                     'index': cnx_index,
-                    'original_word': f'[DISJUNCT_{disjunct_count}]',
-                    'wx_word': f'[DISJUNCT_{disjunct_count}]'
+                    'original_word': f'[disjunct_{disjunct_count}]',
+                    'wx_word': f'[disjunct_{disjunct_count}]'
                 }
                 new_entries.append(disjunct_entry)
                 disjunct_count += 1
