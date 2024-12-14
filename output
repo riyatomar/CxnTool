@@ -1,2 +1,0 @@
-Target item for dependency 'rsk': {'dependency_relation': 'main', 'head_index': '0', 'index': 18, 'original_word': 'किया', 'pos_tag': 'VM', 'wx_word': 'kiyA'}
-Target item for dependency 'pof': {'dependency_relation': 'main', 'head_index': '0', 'index': 18, 'original_word': 'किया', 'pos_tag': 'VM', 'wx_word': 'kiyA', 'cnx_index': 24, 'cnx_component': 'verbalizer_B'}

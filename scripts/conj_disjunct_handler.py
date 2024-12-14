@@ -8,7 +8,7 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
             original_word = cc_item.get('original_word', '')
             op_count = 1
             matching_items = []
-            count = []
+
             # for target_item in parser_output:
             #     if int(target_item.get('head_index', -1)) == head_index and target_item.get('dependency_relation', '') == dep_rel and target_item.get('pos_tag') != 'CC':
             #         cnx_index = len(parser_output) + len(new_entries) + 1
@@ -34,7 +34,6 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
                         for entry in new_entries:
                             if int(entry.get('index', -1)) == int(already_index) and entry.get('cnx_component') is None:
                                 update_cnx_value(entry, cnx_index, f'op{op_count}')
-                                print(entry)
                                 updated = True  # Mark this as a valid update
                                 break  # Stop checking other entries once updated
                     else:

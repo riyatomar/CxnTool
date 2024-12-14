@@ -44,11 +44,8 @@ def handle_mod_and_head(parser_output, new_entries, nc_count, ne_count):
             # print(head_index)
             for target_item in parser_output:
                 if int(target_item.get('index', -1)) == head_index:
-                    print(target_item.get('cnx_index'), target_item.get('cnx_component'))
                     target_item['cnx_index'] = nc_index
                     target_item['cnx_component'] = 'head' if prefix == 'nc' else 'inside'
 
     return nc_count, ne_count
 
-
-# add "(target_item.get('cnx_index'), target_item.get('cnx_component'))" in the cnx_index and cnx_component of previous new_nc_entry
