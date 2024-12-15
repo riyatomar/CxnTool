@@ -76,29 +76,29 @@
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1",
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]",
                     "cnx_index": 13,
                     "cnx_component": "op1"
                 },
                 {
                     "index": 10,
-                    "original_word": "[ne_2]",
-                    "wx_word": "per_2",
+                    "original_word": "per_2",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 13,
                     "cnx_component": "op2"
                 },
                 {
                     "index": 11,
-                    "original_word": "[ne_3]",
-                    "wx_word": "per_3",
+                    "original_word": "per_3",
+                    "wx_word": "[ne_3]",
                     "cnx_index": 13,
                     "cnx_component": "op3"
                 },
                 {
                     "index": 12,
-                    "original_word": "[ne_4]",
-                    "wx_word": "loc_1"
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_4]"
                 },
                 {
                     "index": 13,
@@ -166,8 +166,8 @@
                 },
                 {
                     "index": 7,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 }
             ],
             "project_id": 1,
@@ -310,15 +310,15 @@
                 },
                 {
                     "index": 8,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1",
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]",
                     "cnx_index": 10,
                     "cnx_component": "op1"
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_2]",
-                    "wx_word": "per_2",
+                    "original_word": "per_2",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 10,
                     "cnx_component": "op2"
                 },
@@ -398,8 +398,8 @@
                 },
                 {
                     "index": 8,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 9,
@@ -465,8 +465,8 @@
                 },
                 {
                     "index": 7,
-                    "original_word": "[ne_1]",
-                    "wx_word": "loc_1"
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_1]"
                 }
             ],
             "project_id": 1,
@@ -595,13 +595,13 @@
                 },
                 {
                     "index": 14,
-                    "original_word": "[ne_1]",
-                    "wx_word": "org_1"
+                    "original_word": "org_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 15,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1"
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_2]"
                 },
                 {
                     "index": 16,
@@ -690,13 +690,13 @@
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_1]",
-                    "wx_word": "org_1"
+                    "original_word": "org_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 10,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1"
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_2]"
                 }
             ],
             "project_id": 1,
@@ -951,8 +951,8 @@
                 },
                 {
                     "index": 13,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 14,
@@ -1098,27 +1098,27 @@
                 },
                 {
                     "index": 14,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 15,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1",
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 19,
                     "cnx_component": "whole"
                 },
                 {
                     "index": 16,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_2",
+                    "original_word": "loc_2",
+                    "wx_word": "[ne_3]",
                     "cnx_index": 19,
                     "cnx_component": "part"
                 },
                 {
                     "index": 17,
-                    "original_word": "[ne_4]",
-                    "wx_word": "[ne_4]"
+                    "original_word": "[ne_3]",
+                    "wx_word": "[ne_3]"
                 },
                 {
                     "index": 18,
@@ -1483,27 +1483,27 @@
                 },
                 {
                     "index": 14,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 15,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1",
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 20,
                     "cnx_component": "whole"
                 },
                 {
                     "index": 16,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_2",
+                    "original_word": "loc_2",
+                    "wx_word": "[ne_3]",
                     "cnx_index": 20,
                     "cnx_component": "part"
                 },
                 {
                     "index": 17,
-                    "original_word": "[ne_4]",
-                    "wx_word": "[ne_4]"
+                    "original_word": "[ne_3]",
+                    "wx_word": "[ne_3]"
                 },
                 {
                     "index": 18,
@@ -1601,8 +1601,8 @@
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 10,
@@ -1712,8 +1712,8 @@
                 },
                 {
                     "index": 12,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 13,
@@ -1791,8 +1791,8 @@
                 },
                 {
                     "index": 8,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 9,
@@ -2065,20 +2065,20 @@
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 10,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1",
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 12,
                     "cnx_component": "whole"
                 },
                 {
                     "index": 11,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_2",
+                    "original_word": "loc_2",
+                    "wx_word": "[ne_3]",
                     "cnx_index": 12,
                     "cnx_component": "part"
                 },
@@ -2168,20 +2168,20 @@
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 10,
-                    "original_word": "[ne_2]",
-                    "wx_word": "loc_1",
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 12,
                     "cnx_component": "whole"
                 },
                 {
                     "index": 11,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_2",
+                    "original_word": "loc_2",
+                    "wx_word": "[ne_3]",
                     "cnx_index": 12,
                     "cnx_component": "part"
                 },
@@ -2325,8 +2325,8 @@
                 },
                 {
                     "index": 7,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 8,
@@ -2516,27 +2516,27 @@
                 },
                 {
                     "index": 20,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1",
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]",
                     "cnx_index": 26,
                     "cnx_component": "op1"
                 },
                 {
                     "index": 21,
-                    "original_word": "[ne_2]",
-                    "wx_word": "per_2",
+                    "original_word": "per_2",
+                    "wx_word": "[ne_2]",
                     "cnx_index": 26,
                     "cnx_component": "op2"
                 },
                 {
                     "index": 22,
-                    "original_word": "[ne_3]",
-                    "wx_word": "loc_1"
+                    "original_word": "loc_1",
+                    "wx_word": "[ne_3]"
                 },
                 {
                     "index": 23,
-                    "original_word": "[ne_4]",
-                    "wx_word": "per_3"
+                    "original_word": "per_3",
+                    "wx_word": "[ne_4]"
                 },
                 {
                     "index": 24,
@@ -2846,8 +2846,8 @@
                 },
                 {
                     "index": 9,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 10,
@@ -2977,8 +2977,8 @@
                 },
                 {
                     "index": 14,
-                    "original_word": "[ne_1]",
-                    "wx_word": "per_1"
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]"
                 },
                 {
                     "index": 15,

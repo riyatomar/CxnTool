@@ -1,7 +1,7 @@
 import json
 
 def convert_to_tsv(data):
-    headers = ['index', 'original_word', 'wx_word', 'pos_tag', 'head_index', 'dependency_relation', 'cnx_index', 'cnx_component']
+    headers = ['index', 'wx_word', 'original_word', 'pos_tag', 'head_index', 'dependency_relation', 'cnx_index', 'cnx_component']
     tsv_data = []
     
     # Loop through each sentence in the response

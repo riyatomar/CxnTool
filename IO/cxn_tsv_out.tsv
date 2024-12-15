@@ -1,12 +1,12 @@
 <sentence_id=1>
-1	राम	rAma	NNP	7	k1	9	begin
+1	rAma	राम	NNP	7	k1	9	begin
 2	,	,	SYM	1	rsym	-	-
-3	श्याम	SyAma	NNP	7	k1	10	begin
-4	और	Ora	CC	7	k1	-	-
-5	मोहन	mohana	NNP	7	k1	11	begin
-6	दिल्ली	xillI	NNP	7	k2p	12	begin
-7	जाएंगे	jAeMge	VM	0	main	-	-
-8	।	.	SYM	7	rsym	-	-
+3	SyAma	श्याम	NNP	7	k1	10	begin
+4	Ora	और	CC	7	k1	-	-
+5	mohana	मोहन	NNP	7	k1	11	begin
+6	xillI	दिल्ली	NNP	7	k2p	12	begin
+7	jAeMge	जाएंगे	VM	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
 9	[ne_1]	per_1	-	-	-	13	op1
 10	[ne_2]	per_2	-	-	-	13	op2
 11	[ne_3]	per_3	-	-	-	13	op3
@@ -16,36 +16,36 @@
 
 
 <sentence_id=2>
-1	मोहन	mohana	NNPC	2	pof__cn	7	begin
-2	लाल	lAla	NNP	4	k1	7	inside
-3	बाजार	bAjAra	NNP	4	k2p	-	-
-4	गया	gayA	VM	0	main	-	-
-5	था	WA	VAUX	4	lwg__vaux	-	-
-6	।	.	SYM	4	rsym	-	-
+1	mohana	मोहन	NNPC	2	pof__cn	7	begin
+2	lAla	लाल	NNP	4	k1	7	inside
+3	bAjAra	बाजार	NNP	4	k2p	-	-
+4	gayA	गया	VM	0	main	-	-
+5	WA	था	VAUX	4	lwg__vaux	-	-
+6	.	।	SYM	4	rsym	-	-
 7	[ne_1]	per_1	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=3>
-1	मैं	mEM	PRP	6	k1	-	-
-2	सुबह	subaha	NN	6	k7t	8	start
-3	से	se	PSP	2	lwg__psp	-	-
-4	रात	rAwa	NN	6	k7t	8	end
-5	तक	waka	PSP	4	lwg__psp	-	-
-6	पढ़ूंगा	paDZUMgA	VM	0	main	-	-
-7	।	.	SYM	6	rsym	-	-
+1	mEM	मैं	PRP	6	k1	-	-
+2	subaha	सुबह	NN	6	k7t	8	start
+3	se	से	PSP	2	lwg__psp	-	-
+4	rAwa	रात	NN	6	k7t	8	end
+5	waka	तक	PSP	4	lwg__psp	-	-
+6	paDZUMgA	पढ़ूंगा	VM	0	main	-	-
+7	.	।	SYM	6	rsym	-	-
 8	[span_1]	[span_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=4>
-1	राम	rAma	NNP	6	k1	8	begin
-2	और	Ora	CC	6	k1	-	-
-3	मोहन	mohana	NNP	6	k1	9	begin
-4	कल	kala	NN	6	k7t	-	-
-5	स्कूल	skUla	NN	6	k2p	-	-
-6	जायेंगे	jAyeMge	VM	0	main	-	-
-7	।	.	SYM	6	rsym	-	-
+1	rAma	राम	NNP	6	k1	8	begin
+2	Ora	और	CC	6	k1	-	-
+3	mohana	मोहन	NNP	6	k1	9	begin
+4	kala	कल	NN	6	k7t	-	-
+5	skUla	स्कूल	NN	6	k2p	-	-
+6	jAyeMge	जायेंगे	VM	0	main	-	-
+7	.	।	SYM	6	rsym	-	-
 8	[ne_1]	per_1	-	-	-	10	op1
 9	[ne_2]	per_2	-	-	-	10	op2
 10	[conj_1]	[conj_1]	-	-	-	-	-
@@ -53,43 +53,43 @@
 
 
 <sentence_id=5>
-1	सीता	sIwA	NNP	5	k1	8	begin
-2	फल	Pala	NN	5	k2	9	op1
-3	या	yA	CC	5	k2	-	-
-4	सब्जी	sabjI	NN	5	k2	9	op2
-5	ले	le	VM	0	main	-	-
-6	आएगी	AegI	VAUX	5	lwg__vaux	-	-
-7	।	.	SYM	5	rsym	-	-
+1	sIwA	सीता	NNP	5	k1	8	begin
+2	Pala	फल	NN	5	k2	9	op1
+3	yA	या	CC	5	k2	-	-
+4	sabjI	सब्जी	NN	5	k2	9	op2
+5	le	ले	VM	0	main	-	-
+6	AegI	आएगी	VAUX	5	lwg__vaux	-	-
+7	.	।	SYM	5	rsym	-	-
 8	[ne_1]	per_1	-	-	-	-	-
 9	[disjunct_1]	[disjunct_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=6>
-1	अयोध्या	ayoXyA	NNP	3	r6	7	begin
-2	के	ke	PSP	1	lwg__psp	-	-
-3	राजा	rAjA	NN	4	mod	-	-
-4	राम	rAma	NNP	5	k1	-	-
-5	हैं	hEM	VM	0	main	-	-
-6	।	.	SYM	5	rsym	-	-
+1	ayoXyA	अयोध्या	NNP	3	r6	7	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	rAjA	राजा	NN	4	mod	-	-
+4	rAma	राम	NNP	5	k1	-	-
+5	hEM	हैं	VM	0	main	-	-
+6	.	।	SYM	5	rsym	-	-
 7	[ne_1]	loc_1	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=7>
-1	संयुक्त	saMyukwa	NNPC	3	pof__cn	14	begin
-2	राष्ट्र	rARtra	NNPC	3	pof__cn	14	inside
-3	संघ	saMGa	NNP	12	k1	-	-
-4	ने	ne	PSP	3	lwg__psp	-	-
-5	रूस	rUsa	NNP	12	k4	15	begin
-6	को	ko	PSP	5	lwg__psp	-	-
-7	शांति	SAMwi	NN	9	k2	-	-
-8	स्थापित	sWApiwa	JJ	9	pof	16	kriyAmUla
-9	करने	karane	VM	11	k2	16	verbalizer_B
-10	का	kA	PSP	9	lwg__psp	-	-
-11	आदेश	AxeSa	NN	12	pof	17	kriyAmUla
-12	दिया	xiyA	VM	0	main	17	verbalizer_B
-13	।	.	SYM	12	rsym	-	-
+1	saMyukwa	संयुक्त	NNPC	3	pof__cn	14	begin
+2	rARtra	राष्ट्र	NNPC	3	pof__cn	14	inside
+3	saMGa	संघ	NNP	12	k1	-	-
+4	ne	ने	PSP	3	lwg__psp	-	-
+5	rUsa	रूस	NNP	12	k4	15	begin
+6	ko	को	PSP	5	lwg__psp	-	-
+7	SAMwi	शांति	NN	9	k2	-	-
+8	sWApiwa	स्थापित	JJ	9	pof	16	kriyAmUla
+9	karane	करने	VM	11	k2	16	verbalizer_B
+10	kA	का	PSP	9	lwg__psp	-	-
+11	AxeSa	आदेश	NN	12	pof	17	kriyAmUla
+12	xiyA	दिया	VM	0	main	17	verbalizer_B
+13	.	।	SYM	12	rsym	-	-
 14	[ne_1]	org_1	-	-	-	-	-
 15	[ne_2]	loc_1	-	-	-	-	-
 16	[cp_1]	[cp_1]	-	-	-	-	-
@@ -98,33 +98,33 @@
 
 
 <sentence_id=8>
-1	नासा	nAsA	NNP	7	k1	9	begin
-2	ने	ne	PSP	1	lwg__psp	-	-
-3	मंगल	maMgala	NNP	4	nmod__adj	10	begin
-4	ग्रह	graha	NN	7	k7p	-	-
-5	पर	para	PSP	4	lwg__psp	-	-
-6	यान	yAna	NN	7	k2	-	-
-7	भेजा	BejA	VM	0	main	-	-
-8	।	.	SYM	7	rsym	-	-
+1	nAsA	नासा	NNP	7	k1	9	begin
+2	ne	ने	PSP	1	lwg__psp	-	-
+3	maMgala	मंगल	NNP	4	nmod__adj	10	begin
+4	graha	ग्रह	NN	7	k7p	-	-
+5	para	पर	PSP	4	lwg__psp	-	-
+6	yAna	यान	NN	7	k2	-	-
+7	BejA	भेजा	VM	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
 9	[ne_1]	org_1	-	-	-	-	-
 10	[ne_2]	loc_1	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=9>
-1	यह	yaha	PRP	11	k1	-	-
-2	मानव	mAnava	NNC	4	pof__cn	14	mod
-3	प्रकृति	prakqwi	NNC	4	pof__cn	15	mod
-4	संबंध	saMbaMXa	NN	6	r6	15	head
-5	की	kI	PSP	4	lwg__psp	-	-
-6	गुणवत्ता	guNavawwA	NN	8	r6	-	-
-7	के	ke	PSP	6	lwg__psp	-	-
-8	निहितार्थ	nihiwArWa	NN	10	k2	-	-
-9	का	kA	PSP	8	lwg__psp	-	-
-10	अध्ययन	aXyayana	NN	11	pof	16	kriyAmUla
-11	करता	karawA	VM	0	main	16	verbalizer_B
-12	है	hE	VAUX	11	lwg__vaux	16	verbalizer_I
-13	।	.	SYM	11	rsym	-	-
+1	yaha	यह	PRP	11	k1	-	-
+2	mAnava	मानव	NNC	4	pof__cn	14	mod
+3	prakqwi	प्रकृति	NNC	4	pof__cn	15	mod
+4	saMbaMXa	संबंध	NN	6	r6	15	head
+5	kI	की	PSP	4	lwg__psp	-	-
+6	guNavawwA	गुणवत्ता	NN	8	r6	-	-
+7	ke	के	PSP	6	lwg__psp	-	-
+8	nihiwArWa	निहितार्थ	NN	10	k2	-	-
+9	kA	का	PSP	8	lwg__psp	-	-
+10	aXyayana	अध्ययन	NN	11	pof	16	kriyAmUla
+11	karawA	करता	VM	0	main	16	verbalizer_B
+12	hE	है	VAUX	11	lwg__vaux	16	verbalizer_I
+13	.	।	SYM	11	rsym	-	-
 14	[nc_1]	[nc_1]	-	-	-	-	-
 15	[nc_2]	[nc_2]	-	-	-	-	-
 16	[cp_1]	[cp_1]	-	-	-	-	-
@@ -132,18 +132,18 @@
 
 
 <sentence_id=10>
-1	राम	rAma	NNP	11	k1	13	begin
-2	ने	ne	PSP	1	lwg__psp	-	-
+1	rAma	राम	NNP	11	k1	13	begin
+2	ne	ने	PSP	1	lwg__psp	-	-
 3	10	10	QC	4	card	14	count
-4	किलो	kilo	NN	8	rsp	14	unit
-5	से	se	PSP	4	lwg__psp	-	-
-6	लेकर	lekara	PSP	4	lwg__psp	-	-
+4	kilo	किलो	NN	8	rsp	14	unit
+5	se	से	PSP	4	lwg__psp	-	-
+6	lekara	लेकर	PSP	4	lwg__psp	-	-
 7	20	20	QC	8	card	15	count
-8	किलो	kilo	NN	11	k7t	15	unit
-9	तक	waka	PSP	8	lwg__psp	-	-
-10	वजन	vajana	NN	11	k2	-	-
-11	उठाया	uTAyA	VM	0	main	-	-
-12	।	.	SYM	11	rsym	-	-
+8	kilo	किलो	NN	11	k7t	15	unit
+9	waka	तक	PSP	8	lwg__psp	-	-
+10	vajana	वजन	NN	11	k2	-	-
+11	uTAyA	उठाया	VM	0	main	-	-
+12	.	।	SYM	11	rsym	-	-
 13	[ne_1]	per_1	-	-	-	-	-
 14	[meas_1]	[meas_1]	-	-	-	16	start
 15	[meas_2]	[meas_2]	-	-	-	16	end
@@ -152,55 +152,55 @@
 
 
 <sentence_id=11>
-1	राम	rAma	NNP	12	k1	14	begin
+1	rAma	राम	NNP	12	k1	14	begin
 2	4	4	NNPC	3	pof__cn	18	component_of
-3	जनवरी	janavarI	NNP	12	k7t	18	component_of
-4	को	ko	PSP	3	lwg__psp	-	-
-5	दिल्ली	xillI	NNP	8	r6	15	begin
-6	के	ke	PSP	5	lwg__psp	-	-
-7	कुतुब	kuwuba	NNPC	8	pof__cn	16	begin
-8	मीनार	mInAra	NNP	12	k7p	16	inside
-9	पर	para	PSP	8	lwg__psp	-	-
+3	janavarI	जनवरी	NNP	12	k7t	18	component_of
+4	ko	को	PSP	3	lwg__psp	-	-
+5	xillI	दिल्ली	NNP	8	r6	15	begin
+6	ke	के	PSP	5	lwg__psp	-	-
+7	kuwuba	कुतुब	NNPC	8	pof__cn	16	begin
+8	mInAra	मीनार	NNP	12	k7p	16	inside
+9	para	पर	PSP	8	lwg__psp	-	-
 10	100	100	QC	11	card	-	-
-11	मंजिलें	maMjileM	NN	12	k1	-	-
-12	चढ़ा	caDZA	VM	0	main	-	-
-13	।	.	SYM	12	rsym	-	-
+11	maMjileM	मंजिलें	NN	12	k1	-	-
+12	caDZA	चढ़ा	VM	0	main	-	-
+13	.	।	SYM	12	rsym	-	-
 14	[ne_1]	per_1	-	-	-	-	-
 15	[ne_2]	loc_1	-	-	-	19	whole
 16	[ne_3]	loc_2	-	-	-	19	part
-17	[ne_4]	[ne_4]	-	-	-	-	-
+17	[ne_3]	[ne_3]	-	-	-	-	-
 18	[calendar_1]	[calendar_1]	-	-	-	-	-
 19	[spatial_1]	[spatial_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=12>
-1	महामारी	mahAmArI	NN	9	rh	-	-
-2	के	ke	PSP	1	lwg__psp	-	-
-3	कारण	kAraNa	PSP	1	lwg__psp	-	-
-4	बहुत	bahuwa	QF	5	quant	-	-
-5	लोगो	logo	NN	8	k1	-	-
-6	की	kI	PSP	5	lwg__psp	-	-
-7	अकाल	akAla	NNC	8	pof__cn	12	mod
-8	मृत्यु	mqwyu	NN	9	pof	12	head
-9	हुई	huI	VM	0	main	13	verbalizer_B
-10	है	hE	VAUX	9	lwg__vaux	13	verbalizer_I
-11	।	.	SYM	9	rsym	-	-
+1	mahAmArI	महामारी	NN	9	rh	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	kAraNa	कारण	PSP	1	lwg__psp	-	-
+4	bahuwa	बहुत	QF	5	quant	-	-
+5	logo	लोगो	NN	8	k1	-	-
+6	kI	की	PSP	5	lwg__psp	-	-
+7	akAla	अकाल	NNC	8	pof__cn	12	mod
+8	mqwyu	मृत्यु	NN	9	pof	12	head
+9	huI	हुई	VM	0	main	13	verbalizer_B
+10	hE	है	VAUX	9	lwg__vaux	13	verbalizer_I
+11	.	।	SYM	9	rsym	-	-
 12	[nc_1]	[nc_1]	-	-	-	13	kriyAmUla
 13	[cp_1]	[cp_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=13>
-1	हमारा	hamArA	PRP	2	r6	-	-
-2	देश	xeSa	NN	8	k1	-	-
+1	hamArA	हमारा	PRP	2	r6	-	-
+2	xeSa	देश	NN	8	k1	-	-
 3	15	15	NNPC	5	pof__cn	13	component_of
-4	अगस्त	agaswa	NNPC	5	pof__cn	13	component_of
+4	agaswa	अगस्त	NNPC	5	pof__cn	13	component_of
 5	1947	1947	NNP	8	k7t	13	component_of
-6	में	meM	PSP	5	lwg__psp	-	-
-7	आज़ाद	AjZAxa	JJ	8	pof	12	kriyAmUla
-8	हुआ	huA	VM	0	main	12	verbalizer_B
-9	।	.	SYM	8	rsym	-	-
+6	meM	में	PSP	5	lwg__psp	-	-
+7	AjZAxa	आज़ाद	JJ	8	pof	12	kriyAmUla
+8	huA	हुआ	VM	0	main	12	verbalizer_B
+9	.	।	SYM	8	rsym	-	-
 10	[ne_0]	[ne_0]	-	-	-	-	-
 11	[ne_1]	[ne_1]	-	-	-	-	-
 12	[cp_1]	[cp_1]	-	-	-	-	-
@@ -209,23 +209,23 @@
 
 
 <sentence_id=14>
-1	राम	rAma	NNP	12	k1	14	begin
+1	rAma	राम	NNP	12	k1	14	begin
 2	4	4	NNPC	3	pof__cn	19	component_of
-3	जनवरी	janavarI	NNP	12	k7t	19	component_of
-4	को	ko	PSP	3	lwg__psp	-	-
-5	दिल्ली	xillI	NNP	8	r6	15	begin
-6	के	ke	PSP	5	lwg__psp	-	-
-7	कुतुब	kuwuba	NNPC	8	pof__cn	16	begin
-8	मीनार	mInAra	NNP	12	k7p	16	inside
-9	पर	para	PSP	8	lwg__psp	-	-
+3	janavarI	जनवरी	NNP	12	k7t	19	component_of
+4	ko	को	PSP	3	lwg__psp	-	-
+5	xillI	दिल्ली	NNP	8	r6	15	begin
+6	ke	के	PSP	5	lwg__psp	-	-
+7	kuwuba	कुतुब	NNPC	8	pof__cn	16	begin
+8	mInAra	मीनार	NNP	12	k7p	16	inside
+9	para	पर	PSP	8	lwg__psp	-	-
 10	100	100	QC	11	card	18	count
-11	सीढ़ियाँ	sIDZiyAz	NN	12	k2	18	unit
-12	चढ़ा	caDZA	VM	0	main	-	-
-13	।	.	SYM	12	rsym	-	-
+11	sIDZiyAz	सीढ़ियाँ	NN	12	k2	18	unit
+12	caDZA	चढ़ा	VM	0	main	-	-
+13	.	।	SYM	12	rsym	-	-
 14	[ne_1]	per_1	-	-	-	-	-
 15	[ne_2]	loc_1	-	-	-	20	whole
 16	[ne_3]	loc_2	-	-	-	20	part
-17	[ne_4]	[ne_4]	-	-	-	-	-
+17	[ne_3]	[ne_3]	-	-	-	-	-
 18	[meas_1]	[meas_1]	-	-	-	-	-
 19	[calendar_1]	[calendar_1]	-	-	-	-	-
 20	[spatial_1]	[spatial_1]	-	-	-	-	-
@@ -233,44 +233,44 @@
 
 
 <sentence_id=15>
-1	राम	rAma	NNPC	2	pof__cn	9	begin
-2	मोहन	mohana	NNP	6	k2	9	inside
-3	को	ko	PSP	2	lwg__psp	-	-
-4	रेलवे	relave	NNC	5	pof__cn	10	mod
-5	स्टेशन	steSana	NN	6	k7p	10	head
-6	छोड़ने	CodZane	VM	0	main	-	-
-7	गया	gayA	VAUX	6	lwg__vaux	-	-
-8	।	.	SYM	6	rsym	-	-
+1	rAma	राम	NNPC	2	pof__cn	9	begin
+2	mohana	मोहन	NNP	6	k2	9	inside
+3	ko	को	PSP	2	lwg__psp	-	-
+4	relave	रेलवे	NNC	5	pof__cn	10	mod
+5	steSana	स्टेशन	NN	6	k7p	10	head
+6	CodZane	छोड़ने	VM	0	main	-	-
+7	gayA	गया	VAUX	6	lwg__vaux	-	-
+8	.	।	SYM	6	rsym	-	-
 9	[ne_1]	per_1	-	-	-	-	-
 10	[nc_1]	[nc_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=16>
-1	राम	rAma	NNP	10	k1	12	begin
-2	ने	ne	PSP	1	lwg__psp	-	-
-3	अपने	apane	PRP	4	r6	-	-
-4	गुरु	guru	NN	6	k2	-	-
-5	को	ko	PSP	4	lwg__psp	-	-
-6	देख	xeKa	VM	10	rpk	-	-
-7	कर	kara	VAUX	6	lwg__vaux	-	-
-8	उन्हें	unheM	PRP	10	k2	-	-
-9	प्रणाम	praNAma	NN	10	pof	13	kriyAmUla
-10	किया	kiyA	VM	0	main	13	verbalizer_B
-11	।	.	SYM	10	rsym	-	-
+1	rAma	राम	NNP	10	k1	12	begin
+2	ne	ने	PSP	1	lwg__psp	-	-
+3	apane	अपने	PRP	4	r6	-	-
+4	guru	गुरु	NN	6	k2	-	-
+5	ko	को	PSP	4	lwg__psp	-	-
+6	xeKa	देख	VM	10	rpk	-	-
+7	kara	कर	VAUX	6	lwg__vaux	-	-
+8	unheM	उन्हें	PRP	10	k2	-	-
+9	praNAma	प्रणाम	NN	10	pof	13	kriyAmUla
+10	kiyA	किया	VM	0	main	13	verbalizer_B
+11	.	।	SYM	10	rsym	-	-
 12	[ne_1]	per_1	-	-	-	-	-
 13	[cp_1]	[cp_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=17>
-1	मोहन	mohana	NNP	6	k1	8	begin
-2	ने	ne	PSP	1	lwg__psp	-	-
+1	mohana	मोहन	NNP	6	k1	8	begin
+2	ne	ने	PSP	1	lwg__psp	-	-
 3	10	10	QC	4	card	9	count
-4	किलो	kilo	NN	5	mod	9	unit
-5	चावल	cAvala	NN	6	k2	-	-
-6	खरीदे	KarIxe	VM	0	main	-	-
-7	।	.	SYM	6	rsym	-	-
+4	kilo	किलो	NN	5	mod	9	unit
+5	cAvala	चावल	NN	6	k2	-	-
+6	KarIxe	खरीदे	VM	0	main	-	-
+7	.	।	SYM	6	rsym	-	-
 8	[ne_1]	per_1	-	-	-	-	-
 9	[meas_1]	[meas_1]	-	-	-	-	-
 </sentence_id>
@@ -278,15 +278,15 @@
 
 <sentence_id=18>
 1	15	15	NNPC	3	pof__cn	13	component_of
-2	अगस्त	agaswa	NNPC	3	pof__cn	13	component_of
+2	agaswa	अगस्त	NNPC	3	pof__cn	13	component_of
 3	1947	1947	NNP	8	k7t	13	component_of
-4	को	ko	PSP	3	lwg__psp	-	-
-5	हमारा	hamArA	PRP	6	r6	-	-
-6	देश	xeSa	NN	8	k1	-	-
-7	आजाद	AjAxa	JJ	8	k1s	-	-
-8	हुआ	huA	VM	0	main	-	-
-9	था	WA	VAUX	8	lwg__vaux	-	-
-10	।	.	SYM	8	rsym	-	-
+4	ko	को	PSP	3	lwg__psp	-	-
+5	hamArA	हमारा	PRP	6	r6	-	-
+6	xeSa	देश	NN	8	k1	-	-
+7	AjAxa	आजाद	JJ	8	k1s	-	-
+8	huA	हुआ	VM	0	main	-	-
+9	WA	था	VAUX	8	lwg__vaux	-	-
+10	.	।	SYM	8	rsym	-	-
 11	[ne_0]	[ne_0]	-	-	-	-	-
 12	[ne_1]	[ne_1]	-	-	-	-	-
 13	[calendar_1]	[calendar_1]	-	-	-	-	-
@@ -294,27 +294,27 @@
 
 
 <sentence_id=19>
-1	मेरा	merA	PRP	2	r6	-	-
-2	जन्मदिन	janmaxina	NN	6	k1	-	-
+1	merA	मेरा	PRP	2	r6	-	-
+2	janmaxina	जन्मदिन	NN	6	k1	-	-
 3	21	21	NNPC	4	pof__cn	9	component_of
-4	अगस्त	agaswa	NNP	6	k7t	9	component_of
-5	को	ko	PSP	4	lwg__psp	-	-
-6	है	hE	VM	0	main	-	-
-7	।	.	SYM	6	rsym	-	-
+4	agaswa	अगस्त	NNP	6	k7t	9	component_of
+5	ko	को	PSP	4	lwg__psp	-	-
+6	hE	है	VM	0	main	-	-
+7	.	।	SYM	6	rsym	-	-
 8	[ne_0]	[ne_0]	-	-	-	-	-
 9	[calendar_1]	[calendar_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=20>
-1	राम	rAma	NNP	7	k1	9	begin
-2	दिल्ली	xillI	NNP	7	k7p	10	begin
-3	में	meM	PSP	2	lwg__psp	-	-
-4	कुतुब	kuwuba	NNPC	5	pof__cn	11	begin
-5	मीनार	mInAra	NNP	7	k7p	11	inside
-6	पर	para	PSP	5	lwg__psp	-	-
-7	चढ़ा	caDZA	VM	0	main	-	-
-8	।	.	SYM	7	rsym	-	-
+1	rAma	राम	NNP	7	k1	9	begin
+2	xillI	दिल्ली	NNP	7	k7p	10	begin
+3	meM	में	PSP	2	lwg__psp	-	-
+4	kuwuba	कुतुब	NNPC	5	pof__cn	11	begin
+5	mInAra	मीनार	NNP	7	k7p	11	inside
+6	para	पर	PSP	5	lwg__psp	-	-
+7	caDZA	चढ़ा	VM	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
 9	[ne_1]	per_1	-	-	-	-	-
 10	[ne_2]	loc_1	-	-	-	12	whole
 11	[ne_3]	loc_2	-	-	-	12	part
@@ -323,14 +323,14 @@
 
 
 <sentence_id=21>
-1	राम	rAma	NNP	7	k1	9	begin
-2	दिल्ली	xillI	NNP	5	r6	10	begin
-3	के	ke	PSP	2	lwg__psp	-	-
-4	कुतुब	kuwuba	NNPC	5	pof__cn	11	begin
-5	मीनार	mInAra	NNP	7	k7p	11	inside
-6	पर	para	PSP	5	lwg__psp	-	-
-7	चढ़ा	caDZA	VM	0	main	-	-
-8	।	.	SYM	7	rsym	-	-
+1	rAma	राम	NNP	7	k1	9	begin
+2	xillI	दिल्ली	NNP	5	r6	10	begin
+3	ke	के	PSP	2	lwg__psp	-	-
+4	kuwuba	कुतुब	NNPC	5	pof__cn	11	begin
+5	mInAra	मीनार	NNP	7	k7p	11	inside
+6	para	पर	PSP	5	lwg__psp	-	-
+7	caDZA	चढ़ा	VM	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
 9	[ne_1]	per_1	-	-	-	-	-
 10	[ne_2]	loc_1	-	-	-	12	whole
 11	[ne_3]	loc_2	-	-	-	12	part
@@ -339,49 +339,49 @@
 
 
 <sentence_id=22>
-1	रोज़	rojZa	NN	5	k7t	-	-
+1	rojZa	रोज़	NN	5	k7t	-	-
 2	4	4	QC	3	card	8	count
-3	लीटर	lItara	NN	4	mod	8	unit
-4	पानी	pAnI	NN	5	k2	-	-
-5	पीना	pInA	VM	0	main	-	-
-6	चाहिए	cAhie	VAUX	5	lwg__vaux	-	-
-7	।	.	SYM	5	rsym	-	-
+3	lItara	लीटर	NN	4	mod	8	unit
+4	pAnI	पानी	NN	5	k2	-	-
+5	pInA	पीना	VM	0	main	-	-
+6	cAhie	चाहिए	VAUX	5	lwg__vaux	-	-
+7	.	।	SYM	5	rsym	-	-
 8	[meas_1]	[meas_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=23>
-1	राम	rAma	NNP	5	k1	7	begin
+1	rAma	राम	NNP	5	k1	7	begin
 2	5	5	QC	3	card	8	count
-3	किलो	kilo	NN	4	mod	8	unit
-4	आलू	AlU	NN	5	k2	-	-
-5	लाया	lAyA	VM	0	main	-	-
-6	।	.	SYM	5	rsym	-	-
+3	kilo	किलो	NN	4	mod	8	unit
+4	AlU	आलू	NN	5	k2	-	-
+5	lAyA	लाया	VM	0	main	-	-
+6	.	।	SYM	5	rsym	-	-
 7	[ne_1]	per_1	-	-	-	-	-
 8	[meas_1]	[meas_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=24>
-1	राम	rAma	NNP	12	k1	20	begin
-2	और	Ora	CC	12	k1	-	-
-3	मोहन	mohana	NNPC	4	pof__cn	21	begin
-4	लाल	lAla	NNP	12	k1	21	inside
-5	भारत	BArawa	NNPC	6	pof__cn	22	begin
-6	सेवाश्रम	sevASrama	NNP	12	k7p	22	inside
-7	में	meM	PSP	6	lwg__psp	-	-
-8	सुबह	subaha	NN	12	k7t	25	start
-9	से	se	PSP	8	lwg__psp	-	-
-10	शाम	SAma	NN	12	k7t	25	end
-11	तक	waka	PSP	10	lwg__psp	-	-
-12	नाचते	nAcawe	VM	18	rsk	-	-
-13	हुए	hue	VAUX	12	lwg__vaux	-	-
-14	माता	mAwA	NNPC	15	pof__cn	23	begin
-15	देवी	xevI	NNP	17	k2	23	inside
-16	का	kA	PSP	15	lwg__psp	-	-
-17	भजन	Bajana	NN	18	pof	24	kriyAmUla
-18	किया	kiyA	VM	0	main	24	verbalizer_B
-19	।	.	SYM	18	rsym	-	-
+1	rAma	राम	NNP	12	k1	20	begin
+2	Ora	और	CC	12	k1	-	-
+3	mohana	मोहन	NNPC	4	pof__cn	21	begin
+4	lAla	लाल	NNP	12	k1	21	inside
+5	BArawa	भारत	NNPC	6	pof__cn	22	begin
+6	sevASrama	सेवाश्रम	NNP	12	k7p	22	inside
+7	meM	में	PSP	6	lwg__psp	-	-
+8	subaha	सुबह	NN	12	k7t	25	start
+9	se	से	PSP	8	lwg__psp	-	-
+10	SAma	शाम	NN	12	k7t	25	end
+11	waka	तक	PSP	10	lwg__psp	-	-
+12	nAcawe	नाचते	VM	18	rsk	-	-
+13	hue	हुए	VAUX	12	lwg__vaux	-	-
+14	mAwA	माता	NNPC	15	pof__cn	23	begin
+15	xevI	देवी	NNP	17	k2	23	inside
+16	kA	का	PSP	15	lwg__psp	-	-
+17	Bajana	भजन	NN	18	pof	24	kriyAmUla
+18	kiyA	किया	VM	0	main	24	verbalizer_B
+19	.	।	SYM	18	rsym	-	-
 20	[ne_1]	per_1	-	-	-	26	op1
 21	[ne_2]	per_2	-	-	-	26	op2
 22	[ne_3]	loc_1	-	-	-	-	-
@@ -393,26 +393,26 @@
 
 
 <sentence_id=25>
-1	यह	yaha	PRP	18	k1	-	-
-2	प्रकृति	prakqwi	NNC	3	pof__cn	21	mod
-3	संबंध	saMbaMXa	NN	10	ccof	21	head
-4	और	Ora	CC	10	ccof	-	-
-5	मानव	mAnava	NNPC	7	pof__cn	22	begin
-6	प्रकृति	prakqwi	NNC	7	pof__cn	23	mod
-7	संबंध	saMbaMXa	NN	9	r6	23	head
-8	की	kI	PSP	7	lwg__psp	-	-
-9	गुणवत्ता	guNavawwA	NN	10	ccof	25	op2
-10	और	Ora	CC	15	r6	-	-
-11	इसके	isake	PRP	13	r6	-	-
-12	मानवीय	mAnavIya	JJ	13	mod	-	-
-13	कल्याण	kalyANa	NN	10	ccof	25	op3
-14	के	ke	PSP	13	lwg__psp	-	-
-15	निहितार्थ	nihiwArWa	NN	17	k2	-	-
-16	का	kA	PSP	15	lwg__psp	-	-
-17	अध्ययन	aXyayana	NN	18	pof	24	kriyAmUla
-18	करता	karawA	VM	0	main	24	verbalizer_B
-19	है	hE	VAUX	18	lwg__vaux	24	verbalizer_I
-20	।	.	SYM	18	rsym	-	-
+1	yaha	यह	PRP	18	k1	-	-
+2	prakqwi	प्रकृति	NNC	3	pof__cn	21	mod
+3	saMbaMXa	संबंध	NN	10	ccof	21	head
+4	Ora	और	CC	10	ccof	-	-
+5	mAnava	मानव	NNPC	7	pof__cn	22	begin
+6	prakqwi	प्रकृति	NNC	7	pof__cn	23	mod
+7	saMbaMXa	संबंध	NN	9	r6	23	head
+8	kI	की	PSP	7	lwg__psp	-	-
+9	guNavawwA	गुणवत्ता	NN	10	ccof	25	op2
+10	Ora	और	CC	15	r6	-	-
+11	isake	इसके	PRP	13	r6	-	-
+12	mAnavIya	मानवीय	JJ	13	mod	-	-
+13	kalyANa	कल्याण	NN	10	ccof	25	op3
+14	ke	के	PSP	13	lwg__psp	-	-
+15	nihiwArWa	निहितार्थ	NN	17	k2	-	-
+16	kA	का	PSP	15	lwg__psp	-	-
+17	aXyayana	अध्ययन	NN	18	pof	24	kriyAmUla
+18	karawA	करता	VM	0	main	24	verbalizer_B
+19	hE	है	VAUX	18	lwg__vaux	24	verbalizer_I
+20	.	।	SYM	18	rsym	-	-
 21	[nc_1]	[nc_1]	-	-	-	25	op1
 22	[ne_0]	[ne_0]	-	-	-	-	-
 23	[nc_2]	[nc_2]	-	-	-	-	-
@@ -422,33 +422,33 @@
 
 
 <sentence_id=26>
-1	राम	rAma	NNP	7	k1	9	begin
-2	जनवरी	janavarI	NNP	4	rsp	10	start
-3	से	se	PSP	2	lwg__psp	-	-
-4	मार्च	mArca	NNP	7	k7t	10	end
-5	तक	waka	PSP	4	lwg__psp	-	-
-6	घर	Gara	NN	7	k2p	-	-
-7	गया	gayA	VM	0	main	-	-
-8	।	.	SYM	7	rsym	-	-
+1	rAma	राम	NNP	7	k1	9	begin
+2	janavarI	जनवरी	NNP	4	rsp	10	start
+3	se	से	PSP	2	lwg__psp	-	-
+4	mArca	मार्च	NNP	7	k7t	10	end
+5	waka	तक	PSP	4	lwg__psp	-	-
+6	Gara	घर	NN	7	k2p	-	-
+7	gayA	गया	VM	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
 9	[ne_1]	per_1	-	-	-	-	-
 10	[span_1]	[span_1]	-	-	-	-	-
 </sentence_id>
 
 
 <sentence_id=27>
-1	मोहन	mohana	NNP	2	nmod__adj	14	begin
-2	सुबह	subaha	NN	11	k7t	15	start
-3	से	se	PSP	2	lwg__psp	-	-
-4	दोपहर	xopahara	NN	11	k7t	15	end
-5	तक	waka	PSP	4	lwg__psp	-	-
-6	या	yA	CC	11	k7t	-	-
-7	शाम	SAma	NN	11	k7t	16	start
-8	से	se	PSP	7	lwg__psp	-	-
-9	रात	rAwa	NN	11	k7t	16	end
-10	तक	waka	PSP	9	lwg__psp	-	-
-11	पढ़ा	paDZA	VM	0	main	-	-
-12	था	WA	VAUX	11	lwg__vaux	-	-
-13	।	.	SYM	11	rsym	-	-
+1	mohana	मोहन	NNP	2	nmod__adj	14	begin
+2	subaha	सुबह	NN	11	k7t	15	start
+3	se	से	PSP	2	lwg__psp	-	-
+4	xopahara	दोपहर	NN	11	k7t	15	end
+5	waka	तक	PSP	4	lwg__psp	-	-
+6	yA	या	CC	11	k7t	-	-
+7	SAma	शाम	NN	11	k7t	16	start
+8	se	से	PSP	7	lwg__psp	-	-
+9	rAwa	रात	NN	11	k7t	16	end
+10	waka	तक	PSP	9	lwg__psp	-	-
+11	paDZA	पढ़ा	VM	0	main	-	-
+12	WA	था	VAUX	11	lwg__vaux	-	-
+13	.	।	SYM	11	rsym	-	-
 14	[ne_1]	per_1	-	-	-	-	-
 15	[span_1]	[span_1]	-	-	-	17	op1
 16	[span_2]	[span_2]	-	-	-	17	op2
