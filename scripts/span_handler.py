@@ -18,7 +18,7 @@ def handle_spans(parser_output, new_entries, span_count):
                 start_item = start_stack.pop()
 
                 for target_item in parser_output:
-                    if int(target_item.get('index', -1)) == head_index and target_item.get('dependency_relation') in ['k7t', 'k7p', 'rsp']:
+                    if int(target_item.get('index', -1)) == head_index and target_item.get('dependency_relation') in ['k7t', 'k7p', 'rsp', 'k2p']:
                         span_index = len(parser_output) + len(new_entries) + 1
                         
                         new_entry = {
