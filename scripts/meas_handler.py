@@ -17,7 +17,8 @@ def handle_measurement_units(parser_output, new_entries, meas_count, meas_UNITS)
                     meas_entry = {
                         'index': meas_index,
                         'original_word': f'[meas_{meas_count}]',
-                        'wx_word': f'[meas_{meas_count}]'
+                        'wx_word': f'[meas_{meas_count}]',
+                        'dependency_relation': item.get("dependency_relation"),
                     }
                     new_entries.append(meas_entry)
                     meas_count += 1

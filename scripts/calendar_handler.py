@@ -20,11 +20,15 @@ def handle_calendaric_units(parser_output, new_entries, calendaric_count, calend
                     calendaric_entry = {
                         'index': calendaric_index,
                         'original_word': f'[calendar_{calendaric_count}]',
-                        'wx_word': f'[calendar_{calendaric_count}]'
+                        'wx_word': f'[calendar_{calendaric_count}]',
+                        'dependency_relation': item.get("dependency_relation"),
                     }
                     new_entries.append(calendaric_entry)
                     calendaric_count += 1
 
                     if re.search(r'\d', next_word):
                         update_cnx_value(next_item, calendaric_index, f'component_of')
+                        
+                        # Update dependency_relation of calendaric_entry
+                        calendaric_entry['dependency_relation'] = next_item.get("dependency_relation")
     return calendaric_count

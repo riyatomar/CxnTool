@@ -3,87 +3,20 @@
         {
             "annotation": [
                 {
-                    "annotation": "O",
-                    "word": "मनु"
+                    "annotation": "B-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "लाल"
                 },
                 {
                     "annotation": "O",
-                    "word": "ने"
+                    "word": "बाजार"
                 },
                 {
                     "annotation": "O",
-                    "word": "एक"
-                },
-                {
-                    "annotation": "O",
-                    "word": "दिन"
-                },
-                {
-                    "annotation": "B-LOC",
-                    "word": "बनारस"
-                },
-                {
-                    "annotation": "O",
-                    "word": "से"
-                },
-                {
-                    "annotation": "B-LOC",
-                    "word": "दिल्ली"
-                },
-                {
-                    "annotation": "O",
-                    "word": "तक"
-                },
-                {
-                    "annotation": "O",
-                    "word": "पैदल"
-                },
-                {
-                    "annotation": "O",
-                    "word": "जाने"
-                },
-                {
-                    "annotation": "O",
-                    "word": "की"
-                },
-                {
-                    "annotation": "O",
-                    "word": "योजना"
-                },
-                {
-                    "annotation": "O",
-                    "word": "बनाई"
-                },
-                {
-                    "annotation": "O",
-                    "word": "।"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "मनु ने एक दिन बनारस से दिल्ली तक पैदल जाने की योजना बनाई ।",
-            "sentence_id": "1"
-        },
-        {
-            "annotation": [
-                {
-                    "annotation": "O",
-                    "word": "पर"
-                },
-                {
-                    "annotation": "O",
-                    "word": "उसे"
-                },
-                {
-                    "annotation": "O",
-                    "word": "ये"
-                },
-                {
-                    "annotation": "O",
-                    "word": "मालूम"
-                },
-                {
-                    "annotation": "O",
-                    "word": "नहीं"
+                    "word": "गया"
                 },
                 {
                     "annotation": "O",
@@ -95,119 +28,14 @@
                 }
             ],
             "project_id": 1,
-            "sentence": "पर उसे ये मालूम नहीं था ।",
-            "sentence_id": "2a"
+            "sentence": "मोहन लाल बाजार गया था ।",
+            "sentence_id": 1
         },
         {
             "annotation": [
                 {
                     "annotation": "O",
-                    "word": "कि"
-                },
-                {
-                    "annotation": "O",
-                    "word": "उस"
-                },
-                {
-                    "annotation": "O",
-                    "word": "दिन"
-                },
-                {
-                    "annotation": "O",
-                    "word": "बारिश"
-                },
-                {
-                    "annotation": "O",
-                    "word": "होगी"
-                },
-                {
-                    "annotation": "O",
-                    "word": "।"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "कि उस दिन बारिश होगी ।",
-            "sentence_id": "2b"
-        },
-        {
-            "annotation": [
-                {
-                    "annotation": "O",
-                    "word": "या"
-                },
-                {
-                    "annotation": "O",
-                    "word": "बारिश"
-                },
-                {
-                    "annotation": "O",
-                    "word": "नहीं"
-                },
-                {
-                    "annotation": "O",
-                    "word": "होगी"
-                },
-                {
-                    "annotation": "O",
-                    "word": "।"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "या बारिश नहीं होगी ।",
-            "sentence_id": "2c"
-        },
-        {
-            "annotation": [
-                {
-                    "annotation": "O",
-                    "word": "इसलिये"
-                },
-                {
-                    "annotation": "O",
-                    "word": "उसने"
-                },
-                {
-                    "annotation": "O",
-                    "word": "एक"
-                },
-                {
-                    "annotation": "O",
-                    "word": "दस"
-                },
-                {
-                    "annotation": "O",
-                    "word": "ईंच"
-                },
-                {
-                    "annotation": "O",
-                    "word": "का"
-                },
-                {
-                    "annotation": "O",
-                    "word": "छाता"
-                },
-                {
-                    "annotation": "O",
-                    "word": "ले"
-                },
-                {
-                    "annotation": "O",
-                    "word": "लिया"
-                },
-                {
-                    "annotation": "O",
-                    "word": "।"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "इसलिये उसने एक दस ईंच का छाता ले लिया ।",
-            "sentence_id": "3"
-        },
-        {
-            "annotation": [
-                {
-                    "annotation": "O",
-                    "word": "मनु"
+                    "word": "मैं"
                 },
                 {
                     "annotation": "O",
@@ -215,19 +43,669 @@
                 },
                 {
                     "annotation": "O",
-                    "word": "सात"
+                    "word": "से"
                 },
                 {
                     "annotation": "O",
-                    "word": "बजे"
+                    "word": "रात"
                 },
                 {
                     "annotation": "O",
-                    "word": "चलना"
+                    "word": "तक"
                 },
                 {
                     "annotation": "O",
-                    "word": "शुरू"
+                    "word": "पढ़ूंगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "मैं सुबह से रात तक पढ़ूंगा ।",
+            "sentence_id": 2
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्कूल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जायेंगे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम और मोहन कल स्कूल जायेंगे ।",
+            "sentence_id": 3
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "सीता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "फल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सब्जी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आएगी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "सीता फल या सब्जी ले आएगी ।",
+            "sentence_id": 4
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-LOC",
+                    "word": "अयोध्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "राजा"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "अयोध्या के राजा राम हैं ।",
+            "sentence_id": 5
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-ORG",
+                    "word": "संयुक्त"
+                },
+                {
+                    "annotation": "I-ORG",
+                    "word": "राष्ट्र"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "संघ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ने"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "रूस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शांति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्थापित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आदेश"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दिया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "संयुक्त राष्ट्र संघ ने रूस को शांति स्थापित करने का आदेश दिया ।",
+            "sentence_id": 6
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "श्याम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "दिल्ली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएंगे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम , श्याम और मोहन दिल्ली जाएंगे ।",
+            "sentence_id": 7
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-ORG",
+                    "word": "नासा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ने"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "मंगल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ग्रह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "यान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भेजा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "नासा ने मंगल ग्रह पर यान भेजा ।",
+            "sentence_id": 8
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "यह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मानव"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रकृति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संबंध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गुणवत्ता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निहितार्थ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "यह मानव प्रकृति संबंध की गुणवत्ता के निहितार्थ का अध्ययन करता है ।",
+            "sentence_id": 9
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "10"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किलो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेकर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "20"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किलो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वजन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उठाया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम ने 10 किलो से लेकर 20 किलो तक वजन उठाया ।",
+            "sentence_id": 10
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "4"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जनवरी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "दिल्ली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "कुतुब"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मीनार"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "100"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मंजिलें"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चढ़ा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 मंजिलें चढ़ा ।",
+            "sentence_id": 11
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "महामारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कारण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बहुत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लोगो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अकाल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मृत्यु"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हुई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "महामारी के कारण बहुत लोगो की अकाल मृत्यु हुई है ।",
+            "sentence_id": 12
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "हमारा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देश"
+                },
+                {
+                    "annotation": "O",
+                    "word": "15"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अगस्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "1947"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आज़ाद"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हुआ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
+            "sentence_id": 13
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "4"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जनवरी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "दिल्ली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "कुतुब"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मीनार"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "100"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सीढ़ियाँ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चढ़ा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 सीढ़ियाँ चढ़ा ।",
+            "sentence_id": 14
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रेलवे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्टेशन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "छोड़ने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम मोहन को रेलवे स्टेशन छोड़ने गया ।",
+            "sentence_id": 15
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गुरु"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देख"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उन्हें"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रणाम"
                 },
                 {
                     "annotation": "O",
@@ -235,34 +713,38 @@
                 },
                 {
                     "annotation": "O",
-                    "word": "|"
+                    "word": "।"
                 }
             ],
             "project_id": 1,
-            "sentence": "मनु सुबह सात बजे चलना शुरू किया |",
-            "sentence_id": "4a"
+            "sentence": "राम ने अपने गुरु को देख कर उन्हें प्रणाम किया ।",
+            "sentence_id": 16
         },
         {
             "annotation": [
                 {
-                    "annotation": "O",
-                    "word": "तभी"
+                    "annotation": "B-PER",
+                    "word": "मोहन"
                 },
                 {
                     "annotation": "O",
-                    "word": "अचानक"
+                    "word": "ने"
                 },
                 {
                     "annotation": "O",
-                    "word": "तुफान"
+                    "word": "10"
                 },
                 {
                     "annotation": "O",
-                    "word": "आ"
+                    "word": "किलो"
                 },
                 {
                     "annotation": "O",
-                    "word": "गया"
+                    "word": "चावल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "खरीदे"
                 },
                 {
                     "annotation": "O",
@@ -270,22 +752,430 @@
                 }
             ],
             "project_id": 1,
-            "sentence": "तभी अचानक तुफान आ गया ।",
-            "sentence_id": "4b"
+            "sentence": "मोहन ने 10 किलो चावल खरीदे ।",
+            "sentence_id": 17
         },
         {
             "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "15"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अगस्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "1947"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हमारा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देश"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आजाद"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हुआ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "था"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "15 अगस्त 1947 को हमारा देश आजाद हुआ था ।",
+            "sentence_id": 18
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "मेरा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जन्मदिन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "21"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अगस्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "मेरा जन्मदिन 21 अगस्त को है ।",
+            "sentence_id": 19
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "दिल्ली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "कुतुब"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "मीनार"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चढ़ा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम दिल्ली में कुतुब मीनार पर चढ़ा ।",
+            "sentence_id": 20
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "दिल्ली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "कुतुब"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "मीनार"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चढ़ा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
+            "sentence_id": 21
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "रोज़"
+                },
+                {
+                    "annotation": "O",
+                    "word": "4"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लीटर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पानी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पीना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चाहिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "रोज़ 4 लीटर पानी पीना चाहिए ।",
+            "sentence_id": 22
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "5"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किलो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आलू"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लाया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम 5 किलो आलू लाया ।",
+            "sentence_id": 23
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "लाल"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "भारत"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "सेवाश्रम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सुबह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शाम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "नाचते"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "हूये"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "माता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देवी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भजन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम और मोहन लाल भारत सेवाश्रम में सुबह से शाम तक नाचते हूये माता देवी का भजन किया ।",
+            "sentence_id": 24
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "यह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रकृति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संबंध"
+                },
                 {
                     "annotation": "O",
                     "word": "और"
                 },
                 {
                     "annotation": "O",
-                    "word": "छाता"
+                    "word": "मानव"
                 },
                 {
                     "annotation": "O",
-                    "word": "उड़"
+                    "word": "प्रकृति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संबंध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गुणवत्ता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "इसके"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मानवीय"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कल्याण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निहितार्थ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "यह प्रकृति संबंध और मानव प्रकृति संबंध की गुणवत्ता और इसके मानवीय कल्याण के निहितार्थ का अध्ययन करता है ।",
+            "sentence_id": 25
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जनवरी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मार्च"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "घर"
                 },
                 {
                     "annotation": "O",
@@ -297,8 +1187,67 @@
                 }
             ],
             "project_id": 1,
-            "sentence": "और छाता उड़ गया ।",
-            "sentence_id": "4c"
+            "sentence": "राम जनवरी से मार्च तक घर गया ।",
+            "sentence_id": 26
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सुबह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दोपहर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शाम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रात"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पढ़ा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "था"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "मोहन सुबह से दोपहर तक या शाम से रात तक पढ़ा था ।",
+            "sentence_id": 27
         }
     ],
     "response_for": "USR"

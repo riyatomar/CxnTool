@@ -28,7 +28,8 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                             new_entry = {
                                 'index': spatial_index,
                                 'original_word': f'[spatial_{spatial_count}]',
-                                'wx_word': f'[spatial_{spatial_count}]'
+                                'wx_word': f'[spatial_{spatial_count}]',
+                                'dependency_relation': item.get("dependency_relation"),
                             }
                             new_entries.append(new_entry)
 
@@ -80,7 +81,8 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                                     new_entry = {
                                         'index': spatial_index,
                                         'original_word': f'[spatial_{spatial_count}]',
-                                        'wx_word': f'[spatial_{spatial_count}]'
+                                        'wx_word': f'[spatial_{spatial_count}]',
+                                        'dependency_relation': 'k7p',
                                     }
                                     new_entries.append(new_entry)
 

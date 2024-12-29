@@ -1,0 +1,96 @@
+<sentence_id=1>
+1	manu	मनु	NNP	13	k1	-	-
+2	ne	ने	PSP	1	lwg__psp	-	-
+3	eka	एक	QC	4	card	-	-
+4	xina	दिन	NN	10	k7t	-	-
+5	banArasa	बनारस	NNP	7	rsp	15	begin
+6	se	से	PSP	5	lwg__psp	-	-
+7	xillI	दिल्ली	NNP	10	k2p	16	begin
+8	waka	तक	PSP	7	lwg__psp	-	-
+9	pExala	पैदल	JJ	10	k2p	-	-
+10	jAne	जाने	VM	12	r6	-	-
+11	kI	की	PSP	10	lwg__psp	-	-
+12	yojanA	योजना	NN	13	k2	-	-
+13	banAI	बनाई	VM	0	main	-	-
+14	.	।	SYM	13	rsym	-	-
+15	[ne_1]	loc_1	-	-	-	17	start
+16	[ne_2]	loc_2	-	-	-	17	end
+17	[span_1]	[span_1]	-	-	-	-	-
+</sentence_id>
+
+
+<sentence_id=2a>
+1	para	पर	CC	0	main	-	-
+2	use	उसे	PRP	6	k4a	-	-
+3	ye	ये	PRP	6	k1	-	-
+4	mAlUma	मालूम	JJ	6	pof	8	kriyAmUla
+5	nahIM	नहीं	NEG	6	neg	-	-
+6	WA	था	VM	0	main	8	verbalizer_B
+7	.	।	SYM	1	rsym	-	-
+8	[cp_1]	[cp_1]	-	-	-	9	op1
+</sentence_id>
+
+
+<sentence_id=2b>
+1	usa	उस	DEM	2	dem	-	-
+2	xina	दिन	NN	4	k7t	-	-
+3	bAriSa	बारिश	NN	4	pof	6	kriyAmUla
+4	hogI	होगी	VM	0	main	6	verbalizer_B
+5	.	।	SYM	4	rsym	-	-
+6	[cp_1]	[cp_1]	-	-	-	-	-
+</sentence_id>
+
+
+<sentence_id=2c>
+1	bAriSa	बारिश	NN	3	pof	5	kriyAmUla
+2	nahIM	नहीं	NEG	3	neg	-	-
+3	hogI	होगी	VM	0	main	5	verbalizer_B
+4	.	।	SYM	3	rsym	-	-
+5	[cp_1]	[cp_1]	-	-	-	-	-
+</sentence_id>
+
+
+<sentence_id=3>
+1	isaliye	इसलिये	PRP	8	rh	-	-
+2	usane	उसने	PRP	8	k1	-	-
+3	eka	एक	QC	5	card	-	-
+4	xasa	दस	QC	5	card	-	-
+5	IMca	ईंच	NN	7	r6	-	-
+6	kA	का	PSP	5	lwg__psp	-	-
+7	CAwA	छाता	NN	8	k2	-	-
+8	le	ले	VM	0	main	-	-
+9	liyA	लिया	VAUX	8	lwg__vaux	-	-
+10	.	।	SYM	8	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=4a>
+1	manu	मनु	NNP	7	k1	-	-
+2	subaha	सुबह	NN	5	k7t	-	-
+3	sAwa	सात	QC	4	card	-	-
+4	baje	बजे	NN	5	k7t	-	-
+5	calanA	चलना	VM	7	k2	-	-
+6	SurU	शुरू	NN	7	pof	9	kriyAmUla
+7	kiyA	किया	VM	0	main	9	verbalizer_B
+8	|	|	SYM	7	rsym	-	-
+9	[cp_1]	[cp_1]	-	-	-	-	-
+</sentence_id>
+
+
+<sentence_id=4b>
+1	waBI	तभी	PRP	4	k7t	-	-
+2	acAnaka	अचानक	RB	4	krvn	-	-
+3	wuPAna	तुफान	NN	4	k1	-	-
+4	A	आ	VM	0	main	-	-
+5	gayA	गया	VAUX	4	lwg__vaux	-	-
+6	.	।	SYM	4	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=4c>
+1	CAwA	छाता	NN	2	k1	-	-
+2	udZa	उड़	VM	0	main	-	-
+3	gayA	गया	VAUX	2	lwg__vaux	-	-
+4	.	।	SYM	2	rsym	-	-
+</sentence_id>
+

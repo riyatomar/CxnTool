@@ -1,0 +1,102 @@
+{
+    "response": [
+      {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "12",
+                    "index": 1,
+                    "original_word": "राम",
+                    "pos_tag": "NNP"
+                },
+                {
+                    "dependency_relation": "pof__cn",
+                    "head_index": "3",
+                    "index": 2,
+                    "original_word": "4",
+                    "pos_tag": "NNPC"
+                },
+                {
+                    "dependency_relation": "k7t",
+                    "head_index": "12",
+                    "index": 3,
+                    "original_word": "जनवरी",
+                    "pos_tag": "NNP"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "3",
+                    "index": 4,
+                    "original_word": "को",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "r6",
+                    "head_index": "8",
+                    "index": 5,
+                    "original_word": "दिल्ली",
+                    "pos_tag": "NNP"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "5",
+                    "index": 6,
+                    "original_word": "के",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "pof__cn",
+                    "head_index": "8",
+                    "index": 7,
+                    "original_word": "कुतुब",
+                    "pos_tag": "NNPC"
+                },
+                {
+                    "dependency_relation": "k7p",
+                    "head_index": "12",
+                    "index": 8,
+                    "original_word": "मीनार",
+                    "pos_tag": "NNP"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "8",
+                    "index": 9,
+                    "original_word": "पर",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "card",
+                    "head_index": "11",
+                    "index": 10,
+                    "original_word": "100",
+                    "pos_tag": "QC"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "12",
+                    "index": 11,
+                    "original_word": "मंजिलें",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 12,
+                    "original_word": "चढ़ा",
+                    "pos_tag": "VM"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "12",
+                    "index": 13,
+                    "original_word": "।",
+                    "pos_tag": "SYM"
+                }
+            ],
+            "project_id": 1,
+            "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 मंजिलें चढ़ा ।",
+            "sentence_id": 11
+        }
+    ]
+}

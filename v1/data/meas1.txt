@@ -1,0 +1,61 @@
+{
+    "response": [
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k7t",
+                    "head_index": "5",
+                    "index": 1,
+                    "original_word": "रोज़",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "3",
+                    "index": 2,
+                    "original_word": "4",
+                    "pos_tag": "QC"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "4",
+                    "index": 3,
+                    "original_word": "लीटर",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "पानी",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 5,
+                    "original_word": "पीना",
+                    "pos_tag": "VM"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "5",
+                    "index": 6,
+                    "original_word": "चाहिए",
+                    "pos_tag": "VAUX"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "5",
+                    "index": 7,
+                    "original_word": "।",
+                    "pos_tag": "SYM"
+                }
+            ],
+            "project_id": "123",
+            "sentence": "रोज़ 4 लीटर पानी पीना चाहिए।",
+            "sentence_id": "004"
+        }
+   ]
+}
+   
