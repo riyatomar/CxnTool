@@ -30,6 +30,7 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                                 'original_word': f'[spatial_{spatial_count}]',
                                 'wx_word': f'[spatial_{spatial_count}]',
                                 'dependency_relation': item.get("dependency_relation"),
+                                'head_index': item.get('head_index'),
                             }
                             new_entries.append(new_entry)
 
@@ -83,6 +84,7 @@ def handle_spatial_relations(parser_output, new_entries, spatial_count):
                                         'original_word': f'[spatial_{spatial_count}]',
                                         'wx_word': f'[spatial_{spatial_count}]',
                                         'dependency_relation': 'k7p',
+                                        'head_index': k7p_item.get('head_index'),
                                     }
                                     new_entries.append(new_entry)
 

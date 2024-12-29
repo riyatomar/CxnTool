@@ -5,6 +5,7 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
         if cc_item.get('pos_tag') == 'CC':
             head_index = int(cc_item.get('head_index', -1))
             dep_rel = cc_item.get('dependency_relation', '')
+            cc_head = cc_item.get('head_index', '')
             original_word = cc_item.get('original_word', '')
             op_count = 1
             matching_items = []
@@ -36,6 +37,7 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
                     'original_word': f'[conj_{conj_count}]',
                     'wx_word': f'[conj_{conj_count}]',
                     'dependency_relation': dep_rel,
+                    'head_index': cc_head,
                 }
                 new_entries.append(conj_entry)
                 conj_count += 1
@@ -46,6 +48,7 @@ def handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count,
                     'original_word': f'[disjunct_{disjunct_count}]',
                     'wx_word': f'[disjunct_{disjunct_count}]',
                     'dependency_relation': dep_rel,
+                    'head_index': cc_head,
                 }
                 new_entries.append(disjunct_entry)
                 disjunct_count += 1

@@ -8,7 +8,7 @@ def handle_pof_rvks_rbk(parser_output, new_entries, cp_count):
             cp_index = len(parser_output) + len(new_entries) + 1
 
             # Update last_dependency_relation for the current item
-            last_dependency_relation = item.get('dependency_relation')
+            # last_dependency_relation = item.get('dependency_relation')
 
             if item.get('cnx_component') is not None:
                 already_index = item.get('cnx_index')
@@ -26,6 +26,7 @@ def handle_pof_rvks_rbk(parser_output, new_entries, cp_count):
 
                     # Update last_dependency_relation with the dependency relation of target_item
                     last_dependency_relation = target_item.get('dependency_relation')
+                    last_head_index = target_item.get('head_index')
 
                     for j in range(parser_output.index(target_item) + 1, len(parser_output)):
                         next_item = parser_output[j]
@@ -41,6 +42,7 @@ def handle_pof_rvks_rbk(parser_output, new_entries, cp_count):
                 'original_word': f'[cp_{cp_count}]',
                 'wx_word': f'[cp_{cp_count}]',
                 'dependency_relation': last_dependency_relation,  # Attach the last_dependency_relation here
+                'head_index': last_head_index,
             }
             new_entries.append(new_cp_entry)
             cp_count += 1

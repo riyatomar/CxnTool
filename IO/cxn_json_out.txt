@@ -3,421 +3,44 @@
         {
             "parser_output": [
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "2",
+                    "dependency_relation": "k1",
+                    "head_index": "7",
                     "index": 1,
-                    "original_word": "मोहन",
-                    "pos_tag": "NNPC",
-                    "wx_word": "mohana",
-                    "cnx_index": 7,
-                    "cnx_component": "begin"
+                    "original_word": "कौन",
+                    "pos_tag": "WQ",
+                    "wx_word": "kOna"
                 },
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "4",
+                    "dependency_relation": "k2",
+                    "head_index": "7",
                     "index": 2,
-                    "original_word": "लाल",
-                    "pos_tag": "NNP",
-                    "wx_word": "lAla",
-                    "cnx_index": 7,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "k2p",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "बाजार",
-                    "pos_tag": "NNP",
-                    "wx_word": "bAjAra"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 4,
-                    "original_word": "गया",
-                    "pos_tag": "VM",
-                    "wx_word": "gayA"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "4",
-                    "index": 5,
-                    "original_word": "था",
-                    "pos_tag": "VAUX",
-                    "wx_word": "WA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "4",
-                    "index": 6,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 7,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "मोहन लाल बाजार गया था ।",
-            "sentence_id": 1
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "6",
-                    "index": 1,
-                    "original_word": "मैं",
+                    "original_word": "तुम्हें",
                     "pos_tag": "PRP",
-                    "wx_word": "mEM"
+                    "wx_word": "wumheM"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "6",
-                    "index": 2,
-                    "original_word": "सुबह",
-                    "pos_tag": "NN",
-                    "wx_word": "subaha",
-                    "cnx_index": 8,
-                    "cnx_component": "start"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "2",
-                    "index": 3,
-                    "original_word": "से",
-                    "pos_tag": "PSP",
-                    "wx_word": "se"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "6",
-                    "index": 4,
-                    "original_word": "रात",
-                    "pos_tag": "NN",
-                    "wx_word": "rAwa",
-                    "cnx_index": 8,
-                    "cnx_component": "end"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 5,
-                    "original_word": "तक",
-                    "pos_tag": "PSP",
-                    "wx_word": "waka"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 6,
-                    "original_word": "पढ़ूंगा",
-                    "pos_tag": "VM",
-                    "wx_word": "paDZUMgA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 8,
-                    "original_word": "[span_1]",
-                    "wx_word": "[span_1]",
-                    "dependency_relation": "k7t"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "मैं सुबह से रात तक पढ़ूंगा ।",
-            "sentence_id": 2
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "6",
-                    "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 8,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "6",
-                    "index": 2,
-                    "original_word": "और",
-                    "pos_tag": "CC",
-                    "wx_word": "Ora"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "6",
-                    "index": 3,
-                    "original_word": "मोहन",
-                    "pos_tag": "NNP",
-                    "wx_word": "mohana",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "6",
-                    "index": 4,
-                    "original_word": "कल",
-                    "pos_tag": "NN",
-                    "wx_word": "kala"
-                },
-                {
-                    "dependency_relation": "k2p",
-                    "head_index": "6",
-                    "index": 5,
-                    "original_word": "स्कूल",
-                    "pos_tag": "NN",
-                    "wx_word": "skUla"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 6,
-                    "original_word": "जायेंगे",
-                    "pos_tag": "VM",
-                    "wx_word": "jAyeMge"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 8,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1",
-                    "cnx_index": 10,
-                    "cnx_component": "op1"
-                },
-                {
-                    "index": 9,
-                    "original_word": "per_2",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "k1",
-                    "cnx_index": 10,
-                    "cnx_component": "op2"
-                },
-                {
-                    "index": 10,
-                    "original_word": "[conj_1]",
-                    "wx_word": "[conj_1]",
-                    "dependency_relation": "k1"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम और मोहन कल स्कूल जायेंगे ।",
-            "sentence_id": 3
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "5",
-                    "index": 1,
-                    "original_word": "सीता",
-                    "pos_tag": "NNP",
-                    "wx_word": "sIwA",
-                    "cnx_index": 8,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "5",
-                    "index": 2,
-                    "original_word": "फल",
-                    "pos_tag": "NN",
-                    "wx_word": "Pala",
-                    "cnx_index": 9,
-                    "cnx_component": "op1"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "5",
-                    "index": 3,
-                    "original_word": "या",
-                    "pos_tag": "CC",
-                    "wx_word": "yA"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "सब्जी",
-                    "pos_tag": "NN",
-                    "wx_word": "sabjI",
-                    "cnx_index": 9,
-                    "cnx_component": "op2"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 5,
-                    "original_word": "ले",
-                    "pos_tag": "VM",
-                    "wx_word": "le"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "आएगी",
-                    "pos_tag": "VAUX",
-                    "wx_word": "AegI"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "5",
-                    "index": 7,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 8,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 9,
-                    "original_word": "[disjunct_1]",
-                    "wx_word": "[disjunct_1]",
-                    "dependency_relation": "k2"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "सीता फल या सब्जी ले आएगी ।",
-            "sentence_id": 4
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "3",
-                    "index": 1,
-                    "original_word": "अयोध्या",
-                    "pos_tag": "NNP",
-                    "wx_word": "ayoXyA",
-                    "cnx_index": 7,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "1",
-                    "index": 2,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
-                    "dependency_relation": "mod",
+                    "dependency_relation": "nmod__adj",
                     "head_index": "4",
                     "index": 3,
-                    "original_word": "राजा",
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "काम",
                     "pos_tag": "NN",
-                    "wx_word": "rAjA"
+                    "wx_word": "kAma"
                 },
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
+                    "dependency_relation": "k2",
+                    "head_index": "7",
                     "index": 5,
-                    "original_word": "हैं",
+                    "original_word": "करने",
                     "pos_tag": "VM",
-                    "wx_word": "hEM"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 7,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "r6"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "अयोध्या के राजा राम हैं ।",
-            "sentence_id": 5
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
-                    "index": 1,
-                    "original_word": "संयुक्त",
-                    "pos_tag": "NNPC",
-                    "wx_word": "saMyukwa",
-                    "cnx_index": 14,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
-                    "index": 2,
-                    "original_word": "राष्ट्र",
-                    "pos_tag": "NNPC",
-                    "wx_word": "rARtra",
-                    "cnx_index": 14,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "12",
-                    "index": 3,
-                    "original_word": "संघ",
-                    "pos_tag": "NNP",
-                    "wx_word": "saMGa"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "3",
-                    "index": 4,
-                    "original_word": "ने",
-                    "pos_tag": "PSP",
-                    "wx_word": "ne"
-                },
-                {
-                    "dependency_relation": "k4",
-                    "head_index": "12",
-                    "index": 5,
-                    "original_word": "रूस",
-                    "pos_tag": "NNP",
-                    "wx_word": "rUsa",
-                    "cnx_index": 16,
-                    "cnx_component": "begin"
+                    "wx_word": "karane"
                 },
                 {
                     "dependency_relation": "lwg__psp",
@@ -428,619 +51,272 @@
                     "wx_word": "ko"
                 },
                 {
-                    "dependency_relation": "k2",
-                    "head_index": "9",
-                    "index": 7,
-                    "original_word": "शांति",
-                    "pos_tag": "NN",
-                    "wx_word": "SAMwi"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "9",
-                    "index": 8,
-                    "original_word": "स्थापित",
-                    "pos_tag": "JJ",
-                    "wx_word": "sWApiwa",
-                    "cnx_index": 17,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "11",
-                    "index": 9,
-                    "original_word": "करने",
-                    "pos_tag": "VM",
-                    "wx_word": "karane",
-                    "cnx_index": 17,
-                    "cnx_component": "verbalizer"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "9",
-                    "index": 10,
-                    "original_word": "का",
-                    "pos_tag": "PSP",
-                    "wx_word": "kA"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "12",
-                    "index": 11,
-                    "original_word": "आदेश",
-                    "pos_tag": "NN",
-                    "wx_word": "AxeSa",
-                    "cnx_index": 18,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 12,
-                    "original_word": "दिया",
+                    "index": 7,
+                    "original_word": "कह",
                     "pos_tag": "VM",
-                    "wx_word": "xiyA",
-                    "cnx_index": 18,
-                    "cnx_component": "verbalizer"
+                    "wx_word": "kaha"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "रहा",
+                    "pos_tag": "VAUX",
+                    "wx_word": "rahA"
+                },
+                {
+                    "dependency_relation": "lwg__vaux_cont",
+                    "head_index": "8",
+                    "index": 9,
+                    "original_word": "है",
+                    "pos_tag": "VAUX",
+                    "wx_word": "hE"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "12",
-                    "index": 13,
-                    "original_word": "।",
+                    "head_index": "7",
+                    "index": 10,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 14,
-                    "original_word": "org_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "pof__cn"
-                },
-                {
-                    "index": 15,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 16,
-                    "original_word": "loc_2",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "k4"
-                },
-                {
-                    "index": 17,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]",
-                    "dependency_relation": "k2"
-                },
-                {
-                    "index": 18,
-                    "original_word": "[cp_2]",
-                    "wx_word": "[cp_2]",
-                    "dependency_relation": "main"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "संयुक्त राष्ट्र संघ ने रूस को शांति स्थापित करने का आदेश दिया ।",
-            "sentence_id": 6
+            "project_id": "1",
+            "sentence": "कौन तुम्हें यह काम करने को कह रहा है ?",
+            "sentence_id": "41"
         },
         {
             "parser_output": [
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
+                    "dependency_relation": "adv",
+                    "head_index": "6",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "1",
-                    "index": 2,
-                    "original_word": ",",
-                    "pos_tag": "SYM",
-                    "wx_word": ","
+                    "original_word": "क्या",
+                    "pos_tag": "WQ",
+                    "wx_word": "kyA"
                 },
                 {
                     "dependency_relation": "k1",
-                    "head_index": "7",
+                    "head_index": "6",
+                    "index": 2,
+                    "original_word": "किसी",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisI"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
                     "index": 3,
-                    "original_word": "श्याम",
-                    "pos_tag": "NNP",
-                    "wx_word": "SyAma",
-                    "cnx_index": 10,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
-                    "index": 4,
-                    "original_word": "और",
-                    "pos_tag": "CC",
-                    "wx_word": "Ora"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
-                    "index": 5,
-                    "original_word": "मोहन",
-                    "pos_tag": "NNP",
-                    "wx_word": "mohana",
-                    "cnx_index": 11,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k2p",
-                    "head_index": "7",
-                    "index": 6,
-                    "original_word": "दिल्ली",
-                    "pos_tag": "NNP",
-                    "wx_word": "xillI",
-                    "cnx_index": 12,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 7,
-                    "original_word": "जाएंगे",
-                    "pos_tag": "VM",
-                    "wx_word": "jAeMge"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "7",
-                    "index": 8,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 9,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1",
-                    "cnx_index": 13,
-                    "cnx_component": "op1"
-                },
-                {
-                    "index": 10,
-                    "original_word": "per_2",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "k1",
-                    "cnx_index": 13,
-                    "cnx_component": "op2"
-                },
-                {
-                    "index": 11,
-                    "original_word": "per_3",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "k1",
-                    "cnx_index": 13,
-                    "cnx_component": "op3"
-                },
-                {
-                    "index": 12,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_4]",
-                    "dependency_relation": "k2p"
-                },
-                {
-                    "index": 13,
-                    "original_word": "[conj_1]",
-                    "wx_word": "[conj_1]",
-                    "dependency_relation": "k1"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम , श्याम और मोहन दिल्ली जाएंगे ।",
-            "sentence_id": 7
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
-                    "index": 1,
-                    "original_word": "नासा",
-                    "pos_tag": "NNP",
-                    "wx_word": "nAsA",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "1",
-                    "index": 2,
                     "original_word": "ने",
                     "pos_tag": "PSP",
                     "wx_word": "ne"
                 },
                 {
                     "dependency_relation": "nmod__adj",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "मंगल",
-                    "pos_tag": "NNP",
-                    "wx_word": "maMgala",
-                    "cnx_index": 10,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "7",
+                    "head_index": "5",
                     "index": 4,
-                    "original_word": "ग्रह",
-                    "pos_tag": "NN",
-                    "wx_word": "graha"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 5,
-                    "original_word": "पर",
-                    "pos_tag": "PSP",
-                    "wx_word": "para"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "7",
-                    "index": 6,
-                    "original_word": "यान",
-                    "pos_tag": "NN",
-                    "wx_word": "yAna"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 7,
-                    "original_word": "भेजा",
-                    "pos_tag": "VM",
-                    "wx_word": "BejA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "7",
-                    "index": 8,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 9,
-                    "original_word": "org_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 10,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "nmod__adj"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "नासा ने मंगल ग्रह पर यान भेजा ।",
-            "sentence_id": 8
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "11",
-                    "index": 1,
                     "original_word": "यह",
-                    "pos_tag": "PRP",
+                    "pos_tag": "DEM",
                     "wx_word": "yaha"
                 },
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "4",
-                    "index": 2,
-                    "original_word": "मानव",
-                    "pos_tag": "NNC",
-                    "wx_word": "mAnava",
-                    "cnx_index": 14,
-                    "cnx_component": "mod"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "प्रकृति",
-                    "pos_tag": "NNC",
-                    "wx_word": "prakqwi",
-                    "cnx_index": 15,
-                    "cnx_component": "mod"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "6",
-                    "index": 4,
-                    "original_word": "संबंध",
-                    "pos_tag": "NN",
-                    "wx_word": "saMbaMXa",
-                    "cnx_index": 15,
-                    "cnx_component": "head"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 5,
-                    "original_word": "की",
-                    "pos_tag": "PSP",
-                    "wx_word": "kI"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "8",
-                    "index": 6,
-                    "original_word": "गुणवत्ता",
-                    "pos_tag": "NN",
-                    "wx_word": "guNavawwA"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
                     "dependency_relation": "k2",
-                    "head_index": "10",
-                    "index": 8,
-                    "original_word": "निहितार्थ",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "किताब",
                     "pos_tag": "NN",
-                    "wx_word": "nihiwArWa"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "8",
-                    "index": 9,
-                    "original_word": "का",
-                    "pos_tag": "PSP",
-                    "wx_word": "kA"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "11",
-                    "index": 10,
-                    "original_word": "अध्ययन",
-                    "pos_tag": "NN",
-                    "wx_word": "aXyayana",
-                    "cnx_index": 16,
-                    "cnx_component": "kriyAmUla"
+                    "wx_word": "kiwAba"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 11,
-                    "original_word": "करता",
+                    "index": 6,
+                    "original_word": "पढ़ी",
                     "pos_tag": "VM",
-                    "wx_word": "karawA",
-                    "cnx_index": 16,
-                    "cnx_component": "verbalizer"
+                    "wx_word": "paDZI"
                 },
                 {
                     "dependency_relation": "lwg__vaux",
-                    "head_index": "11",
-                    "index": 12,
+                    "head_index": "6",
+                    "index": 7,
                     "original_word": "है",
                     "pos_tag": "VAUX",
-                    "wx_word": "hE",
-                    "cnx_index": 16,
-                    "cnx_component": "verbalizer"
+                    "wx_word": "hE"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "11",
-                    "index": 13,
-                    "original_word": "।",
+                    "head_index": "6",
+                    "index": 8,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 14,
-                    "original_word": "[nc_1]",
-                    "wx_word": "[nc_1]",
-                    "dependency_relation": "r6"
-                },
-                {
-                    "index": 15,
-                    "original_word": "[nc_2]",
-                    "wx_word": "[nc_2]",
-                    "dependency_relation": "r6"
-                },
-                {
-                    "index": 16,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]",
-                    "dependency_relation": "main"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "यह मानव प्रकृति संबंध की गुणवत्ता के निहितार्थ का अध्ययन करता है ।",
-            "sentence_id": 9
+            "project_id": "1",
+            "sentence": "क्या किसी ने यह किताब पढ़ी है ?",
+            "sentence_id": "42"
         },
         {
             "parser_output": [
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "11",
+                    "dependency_relation": "sent-adv",
+                    "head_index": "6",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 13,
-                    "cnx_component": "begin"
+                    "original_word": "किसके",
+                    "pos_tag": "WQ",
+                    "wx_word": "kisake"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "1",
                     "index": 2,
-                    "original_word": "ने",
-                    "pos_tag": "PSP",
-                    "wx_word": "ne"
+                    "original_word": "साथ",
+                    "pos_tag": "NST",
+                    "wx_word": "sAWa"
                 },
                 {
-                    "dependency_relation": "card",
-                    "head_index": "4",
+                    "dependency_relation": "k1",
+                    "head_index": "6",
                     "index": 3,
-                    "original_word": "10",
-                    "pos_tag": "QC",
-                    "wx_word": "10",
-                    "cnx_index": 14,
-                    "cnx_component": "count"
+                    "original_word": "तुमने",
+                    "pos_tag": "PRP",
+                    "wx_word": "wumane"
                 },
                 {
-                    "dependency_relation": "rsp",
-                    "head_index": "8",
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "5",
                     "index": 4,
-                    "original_word": "किलो",
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "योजना",
                     "pos_tag": "NN",
-                    "wx_word": "kilo",
-                    "cnx_index": 14,
-                    "cnx_component": "unit"
+                    "wx_word": "yojanA"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 6,
+                    "original_word": "बनाई",
+                    "pos_tag": "VM",
+                    "wx_word": "banAI"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "किसके साथ तुमने यह योजना बनाई ?",
+            "sentence_id": "43"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "6",
+                    "index": 1,
+                    "original_word": "तुम",
+                    "pos_tag": "PRP",
+                    "wx_word": "wuma"
+                },
+                {
+                    "dependency_relation": "adv",
+                    "head_index": "6",
+                    "index": 2,
+                    "original_word": "कहाँ",
+                    "pos_tag": "WQ",
+                    "wx_word": "kahAz"
                 },
                 {
                     "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 5,
+                    "head_index": "2",
+                    "index": 3,
                     "original_word": "से",
                     "pos_tag": "PSP",
                     "wx_word": "se"
                 },
                 {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 6,
-                    "original_word": "लेकर",
-                    "pos_tag": "PSP",
-                    "wx_word": "lekara"
-                },
-                {
-                    "dependency_relation": "card",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "20",
-                    "pos_tag": "QC",
-                    "wx_word": "20",
-                    "cnx_index": 15,
-                    "cnx_component": "count"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "11",
-                    "index": 8,
-                    "original_word": "किलो",
-                    "pos_tag": "NN",
-                    "wx_word": "kilo",
-                    "cnx_index": 15,
-                    "cnx_component": "unit"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "8",
-                    "index": 9,
-                    "original_word": "तक",
-                    "pos_tag": "PSP",
-                    "wx_word": "waka"
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
                 },
                 {
                     "dependency_relation": "k2",
-                    "head_index": "11",
-                    "index": 10,
-                    "original_word": "वजन",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "सामान",
                     "pos_tag": "NN",
-                    "wx_word": "vajana"
+                    "wx_word": "sAmAna"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 11,
-                    "original_word": "उठाया",
+                    "index": 6,
+                    "original_word": "लाए",
                     "pos_tag": "VM",
-                    "wx_word": "uTAyA"
+                    "wx_word": "lAe"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "हो",
+                    "pos_tag": "VAUX",
+                    "wx_word": "ho"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "11",
-                    "index": 12,
-                    "original_word": "।",
+                    "head_index": "6",
+                    "index": 8,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 13,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 14,
-                    "original_word": "[meas_1]",
-                    "wx_word": "[meas_1]",
-                    "dependency_relation": "rsp",
-                    "cnx_index": 16,
-                    "cnx_component": "start"
-                },
-                {
-                    "index": 15,
-                    "original_word": "[meas_2]",
-                    "wx_word": "[meas_2]",
-                    "dependency_relation": "k7t",
-                    "cnx_index": 16,
-                    "cnx_component": "end"
-                },
-                {
-                    "index": 16,
-                    "original_word": "[span_1]",
-                    "wx_word": "[span_1]",
-                    "dependency_relation": "k7t"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "राम ने 10 किलो से लेकर 20 किलो तक वजन उठाया ।",
-            "sentence_id": 10
+            "project_id": "1",
+            "sentence": "तुम कहाँ से यह सामान लाए हो ?",
+            "sentence_id": "44"
         },
         {
             "parser_output": [
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "12",
+                    "dependency_relation": "adv",
+                    "head_index": "8",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 14,
-                    "cnx_component": "begin"
+                    "original_word": "क्या",
+                    "pos_tag": "WQ",
+                    "wx_word": "kyA"
                 },
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
+                    "dependency_relation": "k1",
+                    "head_index": "8",
                     "index": 2,
-                    "original_word": "4",
-                    "pos_tag": "NNPC",
-                    "wx_word": "4",
-                    "cnx_index": 18,
-                    "cnx_component": "component_of"
+                    "original_word": "वह",
+                    "pos_tag": "PRP",
+                    "wx_word": "vaha"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "12",
+                    "dependency_relation": "k2",
+                    "head_index": "8",
                     "index": 3,
-                    "original_word": "जनवरी",
-                    "pos_tag": "NNP",
-                    "wx_word": "janavarI",
-                    "cnx_index": 18,
-                    "cnx_component": "component_of"
+                    "original_word": "किसी",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisI"
                 },
                 {
                     "dependency_relation": "lwg__psp",
@@ -1051,1904 +327,890 @@
                     "wx_word": "ko"
                 },
                 {
-                    "dependency_relation": "r6",
+                    "dependency_relation": "k7",
                     "head_index": "8",
                     "index": 5,
-                    "original_word": "दिल्ली",
-                    "pos_tag": "NNP",
-                    "wx_word": "xillI",
-                    "cnx_index": 15,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "कुतुब",
-                    "pos_tag": "NNPC",
-                    "wx_word": "kuwuba",
-                    "cnx_index": 16,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "12",
-                    "index": 8,
-                    "original_word": "मीनार",
-                    "pos_tag": "NNP",
-                    "wx_word": "mInAra",
-                    "cnx_index": 19,
-                    "cnx_component": "part"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "8",
-                    "index": 9,
-                    "original_word": "पर",
-                    "pos_tag": "PSP",
-                    "wx_word": "para"
-                },
-                {
-                    "dependency_relation": "card",
-                    "head_index": "11",
-                    "index": 10,
-                    "original_word": "100",
-                    "pos_tag": "QC",
-                    "wx_word": "100"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "12",
-                    "index": 11,
-                    "original_word": "मंजिलें",
-                    "pos_tag": "NN",
-                    "wx_word": "maMjileM"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 12,
-                    "original_word": "चढ़ा",
-                    "pos_tag": "VM",
-                    "wx_word": "caDZA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "12",
-                    "index": 13,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 14,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 15,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "r6",
-                    "cnx_index": 19,
-                    "cnx_component": "whole"
-                },
-                {
-                    "index": 16,
-                    "original_word": "loc_2",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "pof__cn"
-                },
-                {
-                    "index": 17,
-                    "original_word": "[ne_3]",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 18,
-                    "original_word": "[calendar_1]",
-                    "wx_word": "[calendar_1]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 19,
-                    "original_word": "[spatial_1]",
-                    "wx_word": "[spatial_1]",
-                    "dependency_relation": "k7p"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 मंजिलें चढ़ा ।",
-            "sentence_id": 11
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "rh",
-                    "head_index": "9",
-                    "index": 1,
-                    "original_word": "महामारी",
-                    "pos_tag": "NN",
-                    "wx_word": "mahAmArI"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "1",
-                    "index": 2,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "1",
-                    "index": 3,
-                    "original_word": "कारण",
-                    "pos_tag": "PSP",
-                    "wx_word": "kAraNa"
-                },
-                {
-                    "dependency_relation": "quant",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "बहुत",
-                    "pos_tag": "QF",
-                    "wx_word": "bahuwa"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "8",
-                    "index": 5,
-                    "original_word": "लोगो",
-                    "pos_tag": "NN",
-                    "wx_word": "logo"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "की",
-                    "pos_tag": "PSP",
-                    "wx_word": "kI"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "अकाल",
-                    "pos_tag": "NNC",
-                    "wx_word": "akAla",
-                    "cnx_index": 12,
-                    "cnx_component": "mod"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "9",
-                    "index": 8,
-                    "original_word": "मृत्यु",
-                    "pos_tag": "NN",
-                    "wx_word": "mqwyu",
-                    "cnx_index": 12,
-                    "cnx_component": "head"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 9,
-                    "original_word": "हुई",
-                    "pos_tag": "VM",
-                    "wx_word": "huI",
-                    "cnx_index": 13,
-                    "cnx_component": "verbalizer"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "9",
-                    "index": 10,
-                    "original_word": "है",
-                    "pos_tag": "VAUX",
-                    "wx_word": "hE",
-                    "cnx_index": 13,
-                    "cnx_component": "verbalizer"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "9",
-                    "index": 11,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 12,
-                    "original_word": "[nc_1]",
-                    "wx_word": "[nc_1]",
-                    "dependency_relation": "pof",
-                    "cnx_index": 13,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
-                    "index": 13,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]",
-                    "dependency_relation": "main"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "महामारी के कारण बहुत लोगो की अकाल मृत्यु हुई है ।",
-            "sentence_id": 12
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "2",
-                    "index": 1,
-                    "original_word": "हमारा",
+                    "original_word": "इस",
                     "pos_tag": "PRP",
-                    "wx_word": "hamArA"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "8",
-                    "index": 2,
-                    "original_word": "देश",
-                    "pos_tag": "NN",
-                    "wx_word": "xeSa"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "5",
-                    "index": 3,
-                    "original_word": "15",
-                    "pos_tag": "NNPC",
-                    "wx_word": "15",
-                    "cnx_index": 13,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "अगस्त",
-                    "pos_tag": "NNPC",
-                    "wx_word": "agaswa",
-                    "cnx_index": 13,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "8",
-                    "index": 5,
-                    "original_word": "1947",
-                    "pos_tag": "NNP",
-                    "wx_word": "1947",
-                    "cnx_index": 13,
-                    "cnx_component": "component_of"
+                    "wx_word": "isa"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "5",
                     "index": 6,
+                    "original_word": "बारे",
+                    "pos_tag": "PSP",
+                    "wx_word": "bAre"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "5",
+                    "index": 7,
                     "original_word": "में",
                     "pos_tag": "PSP",
                     "wx_word": "meM"
                 },
                 {
-                    "dependency_relation": "pof",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "आज़ाद",
-                    "pos_tag": "JJ",
-                    "wx_word": "AjZAxa",
-                    "cnx_index": 12,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
                     "dependency_relation": "main",
                     "head_index": "0",
                     "index": 8,
-                    "original_word": "हुआ",
+                    "original_word": "बताएगा",
                     "pos_tag": "VM",
-                    "wx_word": "huA",
-                    "cnx_index": 12,
-                    "cnx_component": "verbalizer"
+                    "wx_word": "bawAegA"
                 },
                 {
                     "dependency_relation": "rsym",
                     "head_index": "8",
                     "index": 9,
-                    "original_word": "।",
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 10,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 11,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 12,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]",
-                    "dependency_relation": "main"
-                },
-                {
-                    "index": 13,
-                    "original_word": "[calendar_1]",
-                    "wx_word": "[calendar_1]",
-                    "dependency_relation": "k7t"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "हमारा देश 15 अगस्त 1947 में आज़ाद हुआ ।",
-            "sentence_id": 13
+            "project_id": "1",
+            "sentence": "क्या वह किसी को इस बारे में बताएगा ?",
+            "sentence_id": "45"
         },
         {
             "parser_output": [
                 {
                     "dependency_relation": "k1",
-                    "head_index": "12",
+                    "head_index": "5",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 14,
-                    "cnx_component": "begin"
+                    "original_word": "तुमने",
+                    "pos_tag": "PRP",
+                    "wx_word": "wumane"
                 },
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
+                    "dependency_relation": "adv",
+                    "head_index": "5",
                     "index": 2,
-                    "original_word": "4",
-                    "pos_tag": "NNPC",
-                    "wx_word": "4",
-                    "cnx_index": 19,
-                    "cnx_component": "component_of"
+                    "original_word": "किससे",
+                    "pos_tag": "WQ",
+                    "wx_word": "kisase"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "4",
+                    "index": 3,
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "जानकारी",
+                    "pos_tag": "NN",
+                    "wx_word": "jAnakArI"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 5,
+                    "original_word": "ली",
+                    "pos_tag": "VM",
+                    "wx_word": "lI"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "5",
+                    "index": 6,
+                    "original_word": "है",
+                    "pos_tag": "VAUX",
+                    "wx_word": "hE"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "5",
+                    "index": 7,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तुमने किससे यह जानकारी ली है ?",
+            "sentence_id": "46"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "2",
+                    "index": 1,
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "7",
+                    "index": 2,
+                    "original_word": "काम",
+                    "pos_tag": "NN",
+                    "wx_word": "kAma"
+                },
+                {
+                    "dependency_relation": "mod__wq",
+                    "head_index": "4",
+                    "index": 3,
+                    "original_word": "कौन",
+                    "pos_tag": "WQ",
+                    "wx_word": "kOna"
                 },
                 {
                     "dependency_relation": "k7t",
-                    "head_index": "12",
-                    "index": 3,
-                    "original_word": "जनवरी",
-                    "pos_tag": "NNP",
-                    "wx_word": "janavarI",
-                    "cnx_index": 19,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "3",
+                    "head_index": "7",
                     "index": 4,
-                    "original_word": "को",
-                    "pos_tag": "PSP",
-                    "wx_word": "ko"
+                    "original_word": "समय",
+                    "pos_tag": "NN",
+                    "wx_word": "samaya"
                 },
                 {
-                    "dependency_relation": "r6",
-                    "head_index": "8",
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "4",
                     "index": 5,
-                    "original_word": "दिल्ली",
-                    "pos_tag": "NNP",
-                    "wx_word": "xillI",
-                    "cnx_index": 15,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "कुतुब",
-                    "pos_tag": "NNPC",
-                    "wx_word": "kuwuba",
-                    "cnx_index": 16,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "12",
-                    "index": 8,
-                    "original_word": "मीनार",
-                    "pos_tag": "NNP",
-                    "wx_word": "mInAra",
-                    "cnx_index": 20,
-                    "cnx_component": "part"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "8",
-                    "index": 9,
                     "original_word": "पर",
                     "pos_tag": "PSP",
                     "wx_word": "para"
                 },
                 {
-                    "dependency_relation": "card",
-                    "head_index": "11",
-                    "index": 10,
-                    "original_word": "100",
-                    "pos_tag": "QC",
-                    "wx_word": "100",
-                    "cnx_index": 18,
-                    "cnx_component": "count"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "12",
-                    "index": 11,
-                    "original_word": "सीढ़ियाँ",
-                    "pos_tag": "NN",
-                    "wx_word": "sIDZiyAz",
-                    "cnx_index": 18,
-                    "cnx_component": "unit"
+                    "dependency_relation": "pof",
+                    "head_index": "7",
+                    "index": 6,
+                    "original_word": "पूरा",
+                    "pos_tag": "JJ",
+                    "wx_word": "pUrA",
+                    "cnx_index": 9,
+                    "cnx_component": "kriyAmUla"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 12,
-                    "original_word": "चढ़ा",
+                    "index": 7,
+                    "original_word": "करेगा",
                     "pos_tag": "VM",
-                    "wx_word": "caDZA"
+                    "wx_word": "karegA",
+                    "cnx_index": 9,
+                    "cnx_component": "verbalizer"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "12",
-                    "index": 13,
-                    "original_word": "।",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
+                    "wx_word": "?"
                 },
                 {
-                    "index": 14,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 15,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "r6",
-                    "cnx_index": 20,
-                    "cnx_component": "whole"
-                },
-                {
-                    "index": 16,
-                    "original_word": "loc_2",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "pof__cn"
-                },
-                {
-                    "index": 17,
-                    "original_word": "[ne_3]",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 18,
-                    "original_word": "[meas_1]",
-                    "wx_word": "[meas_1]",
-                    "dependency_relation": "k2"
-                },
-                {
-                    "index": 19,
-                    "original_word": "[calendar_1]",
-                    "wx_word": "[calendar_1]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 20,
-                    "original_word": "[spatial_1]",
-                    "wx_word": "[spatial_1]",
-                    "dependency_relation": "k7p"
+                    "index": 9,
+                    "original_word": "[cp_1]",
+                    "wx_word": "[cp_1]",
+                    "dependency_relation": "main",
+                    "head_index": "0"
                 }
             ],
-            "project_id": 1,
-            "sentence": "राम 4 जनवरी को दिल्ली के कुतुब मीनार पर 100 सीढ़ियाँ चढ़ा ।",
-            "sentence_id": 14
+            "project_id": "1",
+            "sentence": "यह काम कौन समय पर पूरा करेगा ?",
+            "sentence_id": "47"
         },
         {
             "parser_output": [
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "2",
+                    "dependency_relation": "adv",
+                    "head_index": "8",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNPC",
-                    "wx_word": "rAma",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
+                    "original_word": "क्या",
+                    "pos_tag": "WQ",
+                    "wx_word": "kyA"
                 },
                 {
-                    "dependency_relation": "k2",
-                    "head_index": "6",
+                    "dependency_relation": "k1",
+                    "head_index": "8",
                     "index": 2,
-                    "original_word": "मोहन",
-                    "pos_tag": "NNP",
-                    "wx_word": "mohana",
-                    "cnx_index": 9,
-                    "cnx_component": "inside"
+                    "original_word": "किसी",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisI"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "2",
                     "index": 3,
-                    "original_word": "को",
+                    "original_word": "ने",
                     "pos_tag": "PSP",
-                    "wx_word": "ko"
+                    "wx_word": "ne"
+                },
+                {
+                    "dependency_relation": "r6",
+                    "head_index": "7",
+                    "index": 4,
+                    "original_word": "उसका",
+                    "pos_tag": "PRP",
+                    "wx_word": "usakA"
                 },
                 {
                     "dependency_relation": "pof__cn",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "रेलवे",
+                    "head_index": "7",
+                    "index": 5,
+                    "original_word": "हाल",
                     "pos_tag": "NNC",
-                    "wx_word": "relave",
+                    "wx_word": "hAla",
                     "cnx_index": 10,
                     "cnx_component": "mod"
                 },
                 {
-                    "dependency_relation": "k7p",
-                    "head_index": "6",
-                    "index": 5,
-                    "original_word": "स्टेशन",
-                    "pos_tag": "NN",
-                    "wx_word": "steSana",
+                    "dependency_relation": "rsym",
+                    "head_index": "7",
+                    "index": 6,
+                    "original_word": "-",
+                    "pos_tag": "SYM",
+                    "wx_word": "-"
+                },
+                {
+                    "dependency_relation": "vmod",
+                    "head_index": "8",
+                    "index": 7,
+                    "original_word": "चाल",
+                    "pos_tag": "RDP",
+                    "wx_word": "cAla",
                     "cnx_index": 10,
                     "cnx_component": "head"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 6,
-                    "original_word": "छोड़ने",
+                    "index": 8,
+                    "original_word": "पूछा",
                     "pos_tag": "VM",
-                    "wx_word": "CodZane"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "गया",
-                    "pos_tag": "VAUX",
-                    "wx_word": "gayA"
+                    "wx_word": "pUCA"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "6",
-                    "index": 8,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
+                    "head_index": "8",
                     "index": 9,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k2"
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
                 },
                 {
                     "index": 10,
                     "original_word": "[nc_1]",
                     "wx_word": "[nc_1]",
-                    "dependency_relation": "k7p"
+                    "dependency_relation": "vmod",
+                    "head_index": "8"
                 }
             ],
-            "project_id": 1,
-            "sentence": "राम मोहन को रेलवे स्टेशन छोड़ने गया ।",
-            "sentence_id": 15
+            "project_id": "1",
+            "sentence": "क्या किसी ने उसका हाल - चाल पूछा ?",
+            "sentence_id": "48"
         },
         {
             "parser_output": [
                 {
                     "dependency_relation": "k1",
-                    "head_index": "10",
+                    "head_index": "6",
                     "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 12,
-                    "cnx_component": "begin"
+                    "original_word": "तुम",
+                    "pos_tag": "PRP",
+                    "wx_word": "wuma"
                 },
                 {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "1",
+                    "dependency_relation": "rt",
+                    "head_index": "6",
                     "index": 2,
-                    "original_word": "ने",
-                    "pos_tag": "PSP",
-                    "wx_word": "ne"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "अपने",
+                    "original_word": "किसके",
                     "pos_tag": "PRP",
-                    "wx_word": "apane"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "6",
-                    "index": 4,
-                    "original_word": "गुरु",
-                    "pos_tag": "NN",
-                    "wx_word": "guru"
+                    "wx_word": "kisake"
                 },
                 {
                     "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 5,
-                    "original_word": "को",
+                    "head_index": "2",
+                    "index": 3,
+                    "original_word": "लिए",
                     "pos_tag": "PSP",
-                    "wx_word": "ko"
+                    "wx_word": "lie"
                 },
                 {
-                    "dependency_relation": "rpk",
-                    "head_index": "10",
-                    "index": 6,
-                    "original_word": "देख",
-                    "pos_tag": "VM",
-                    "wx_word": "xeKa"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "कर",
-                    "pos_tag": "VAUX",
-                    "wx_word": "kara"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "10",
-                    "index": 8,
-                    "original_word": "उन्हें",
-                    "pos_tag": "PRP",
-                    "wx_word": "unheM"
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "इतना",
+                    "pos_tag": "QF",
+                    "wx_word": "iwanA"
                 },
                 {
                     "dependency_relation": "pof",
-                    "head_index": "10",
-                    "index": 9,
-                    "original_word": "प्रणाम",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "इंतजार",
                     "pos_tag": "NN",
-                    "wx_word": "praNAma",
-                    "cnx_index": 13,
+                    "wx_word": "iMwajAra",
+                    "cnx_index": 10,
                     "cnx_component": "kriyAmUla"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 10,
-                    "original_word": "किया",
+                    "index": 6,
+                    "original_word": "कर",
                     "pos_tag": "VM",
-                    "wx_word": "kiyA",
-                    "cnx_index": 13,
+                    "wx_word": "kara",
+                    "cnx_index": 10,
+                    "cnx_component": "verbalizer"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "रहे",
+                    "pos_tag": "VAUX",
+                    "wx_word": "rahe",
+                    "cnx_index": 10,
+                    "cnx_component": "verbalizer"
+                },
+                {
+                    "dependency_relation": "lwg__vaux_cont",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "हो",
+                    "pos_tag": "VAUX",
+                    "wx_word": "ho",
+                    "cnx_index": 10,
                     "cnx_component": "verbalizer"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "10",
-                    "index": 11,
-                    "original_word": "।",
+                    "head_index": "6",
+                    "index": 9,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
+                    "wx_word": "?"
                 },
                 {
-                    "index": 12,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 13,
+                    "index": 10,
                     "original_word": "[cp_1]",
                     "wx_word": "[cp_1]",
-                    "dependency_relation": "main"
+                    "dependency_relation": "main",
+                    "head_index": "0"
                 }
             ],
-            "project_id": 1,
-            "sentence": "राम ने अपने गुरु को देख कर उन्हें प्रणाम किया ।",
-            "sentence_id": 16
+            "project_id": "1",
+            "sentence": "तुम किसके लिए इतना इंतजार कर रहे हो ?",
+            "sentence_id": "49"
         },
         {
             "parser_output": [
                 {
                     "dependency_relation": "k1",
-                    "head_index": "6",
+                    "head_index": "4",
                     "index": 1,
-                    "original_word": "मोहन",
+                    "original_word": "कृष्ण",
                     "pos_tag": "NNP",
-                    "wx_word": "mohana",
+                    "wx_word": "kqRNa",
                     "cnx_index": 8,
                     "cnx_component": "begin"
                 },
                 {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "1",
+                    "dependency_relation": "ras-k1",
+                    "head_index": "4",
                     "index": 2,
+                    "original_word": "किसके",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisake"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
+                    "index": 3,
+                    "original_word": "साथ",
+                    "pos_tag": "NST",
+                    "wx_word": "sAWa"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 4,
+                    "original_word": "खेलने",
+                    "pos_tag": "VM",
+                    "wx_word": "Kelane"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "4",
+                    "index": 5,
+                    "original_word": "गया",
+                    "pos_tag": "VAUX",
+                    "wx_word": "gayA"
+                },
+                {
+                    "dependency_relation": "lwg__vaux_cont",
+                    "head_index": "5",
+                    "index": 6,
+                    "original_word": "है",
+                    "pos_tag": "VAUX",
+                    "wx_word": "hE"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "4",
+                    "index": 7,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                },
+                {
+                    "index": 8,
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]",
+                    "dependency_relation": "k1",
+                    "head_index": "4"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "कृष्ण किसके साथ खेलने गया है ?",
+            "sentence_id": "50"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "5",
+                    "index": 1,
+                    "original_word": "तुमने",
+                    "pos_tag": "PRP",
+                    "wx_word": "wumane"
+                },
+                {
+                    "dependency_relation": "adv",
+                    "head_index": "5",
+                    "index": 2,
+                    "original_word": "किससे",
+                    "pos_tag": "WQ",
+                    "wx_word": "kisase"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "4",
+                    "index": 3,
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "बात",
+                    "pos_tag": "NN",
+                    "wx_word": "bAwa"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 5,
+                    "original_word": "सीखी",
+                    "pos_tag": "VM",
+                    "wx_word": "sIKI"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "5",
+                    "index": 6,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तुमने किससे यह बात सीखी ?",
+            "sentence_id": "51"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "2",
+                    "index": 1,
+                    "original_word": "तुम",
+                    "pos_tag": "DEM",
+                    "wx_word": "wuma"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "7",
+                    "index": 2,
+                    "original_word": "लोग",
+                    "pos_tag": "NN",
+                    "wx_word": "loga"
+                },
+                {
+                    "dependency_relation": "k7a",
+                    "head_index": "7",
+                    "index": 3,
+                    "original_word": "किसके",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisake"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "3",
+                    "index": 4,
+                    "original_word": "अनुसार",
+                    "pos_tag": "PSP",
+                    "wx_word": "anusAra"
+                },
+                {
+                    "dependency_relation": "r6",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "अपनी",
+                    "pos_tag": "PRP",
+                    "wx_word": "apanI"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "7",
+                    "index": 6,
+                    "original_word": "योजना",
+                    "pos_tag": "NN",
+                    "wx_word": "yojanA"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 7,
+                    "original_word": "बदलोगे",
+                    "pos_tag": "VM",
+                    "wx_word": "baxaloge"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तुम लोग किसके अनुसार अपनी योजना बदलोगे ?",
+            "sentence_id": "52"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "adv",
+                    "head_index": "7",
+                    "index": 1,
+                    "original_word": "क्या",
+                    "pos_tag": "WQ",
+                    "wx_word": "kyA"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "6",
+                    "index": 2,
+                    "original_word": "किसी",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisI"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
+                    "index": 3,
                     "original_word": "ने",
                     "pos_tag": "PSP",
                     "wx_word": "ne"
                 },
                 {
-                    "dependency_relation": "card",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "10",
-                    "pos_tag": "QC",
-                    "wx_word": "10",
-                    "cnx_index": 9,
-                    "cnx_component": "count"
-                },
-                {
-                    "dependency_relation": "mod",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "किलो",
-                    "pos_tag": "NN",
-                    "wx_word": "kilo",
-                    "cnx_index": 9,
-                    "cnx_component": "unit"
-                },
-                {
                     "dependency_relation": "k2",
                     "head_index": "6",
-                    "index": 5,
-                    "original_word": "चावल",
-                    "pos_tag": "NN",
-                    "wx_word": "cAvala"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 6,
-                    "original_word": "खरीदे",
-                    "pos_tag": "VM",
-                    "wx_word": "KarIxe"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 8,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 9,
-                    "original_word": "[meas_1]",
-                    "wx_word": "[meas_1]",
-                    "dependency_relation": "mod"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "मोहन ने 10 किलो चावल खरीदे ।",
-            "sentence_id": 17
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
-                    "index": 1,
-                    "original_word": "15",
-                    "pos_tag": "NNPC",
-                    "wx_word": "15",
-                    "cnx_index": 13,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
-                    "index": 2,
-                    "original_word": "अगस्त",
-                    "pos_tag": "NNPC",
-                    "wx_word": "agaswa",
-                    "cnx_index": 13,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "8",
-                    "index": 3,
-                    "original_word": "1947",
-                    "pos_tag": "NNP",
-                    "wx_word": "1947",
-                    "cnx_index": 13,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "3",
                     "index": 4,
-                    "original_word": "को",
-                    "pos_tag": "PSP",
-                    "wx_word": "ko"
+                    "original_word": "उसे",
+                    "pos_tag": "PRP",
+                    "wx_word": "use"
                 },
                 {
-                    "dependency_relation": "r6",
+                    "dependency_relation": "k7p",
                     "head_index": "6",
                     "index": 5,
-                    "original_word": "हमारा",
+                    "original_word": "यहाँ",
                     "pos_tag": "PRP",
-                    "wx_word": "hamArA"
+                    "wx_word": "yahAz"
                 },
                 {
-                    "dependency_relation": "k1",
-                    "head_index": "8",
+                    "dependency_relation": "vmod",
+                    "head_index": "7",
                     "index": 6,
-                    "original_word": "देश",
-                    "pos_tag": "NN",
-                    "wx_word": "xeSa"
-                },
-                {
-                    "dependency_relation": "k1s",
-                    "head_index": "8",
-                    "index": 7,
-                    "original_word": "आजाद",
-                    "pos_tag": "JJ",
-                    "wx_word": "AjAxa"
+                    "original_word": "आते",
+                    "pos_tag": "VM",
+                    "wx_word": "Awe"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 8,
-                    "original_word": "हुआ",
+                    "index": 7,
+                    "original_word": "देखा",
                     "pos_tag": "VM",
-                    "wx_word": "huA"
+                    "wx_word": "xeKA"
                 },
                 {
                     "dependency_relation": "lwg__vaux",
-                    "head_index": "8",
-                    "index": 9,
-                    "original_word": "था",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "है",
                     "pos_tag": "VAUX",
-                    "wx_word": "WA"
+                    "wx_word": "hE"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "8",
-                    "index": 10,
-                    "original_word": "।",
+                    "head_index": "7",
+                    "index": 9,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 11,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 12,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 13,
-                    "original_word": "[calendar_1]",
-                    "wx_word": "[calendar_1]",
-                    "dependency_relation": "k7t"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "15 अगस्त 1947 को हमारा देश आजाद हुआ था ।",
-            "sentence_id": 18
+            "project_id": "1",
+            "sentence": "क्या किसी ने उसे यहाँ आते देखा है ?",
+            "sentence_id": "53"
         },
         {
             "parser_output": [
                 {
-                    "dependency_relation": "r6",
-                    "head_index": "2",
-                    "index": 1,
-                    "original_word": "मेरा",
-                    "pos_tag": "PRP",
-                    "wx_word": "merA"
-                },
-                {
                     "dependency_relation": "k1",
                     "head_index": "6",
-                    "index": 2,
-                    "original_word": "जन्मदिन",
-                    "pos_tag": "NN",
-                    "wx_word": "janmaxina"
+                    "index": 1,
+                    "original_word": "वह",
+                    "pos_tag": "PRP",
+                    "wx_word": "vaha"
                 },
                 {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "21",
-                    "pos_tag": "NNPC",
-                    "wx_word": "21",
-                    "cnx_index": 9,
-                    "cnx_component": "component_of"
-                },
-                {
-                    "dependency_relation": "k7t",
+                    "dependency_relation": "k7",
                     "head_index": "6",
-                    "index": 4,
-                    "original_word": "अगस्त",
-                    "pos_tag": "NNP",
-                    "wx_word": "agaswa",
-                    "cnx_index": 9,
-                    "cnx_component": "component_of"
+                    "index": 2,
+                    "original_word": "किसके",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisake"
                 },
                 {
                     "dependency_relation": "lwg__psp",
-                    "head_index": "4",
+                    "head_index": "2",
+                    "index": 3,
+                    "original_word": "पास",
+                    "pos_tag": "NST",
+                    "wx_word": "pAsa"
+                },
+                {
+                    "dependency_relation": "pof",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "मदद",
+                    "pos_tag": "NN",
+                    "wx_word": "maxaxa",
+                    "cnx_index": 8,
+                    "cnx_component": "kriyAmUla"
+                },
+                {
+                    "dependency_relation": "rt",
+                    "head_index": "6",
                     "index": 5,
-                    "original_word": "को",
-                    "pos_tag": "PSP",
-                    "wx_word": "ko"
+                    "original_word": "मांगने",
+                    "pos_tag": "VM",
+                    "wx_word": "mAMgane",
+                    "cnx_index": 8,
+                    "cnx_component": "verbalizer"
                 },
                 {
                     "dependency_relation": "main",
                     "head_index": "0",
                     "index": 6,
+                    "original_word": "जाएगा",
+                    "pos_tag": "VM",
+                    "wx_word": "jAegA"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                },
+                {
+                    "index": 8,
+                    "original_word": "[cp_1]",
+                    "wx_word": "[cp_1]",
+                    "dependency_relation": "rt",
+                    "head_index": "6"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "वह किसके पास मदद मांगने जाएगा ?",
+            "sentence_id": "54"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "2",
+                    "index": 1,
+                    "original_word": "तुम",
+                    "pos_tag": "DEM",
+                    "wx_word": "wuma"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "6",
+                    "index": 2,
+                    "original_word": "लोग",
+                    "pos_tag": "NN",
+                    "wx_word": "loga"
+                },
+                {
+                    "dependency_relation": "k7",
+                    "head_index": "6",
+                    "index": 3,
+                    "original_word": "किस",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisa"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "3",
+                    "index": 4,
+                    "original_word": "पर",
+                    "pos_tag": "PSP",
+                    "wx_word": "para"
+                },
+                {
+                    "dependency_relation": "pof",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "विश्वास",
+                    "pos_tag": "NN",
+                    "wx_word": "viSvAsa",
+                    "cnx_index": 8,
+                    "cnx_component": "kriyAmUla"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 6,
+                    "original_word": "करोगे",
+                    "pos_tag": "VM",
+                    "wx_word": "karoge",
+                    "cnx_index": 8,
+                    "cnx_component": "verbalizer"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                },
+                {
+                    "index": 8,
+                    "original_word": "[cp_1]",
+                    "wx_word": "[cp_1]",
+                    "dependency_relation": "main",
+                    "head_index": "0"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तुम लोग किस पर विश्वास करोगे ?",
+            "sentence_id": "55"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "adv",
+                    "head_index": "5",
+                    "index": 1,
+                    "original_word": "क्या",
+                    "pos_tag": "WQ",
+                    "wx_word": "kyA"
+                },
+                {
+                    "dependency_relation": "k4a",
+                    "head_index": "5",
+                    "index": 2,
+                    "original_word": "किसी",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisI"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
+                    "index": 3,
+                    "original_word": "को",
+                    "pos_tag": "PSP",
+                    "wx_word": "ko"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "पता",
+                    "pos_tag": "NN",
+                    "wx_word": "pawA"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 5,
+                    "original_word": "है",
+                    "pos_tag": "VM",
+                    "wx_word": "hE"
+                },
+                {
+                    "dependency_relation": "rs",
+                    "head_index": "4",
+                    "index": 6,
+                    "original_word": "कि",
+                    "pos_tag": "CC",
+                    "wx_word": "ki"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "9",
+                    "index": 7,
+                    "original_word": "वह",
+                    "pos_tag": "PRP",
+                    "wx_word": "vaha"
+                },
+                {
+                    "dependency_relation": "adv",
+                    "head_index": "9",
+                    "index": 8,
+                    "original_word": "कहाँ",
+                    "pos_tag": "WQ",
+                    "wx_word": "kahAz"
+                },
+                {
+                    "dependency_relation": "ccof",
+                    "head_index": "6",
+                    "index": 9,
                     "original_word": "है",
                     "pos_tag": "VM",
                     "wx_word": "hE"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 8,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 9,
-                    "original_word": "[calendar_1]",
-                    "wx_word": "[calendar_1]",
-                    "dependency_relation": "k7t"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "मेरा जन्मदिन 21 अगस्त को है ।",
-            "sentence_id": 19
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
-                    "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "7",
-                    "index": 2,
-                    "original_word": "दिल्ली",
-                    "pos_tag": "NNP",
-                    "wx_word": "xillI",
-                    "cnx_index": 10,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "2",
-                    "index": 3,
-                    "original_word": "में",
-                    "pos_tag": "PSP",
-                    "wx_word": "meM"
-                },
-                {
-                    "dependency_relation": "pof__cn",
                     "head_index": "5",
-                    "index": 4,
-                    "original_word": "कुतुब",
-                    "pos_tag": "NNPC",
-                    "wx_word": "kuwuba",
-                    "cnx_index": 11,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "7",
-                    "index": 5,
-                    "original_word": "मीनार",
-                    "pos_tag": "NNP",
-                    "wx_word": "mInAra",
-                    "cnx_index": 11,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "पर",
-                    "pos_tag": "PSP",
-                    "wx_word": "para"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 7,
-                    "original_word": "चढ़ा",
-                    "pos_tag": "VM",
-                    "wx_word": "caDZA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "7",
-                    "index": 8,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 9,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
                     "index": 10,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "k7p",
-                    "cnx_index": 12,
-                    "cnx_component": "whole"
-                },
-                {
-                    "index": 11,
-                    "original_word": "loc_2",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "k7p",
-                    "cnx_index": 12,
-                    "cnx_component": "part"
-                },
-                {
-                    "index": 12,
-                    "original_word": "[spatial_1]",
-                    "wx_word": "[spatial_1]",
-                    "dependency_relation": "k7p"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम दिल्ली में कुतुब मीनार पर चढ़ा ।",
-            "sentence_id": 20
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
-                    "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "5",
-                    "index": 2,
-                    "original_word": "दिल्ली",
-                    "pos_tag": "NNP",
-                    "wx_word": "xillI",
-                    "cnx_index": 10,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "2",
-                    "index": 3,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "कुतुब",
-                    "pos_tag": "NNPC",
-                    "wx_word": "kuwuba",
-                    "cnx_index": 11,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "7",
-                    "index": 5,
-                    "original_word": "मीनार",
-                    "pos_tag": "NNP",
-                    "wx_word": "mInAra",
-                    "cnx_index": 11,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "पर",
-                    "pos_tag": "PSP",
-                    "wx_word": "para"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 7,
-                    "original_word": "चढ़ा",
-                    "pos_tag": "VM",
-                    "wx_word": "caDZA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "7",
-                    "index": 8,
-                    "original_word": "।",
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 9,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 10,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "r6",
-                    "cnx_index": 12,
-                    "cnx_component": "whole"
-                },
-                {
-                    "index": 11,
-                    "original_word": "loc_2",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "k7p",
-                    "cnx_index": 12,
-                    "cnx_component": "part"
-                },
-                {
-                    "index": 12,
-                    "original_word": "[spatial_1]",
-                    "wx_word": "[spatial_1]",
-                    "dependency_relation": "k7p"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "राम दिल्ली के कुतुब मीनार पर चढ़ा ।",
-            "sentence_id": 21
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "5",
-                    "index": 1,
-                    "original_word": "रोज़",
-                    "pos_tag": "NN",
-                    "wx_word": "rojZa"
-                },
-                {
-                    "dependency_relation": "card",
-                    "head_index": "3",
-                    "index": 2,
-                    "original_word": "4",
-                    "pos_tag": "QC",
-                    "wx_word": "4",
-                    "cnx_index": 8,
-                    "cnx_component": "count"
-                },
-                {
-                    "dependency_relation": "mod",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "लीटर",
-                    "pos_tag": "NN",
-                    "wx_word": "lItara",
-                    "cnx_index": 8,
-                    "cnx_component": "unit"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "पानी",
-                    "pos_tag": "NN",
-                    "wx_word": "pAnI"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 5,
-                    "original_word": "पीना",
-                    "pos_tag": "VM",
-                    "wx_word": "pInA"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "चाहिए",
-                    "pos_tag": "VAUX",
-                    "wx_word": "cAhie"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "5",
-                    "index": 7,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 8,
-                    "original_word": "[meas_1]",
-                    "wx_word": "[meas_1]",
-                    "dependency_relation": "mod"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "रोज़ 4 लीटर पानी पीना चाहिए ।",
-            "sentence_id": 22
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "5",
-                    "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 7,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "card",
-                    "head_index": "3",
-                    "index": 2,
-                    "original_word": "5",
-                    "pos_tag": "QC",
-                    "wx_word": "5",
-                    "cnx_index": 8,
-                    "cnx_component": "count"
-                },
-                {
-                    "dependency_relation": "mod",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "किलो",
-                    "pos_tag": "NN",
-                    "wx_word": "kilo",
-                    "cnx_index": 8,
-                    "cnx_component": "unit"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "5",
-                    "index": 4,
-                    "original_word": "आलू",
-                    "pos_tag": "NN",
-                    "wx_word": "AlU"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 5,
-                    "original_word": "लाया",
-                    "pos_tag": "VM",
-                    "wx_word": "lAyA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "5",
-                    "index": 6,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 7,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 8,
-                    "original_word": "[meas_1]",
-                    "wx_word": "[meas_1]",
-                    "dependency_relation": "mod"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम 5 किलो आलू लाया ।",
-            "sentence_id": 23
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "18",
-                    "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 20,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "18",
-                    "index": 2,
-                    "original_word": "और",
-                    "pos_tag": "CC",
-                    "wx_word": "Ora"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "4",
-                    "index": 3,
-                    "original_word": "मोहन",
-                    "pos_tag": "NNPC",
-                    "wx_word": "mohana",
-                    "cnx_index": 21,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "18",
-                    "index": 4,
-                    "original_word": "लाल",
-                    "pos_tag": "NNP",
-                    "wx_word": "lAla",
-                    "cnx_index": 21,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "6",
-                    "index": 5,
-                    "original_word": "भारत",
-                    "pos_tag": "NNPC",
-                    "wx_word": "BArawa",
-                    "cnx_index": 24,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k7p",
-                    "head_index": "18",
-                    "index": 6,
-                    "original_word": "सेवाश्रम",
-                    "pos_tag": "NNP",
-                    "wx_word": "sevASrama",
-                    "cnx_index": 24,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "6",
-                    "index": 7,
-                    "original_word": "में",
-                    "pos_tag": "PSP",
-                    "wx_word": "meM"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "12",
-                    "index": 8,
-                    "original_word": "सुबह",
-                    "pos_tag": "NN",
-                    "wx_word": "subaha",
-                    "cnx_index": 26,
-                    "cnx_component": "start"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "8",
-                    "index": 9,
-                    "original_word": "से",
-                    "pos_tag": "PSP",
-                    "wx_word": "se"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "12",
-                    "index": 10,
-                    "original_word": "शाम",
-                    "pos_tag": "NN",
-                    "wx_word": "SAma",
-                    "cnx_index": 26,
-                    "cnx_component": "end"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "10",
-                    "index": 11,
-                    "original_word": "तक",
-                    "pos_tag": "PSP",
-                    "wx_word": "waka"
-                },
-                {
-                    "dependency_relation": "rvks",
-                    "head_index": "13",
-                    "index": 12,
-                    "original_word": "नाचते",
-                    "pos_tag": "VM",
-                    "wx_word": "nAcawe",
-                    "cnx_index": 23,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "18",
-                    "index": 13,
-                    "original_word": "हूये",
-                    "pos_tag": "NN",
-                    "wx_word": "hUye",
-                    "cnx_index": 23,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "15",
-                    "index": 14,
-                    "original_word": "माता",
-                    "pos_tag": "NNPC",
-                    "wx_word": "mAwA",
-                    "cnx_index": 23,
-                    "cnx_component": "inside"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "17",
-                    "index": 15,
-                    "original_word": "देवी",
-                    "pos_tag": "NNP",
-                    "wx_word": "xevI"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "15",
-                    "index": 16,
-                    "original_word": "का",
-                    "pos_tag": "PSP",
-                    "wx_word": "kA"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "18",
-                    "index": 17,
-                    "original_word": "भजन",
-                    "pos_tag": "NN",
-                    "wx_word": "Bajana",
-                    "cnx_index": 25,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 18,
-                    "original_word": "किया",
-                    "pos_tag": "VM",
-                    "wx_word": "kiyA",
-                    "cnx_index": 25,
-                    "cnx_component": "verbalizer"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "18",
-                    "index": 19,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 20,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1",
-                    "cnx_index": 27,
-                    "cnx_component": "op1"
-                },
-                {
-                    "index": 21,
-                    "original_word": "per_2",
-                    "wx_word": "[ne_2]",
-                    "dependency_relation": "pof__cn",
-                    "cnx_index": 27,
-                    "cnx_component": "op2"
-                },
-                {
-                    "index": 22,
-                    "original_word": "loc_1",
-                    "wx_word": "[ne_3]",
-                    "dependency_relation": "pof__cn"
-                },
-                {
-                    "index": 23,
-                    "original_word": "per_3",
-                    "wx_word": "[ne_4]",
-                    "dependency_relation": "pof__cn"
-                },
-                {
-                    "index": 24,
-                    "original_word": "[ne_4]",
-                    "wx_word": "[ne_4]",
-                    "dependency_relation": "k7p"
-                },
-                {
-                    "index": 25,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]",
-                    "dependency_relation": "main"
-                },
-                {
-                    "index": 26,
-                    "original_word": "[span_1]",
-                    "wx_word": "[span_1]",
-                    "dependency_relation": "k7t"
-                },
-                {
-                    "index": 27,
-                    "original_word": "[conj_1]",
-                    "wx_word": "[conj_1]",
-                    "dependency_relation": "k1"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम और मोहन लाल भारत सेवाश्रम में सुबह से शाम तक नाचते हूये माता देवी का भजन किया ।",
-            "sentence_id": 24
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "18",
-                    "index": 1,
-                    "original_word": "यह",
-                    "pos_tag": "PRP",
-                    "wx_word": "yaha"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "3",
-                    "index": 2,
-                    "original_word": "प्रकृति",
-                    "pos_tag": "NNC",
-                    "wx_word": "prakqwi",
-                    "cnx_index": 21,
-                    "cnx_component": "mod"
-                },
-                {
-                    "dependency_relation": "ccof",
-                    "head_index": "10",
-                    "index": 3,
-                    "original_word": "संबंध",
-                    "pos_tag": "NN",
-                    "wx_word": "saMbaMXa",
-                    "cnx_index": 21,
-                    "cnx_component": "head"
-                },
-                {
-                    "dependency_relation": "ccof",
-                    "head_index": "10",
-                    "index": 4,
-                    "original_word": "और",
-                    "pos_tag": "CC",
-                    "wx_word": "Ora"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "7",
-                    "index": 5,
-                    "original_word": "मानव",
-                    "pos_tag": "NNPC",
-                    "wx_word": "mAnava",
-                    "cnx_index": 22,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "pof__cn",
-                    "head_index": "7",
-                    "index": 6,
-                    "original_word": "प्रकृति",
-                    "pos_tag": "NNC",
-                    "wx_word": "prakqwi",
-                    "cnx_index": 23,
-                    "cnx_component": "mod"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "9",
-                    "index": 7,
-                    "original_word": "संबंध",
-                    "pos_tag": "NN",
-                    "wx_word": "saMbaMXa",
-                    "cnx_index": 23,
-                    "cnx_component": "head"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "7",
-                    "index": 8,
-                    "original_word": "की",
-                    "pos_tag": "PSP",
-                    "wx_word": "kI"
-                },
-                {
-                    "dependency_relation": "ccof",
-                    "head_index": "10",
-                    "index": 9,
-                    "original_word": "गुणवत्ता",
-                    "pos_tag": "NN",
-                    "wx_word": "guNavawwA",
-                    "cnx_index": 25,
-                    "cnx_component": "op2"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "15",
-                    "index": 10,
-                    "original_word": "और",
-                    "pos_tag": "CC",
-                    "wx_word": "Ora"
-                },
-                {
-                    "dependency_relation": "r6",
-                    "head_index": "13",
-                    "index": 11,
-                    "original_word": "इसके",
-                    "pos_tag": "PRP",
-                    "wx_word": "isake"
-                },
-                {
-                    "dependency_relation": "mod",
-                    "head_index": "13",
-                    "index": 12,
-                    "original_word": "मानवीय",
-                    "pos_tag": "JJ",
-                    "wx_word": "mAnavIya"
-                },
-                {
-                    "dependency_relation": "ccof",
-                    "head_index": "10",
-                    "index": 13,
-                    "original_word": "कल्याण",
-                    "pos_tag": "NN",
-                    "wx_word": "kalyANa",
-                    "cnx_index": 25,
-                    "cnx_component": "op3"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "13",
-                    "index": 14,
-                    "original_word": "के",
-                    "pos_tag": "PSP",
-                    "wx_word": "ke"
-                },
-                {
-                    "dependency_relation": "k2",
-                    "head_index": "17",
-                    "index": 15,
-                    "original_word": "निहितार्थ",
-                    "pos_tag": "NN",
-                    "wx_word": "nihiwArWa"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "15",
-                    "index": 16,
-                    "original_word": "का",
-                    "pos_tag": "PSP",
-                    "wx_word": "kA"
-                },
-                {
-                    "dependency_relation": "pof",
-                    "head_index": "18",
-                    "index": 17,
-                    "original_word": "अध्ययन",
-                    "pos_tag": "NN",
-                    "wx_word": "aXyayana",
-                    "cnx_index": 24,
-                    "cnx_component": "kriyAmUla"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 18,
-                    "original_word": "करता",
-                    "pos_tag": "VM",
-                    "wx_word": "karawA",
-                    "cnx_index": 24,
-                    "cnx_component": "verbalizer"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "18",
-                    "index": 19,
-                    "original_word": "है",
-                    "pos_tag": "VAUX",
-                    "wx_word": "hE",
-                    "cnx_index": 24,
-                    "cnx_component": "verbalizer"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "18",
-                    "index": 20,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 21,
-                    "original_word": "[nc_1]",
-                    "wx_word": "[nc_1]",
-                    "dependency_relation": "ccof",
-                    "cnx_index": 25,
-                    "cnx_component": "op1"
-                },
-                {
-                    "index": 22,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
-                    "dependency_relation": "r6"
-                },
-                {
-                    "index": 23,
-                    "original_word": "[nc_2]",
-                    "wx_word": "[nc_2]",
-                    "dependency_relation": "r6"
-                },
-                {
-                    "index": 24,
-                    "original_word": "[cp_1]",
-                    "wx_word": "[cp_1]",
-                    "dependency_relation": "main"
-                },
-                {
-                    "index": 25,
-                    "original_word": "[conj_1]",
-                    "wx_word": "[conj_1]",
-                    "dependency_relation": "ccof"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "यह प्रकृति संबंध और मानव प्रकृति संबंध की गुणवत्ता और इसके मानवीय कल्याण के निहितार्थ का अध्ययन करता है ।",
-            "sentence_id": 25
-        },
-        {
-            "parser_output": [
-                {
-                    "dependency_relation": "k1",
-                    "head_index": "7",
-                    "index": 1,
-                    "original_word": "राम",
-                    "pos_tag": "NNP",
-                    "wx_word": "rAma",
-                    "cnx_index": 9,
-                    "cnx_component": "begin"
-                },
-                {
-                    "dependency_relation": "rsp",
-                    "head_index": "4",
-                    "index": 2,
-                    "original_word": "जनवरी",
-                    "pos_tag": "NNP",
-                    "wx_word": "janavarI",
-                    "cnx_index": 10,
-                    "cnx_component": "start"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "2",
-                    "index": 3,
-                    "original_word": "से",
-                    "pos_tag": "PSP",
-                    "wx_word": "se"
-                },
-                {
-                    "dependency_relation": "k7t",
-                    "head_index": "7",
-                    "index": 4,
-                    "original_word": "मार्च",
-                    "pos_tag": "NNP",
-                    "wx_word": "mArca",
-                    "cnx_index": 10,
-                    "cnx_component": "end"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "4",
-                    "index": 5,
-                    "original_word": "तक",
-                    "pos_tag": "PSP",
-                    "wx_word": "waka"
-                },
-                {
-                    "dependency_relation": "k2p",
-                    "head_index": "7",
-                    "index": 6,
-                    "original_word": "घर",
-                    "pos_tag": "NN",
-                    "wx_word": "Gara"
-                },
-                {
-                    "dependency_relation": "main",
-                    "head_index": "0",
-                    "index": 7,
-                    "original_word": "गया",
-                    "pos_tag": "VM",
-                    "wx_word": "gayA"
-                },
-                {
-                    "dependency_relation": "rsym",
-                    "head_index": "7",
-                    "index": 8,
-                    "original_word": "।",
-                    "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 9,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "k1"
-                },
-                {
-                    "index": 10,
-                    "original_word": "[span_1]",
-                    "wx_word": "[span_1]",
-                    "dependency_relation": "k7t"
-                }
-            ],
-            "project_id": 1,
-            "sentence": "राम जनवरी से मार्च तक घर गया ।",
-            "sentence_id": 26
+            "project_id": "1",
+            "sentence": "क्या किसी को पता है कि वह कहाँ है ?",
+            "sentence_id": "56"
         },
         {
             "parser_output": [
@@ -2956,65 +1218,286 @@
                     "dependency_relation": "nmod__adj",
                     "head_index": "2",
                     "index": 1,
-                    "original_word": "मोहन",
-                    "pos_tag": "NNP",
-                    "wx_word": "mohana",
-                    "cnx_index": 14,
-                    "cnx_component": "begin"
+                    "original_word": "हम",
+                    "pos_tag": "DEM",
+                    "wx_word": "hama"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "11",
+                    "dependency_relation": "k1",
+                    "head_index": "7",
                     "index": 2,
-                    "original_word": "सुबह",
+                    "original_word": "लोग",
                     "pos_tag": "NN",
-                    "wx_word": "subaha",
-                    "cnx_index": 15,
-                    "cnx_component": "start"
+                    "wx_word": "loga"
                 },
                 {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "2",
+                    "dependency_relation": "r6",
+                    "head_index": "4",
                     "index": 3,
-                    "original_word": "से",
-                    "pos_tag": "PSP",
-                    "wx_word": "se"
+                    "original_word": "किसके",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisake"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "11",
+                    "dependency_relation": "k7",
+                    "head_index": "7",
                     "index": 4,
-                    "original_word": "दोपहर",
+                    "original_word": "समर्थन",
                     "pos_tag": "NN",
-                    "wx_word": "xopahara",
-                    "cnx_index": 15,
-                    "cnx_component": "end"
+                    "wx_word": "samarWana"
                 },
                 {
                     "dependency_relation": "lwg__psp",
                     "head_index": "4",
                     "index": 5,
-                    "original_word": "तक",
+                    "original_word": "में",
                     "pos_tag": "PSP",
-                    "wx_word": "waka"
+                    "wx_word": "meM"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "11",
+                    "dependency_relation": "pof",
+                    "head_index": "7",
                     "index": 6,
-                    "original_word": "या",
-                    "pos_tag": "CC",
-                    "wx_word": "yA"
+                    "original_word": "खड़े",
+                    "pos_tag": "JJ",
+                    "wx_word": "KadZe",
+                    "cnx_index": 9,
+                    "cnx_component": "kriyAmUla"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 7,
+                    "original_word": "होंगे",
+                    "pos_tag": "VM",
+                    "wx_word": "hoMge",
+                    "cnx_index": 9,
+                    "cnx_component": "verbalizer"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "7",
+                    "index": 8,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                },
+                {
+                    "index": 9,
+                    "original_word": "[cp_1]",
+                    "wx_word": "[cp_1]",
+                    "dependency_relation": "main",
+                    "head_index": "0"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "हम लोग किसके समर्थन में खड़े होंगे ?",
+            "sentence_id": "57"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "6",
+                    "index": 1,
+                    "original_word": "तुमने",
+                    "pos_tag": "PRP",
+                    "wx_word": "wumane"
+                },
+                {
+                    "dependency_relation": "vmod",
+                    "head_index": "6",
+                    "index": 2,
+                    "original_word": "किसके",
+                    "pos_tag": "WQ",
+                    "wx_word": "kisake"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
+                    "index": 3,
+                    "original_word": "साथ",
+                    "pos_tag": "NST",
+                    "wx_word": "sAWa"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "pof",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "यात्रा",
+                    "pos_tag": "NN",
+                    "wx_word": "yAwrA",
+                    "cnx_index": 9,
+                    "cnx_component": "kriyAmUla"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 6,
+                    "original_word": "की",
+                    "pos_tag": "VM",
+                    "wx_word": "kI",
+                    "cnx_index": 9,
+                    "cnx_component": "verbalizer"
+                },
+                {
+                    "dependency_relation": "lwg__vaux",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "थी",
+                    "pos_tag": "VAUX",
+                    "wx_word": "WI",
+                    "cnx_index": 9,
+                    "cnx_component": "verbalizer"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "6",
+                    "index": 8,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                },
+                {
+                    "index": 9,
+                    "original_word": "[cp_1]",
+                    "wx_word": "[cp_1]",
+                    "dependency_relation": "main",
+                    "head_index": "0"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तुमने किसके साथ यह यात्रा की थी ?",
+            "sentence_id": "58"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "6",
+                    "index": 1,
+                    "original_word": "कौन",
+                    "pos_tag": "WQ",
+                    "wx_word": "kOna"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "3",
+                    "index": 2,
+                    "original_word": "सबसे",
+                    "pos_tag": "JJ",
+                    "wx_word": "sabase"
                 },
                 {
                     "dependency_relation": "k7t",
-                    "head_index": "11",
-                    "index": 7,
-                    "original_word": "शाम",
+                    "head_index": "6",
+                    "index": 3,
+                    "original_word": "पहले",
+                    "pos_tag": "NST",
+                    "wx_word": "pahale"
+                },
+                {
+                    "dependency_relation": "r6",
+                    "head_index": "5",
+                    "index": 4,
+                    "original_word": "अपनी",
+                    "pos_tag": "PRP",
+                    "wx_word": "apanI"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "बात",
                     "pos_tag": "NN",
-                    "wx_word": "SAma",
-                    "cnx_index": 16,
-                    "cnx_component": "start"
+                    "wx_word": "bAwa"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 6,
+                    "original_word": "कहेगा",
+                    "pos_tag": "VM",
+                    "wx_word": "kahegA"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "6",
+                    "index": 7,
+                    "original_word": "?",
+                    "pos_tag": "SYM",
+                    "wx_word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "कौन सबसे पहले अपनी बात कहेगा ?",
+            "sentence_id": "59"
+        },
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "adv",
+                    "head_index": "9",
+                    "index": 1,
+                    "original_word": "क्या",
+                    "pos_tag": "WQ",
+                    "wx_word": "kyA"
+                },
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "9",
+                    "index": 2,
+                    "original_word": "किसी",
+                    "pos_tag": "PRP",
+                    "wx_word": "kisI"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "2",
+                    "index": 3,
+                    "original_word": "ने",
+                    "pos_tag": "PSP",
+                    "wx_word": "ne"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "9",
+                    "index": 4,
+                    "original_word": "उसे",
+                    "pos_tag": "PRP",
+                    "wx_word": "use"
+                },
+                {
+                    "dependency_relation": "nmod__adj",
+                    "head_index": "6",
+                    "index": 5,
+                    "original_word": "यह",
+                    "pos_tag": "DEM",
+                    "wx_word": "yaha"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "7",
+                    "index": 6,
+                    "original_word": "काम",
+                    "pos_tag": "NN",
+                    "wx_word": "kAma"
+                },
+                {
+                    "dependency_relation": "k5",
+                    "head_index": "9",
+                    "index": 7,
+                    "original_word": "करने",
+                    "pos_tag": "VM",
+                    "wx_word": "karane"
                 },
                 {
                     "dependency_relation": "lwg__psp",
@@ -3025,79 +1508,25 @@
                     "wx_word": "se"
                 },
                 {
-                    "dependency_relation": "k7t",
-                    "head_index": "11",
-                    "index": 9,
-                    "original_word": "रात",
-                    "pos_tag": "NN",
-                    "wx_word": "rAwa",
-                    "cnx_index": 16,
-                    "cnx_component": "end"
-                },
-                {
-                    "dependency_relation": "lwg__psp",
-                    "head_index": "9",
-                    "index": 10,
-                    "original_word": "तक",
-                    "pos_tag": "PSP",
-                    "wx_word": "waka"
-                },
-                {
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "index": 11,
-                    "original_word": "पढ़ा",
+                    "index": 9,
+                    "original_word": "रोका",
                     "pos_tag": "VM",
-                    "wx_word": "paDZA"
-                },
-                {
-                    "dependency_relation": "lwg__vaux",
-                    "head_index": "11",
-                    "index": 12,
-                    "original_word": "था",
-                    "pos_tag": "VAUX",
-                    "wx_word": "WA"
+                    "wx_word": "rokA"
                 },
                 {
                     "dependency_relation": "rsym",
-                    "head_index": "11",
-                    "index": 13,
-                    "original_word": "।",
+                    "head_index": "9",
+                    "index": 10,
+                    "original_word": "?",
                     "pos_tag": "SYM",
-                    "wx_word": "."
-                },
-                {
-                    "index": 14,
-                    "original_word": "per_1",
-                    "wx_word": "[ne_1]",
-                    "dependency_relation": "nmod__adj"
-                },
-                {
-                    "index": 15,
-                    "original_word": "[span_1]",
-                    "wx_word": "[span_1]",
-                    "dependency_relation": "k7t",
-                    "cnx_index": 17,
-                    "cnx_component": "op1"
-                },
-                {
-                    "index": 16,
-                    "original_word": "[span_2]",
-                    "wx_word": "[span_2]",
-                    "dependency_relation": "k7t",
-                    "cnx_index": 17,
-                    "cnx_component": "op2"
-                },
-                {
-                    "index": 17,
-                    "original_word": "[disjunct_1]",
-                    "wx_word": "[disjunct_1]",
-                    "dependency_relation": "k7t"
+                    "wx_word": "?"
                 }
             ],
-            "project_id": 1,
-            "sentence": "मोहन सुबह से दोपहर तक या शाम से रात तक पढ़ा था ।",
-            "sentence_id": 27
+            "project_id": "1",
+            "sentence": "क्या किसी ने उसे यह काम करने से रोका ?",
+            "sentence_id": "60"
         }
     ]
 }

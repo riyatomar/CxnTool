@@ -26,6 +26,7 @@ def handle_spans(parser_output, new_entries, span_count):
                             'original_word': f'[span_{span_count}]',
                             'wx_word': f'[span_{span_count}]',
                             'dependency_relation': target_item.get('dependency_relation'),
+                            'head_index': target_item.get('head_index'),
                         }
                         new_entries.append(new_entry)
                         span_indexes[f'[span_{span_count}]'] = span_index

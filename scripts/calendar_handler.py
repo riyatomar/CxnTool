@@ -22,6 +22,7 @@ def handle_calendaric_units(parser_output, new_entries, calendaric_count, calend
                         'original_word': f'[calendar_{calendaric_count}]',
                         'wx_word': f'[calendar_{calendaric_count}]',
                         'dependency_relation': item.get("dependency_relation"),
+                        'head_index': item.get('head_index'),
                     }
                     new_entries.append(calendaric_entry)
                     calendaric_count += 1
