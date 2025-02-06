@@ -366,8 +366,8 @@
 17	hEM	हैं	VAUX	16	lwg__vaux	-	-
 18	.	।	SYM	16	rsym	-	-
 19	[ne_1]	loc_1	-	4	k2	-	-
-20	[ne_1]	[ne_1]	-	15	k7	-	-
-21	[ne_2]	[ne_2]	-	15	k7	23	op1
+20	[ne_2]	[ne_2]	-	15	k7	-	-
+21	[ne_3]	[ne_3]	-	15	k7	23	op1
 22	[cp_1]	[cp_1]	-	6	mod	-	-
 23	[disjunct_1]	[disjunct_1]	-	15	k7	-	-
 </sentence_id>
@@ -519,7 +519,7 @@
 27	[ne_1]	loc_1	-	0	rd	-	-
 28	[ne_2]	loc_2	-	0	k7p	-	-
 29	[ne_3]	loc_3	-	15	mod	-	-
-30	[ne_3]	[ne_3]	-	0	k7t	-	-
+30	[ne_4]	[ne_4]	-	0	k7t	-	-
 31	[calendar_1]	[calendar_1]	-	0	k7t	-	-
 </sentence_id>
 
@@ -561,7 +561,7 @@
 19	.	।	SYM	9	rsym	-	-
 20	[ne_1]	loc_1	-	5	pof__cn	-	-
 21	[ne_2]	loc_2	-	0	mod	-	-
-22	[ne_2]	[ne_2]	-	0	k7t	-	-
+22	[ne_3]	[ne_3]	-	0	k7t	-	-
 23	[calendar_1]	[calendar_1]	-	0	k7t	-	-
 </sentence_id>
 
@@ -596,8 +596,8 @@
 15	hE	है	VAUX	14	lwg__vaux	-	-
 16	.	।	SYM	14	rsym	-	-
 17	[ne_1]	loc_1	-	3	intf	-	-
-18	[ne_1]	[ne_1]	-	14	k7t	-	-
-19	[ne_2]	[ne_2]	-	12	r6	-	-
+18	[ne_2]	[ne_2]	-	14	k7t	-	-
+19	[ne_3]	[ne_3]	-	12	r6	-	-
 20	[calendar_1]	[calendar_1]	-	14	k7t	-	-
 21	[calendar_2]	[calendar_2]	-	12	r6	-	-
 </sentence_id>
@@ -746,8 +746,8 @@
 33	vinyAsa	विन्यास	NN	0	main	37	inside
 34	.	।	SYM	33	rsym	-	-
 35	[ne_1]	loc_1	-	13	r6	-	-
-36	[ne_1]	[ne_1]	-	8	k2	38	op2
-37	[ne_2]	[ne_2]	-	0	main	-	-
+36	[ne_2]	[ne_2]	-	8	k2	38	op2
+37	[ne_3]	[ne_3]	-	0	main	-	-
 </sentence_id>
 
 
@@ -1043,7 +1043,7 @@
 15	lewI	लेती	VAUX	14	lwg__vaux	19	verbalizer
 16	hEM	हैं	VAUX	15	lwg__vaux_cont	19	verbalizer
 17	.	।	SYM	14	rsym	-	-
-18	[ne_0]	[ne_0]	-	14	k2	-	-
+18	[ne_1]	[ne_1]	-	14	k2	-	-
 19	[cp_1]	[cp_1]	-	0	main	-	-
 20	[conj_1]	[conj_1]	-	14	k1	-	-
 </sentence_id>
@@ -1106,7 +1106,7 @@
 11	xiKawA	दिखता	VM	0	main	-	-
 12	hE	है	VAUX	11	lwg__vaux	-	-
 13	.	।	SYM	11	rsym	-	-
-14	[ne_0]	[ne_0]	-	11	k1	-	-
+14	[ne_1]	[ne_1]	-	11	k1	-	-
 15	[cp_1]	[cp_1]	-	11	rblsk	18	op1
 16	[cp_2]	[cp_2]	-	11	rblsk	-	-
 17	[cp_3]	[cp_3]	-	11	rblsk	18	op2
@@ -1290,8 +1290,8 @@
 18	howA	होता	VM	0	main	23	verbalizer
 19	hE	है	VAUX	18	lwg__vaux	23	verbalizer
 20	.	।	SYM	18	rsym	-	-
-21	[ne_0]	[ne_0]	-	18	k7	24	op1
-22	[ne_1]	[ne_1]	-	12	r6	-	-
+21	[ne_1]	[ne_1]	-	18	k7	24	op1
+22	[ne_2]	[ne_2]	-	12	r6	-	-
 23	[cp_1]	[cp_1]	-	0	main	-	-
 24	[conj_1]	[conj_1]	-	18	k7	-	-
 </sentence_id>
@@ -1669,7 +1669,7 @@
 21	pariNAma	परिणाम	NN	22	k1s	-	-
 22	hE	है	VM	0	main	-	-
 23	.	।	SYM	22	rsym	-	-
-24	[ne_0]	[ne_0]	-	22	k1	-	-
+24	[ne_1]	[ne_1]	-	22	k1	-	-
 </sentence_id>
 
 
@@ -1821,7 +1821,7 @@
 16	sUryAwapa	सूर्यातप	NNP	0	main	-	-
 17	se	से	PSP	16	lwg__psp	-	-
 18	.	।	SYM	16	rsym	-	-
-19	[ne_0]	[ne_0]	-	11	k1	-	-
+19	[ne_1]	[ne_1]	-	11	k1	-	-
 20	[cp_1]	[cp_1]	-	13	rc	-	-
 </sentence_id>
 
@@ -1961,7 +1961,7 @@
 19	hoM	हों	VM	0	main	-	-
 20	.	।	SYM	19	rsym	-	-
 21	[ne_1]	loc_1	-	19	k7p	-	-
-22	[ne_1]	[ne_1]	-	19	k1	23	op1
+22	[ne_2]	[ne_2]	-	19	k1	23	op1
 23	[conj_1]	[conj_1]	-	19	k1	-	-
 </sentence_id>
 
@@ -2237,7 +2237,7 @@
 12	howI	होती	VM	0	main	17	op2
 13	hEM	हैं	VAUX	12	lwg__vaux	-	-
 14	.	।	SYM	6	rsym	-	-
-15	[ne_0]	[ne_0]	-	12	rhh	-	-
+15	[ne_1]	[ne_1]	-	12	rhh	-	-
 16	[cp_1]	[cp_1]	-	0	main	17	op1
 17	[conj_1]	[conj_1]	-	0	main	-	-
 </sentence_id>
@@ -2256,7 +2256,7 @@
 10	xewA	देता	VAUX	9	lwg__vaux	14	verbalizer
 11	hE	है	VAUX	10	lwg__vaux_cont	14	verbalizer
 12	.	।	SYM	9	rsym	-	-
-13	[ne_0]	[ne_0]	-	9	k1	-	-
+13	[ne_1]	[ne_1]	-	9	k1	-	-
 14	[cp_1]	[cp_1]	-	0	main	-	-
 </sentence_id>
 
@@ -2509,7 +2509,7 @@
 12	hE	है	VM	0	main	-	-
 13	.	।	SYM	12	rsym	-	-
 14	[ne_1]	loc_1	-	12	k7p	16	op1
-15	[ne_1]	[ne_1]	-	0	pof__cn	-	-
+15	[ne_2]	[ne_2]	-	0	pof__cn	-	-
 16	[conj_1]	[conj_1]	-	12	k7p	-	-
 </sentence_id>
 

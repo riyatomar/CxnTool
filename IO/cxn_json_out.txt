@@ -2490,15 +2490,15 @@
                 },
                 {
                     "index": 20,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
+                    "original_word": "[ne_2]",
+                    "wx_word": "[ne_2]",
                     "dependency_relation": "k7",
                     "head_index": "15"
                 },
                 {
                     "index": 21,
-                    "original_word": "[ne_2]",
-                    "wx_word": "[ne_2]",
+                    "original_word": "[ne_3]",
+                    "wx_word": "[ne_3]",
                     "dependency_relation": "k7",
                     "head_index": "15",
                     "cnx_index": 23,
@@ -3604,8 +3604,8 @@
                 },
                 {
                     "index": 30,
-                    "original_word": "[ne_3]",
-                    "wx_word": "[ne_3]",
+                    "original_word": "[ne_4]",
+                    "wx_word": "[ne_4]",
                     "dependency_relation": "k7t",
                     "head_index": "0"
                 },
@@ -3899,8 +3899,8 @@
                 },
                 {
                     "index": 22,
-                    "original_word": "[ne_2]",
-                    "wx_word": "[ne_2]",
+                    "original_word": "[ne_3]",
+                    "wx_word": "[ne_3]",
                     "dependency_relation": "k7t",
                     "head_index": "0"
                 },
@@ -4136,15 +4136,15 @@
                 },
                 {
                     "index": 18,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
+                    "original_word": "[ne_2]",
+                    "wx_word": "[ne_2]",
                     "dependency_relation": "k7t",
                     "head_index": "14"
                 },
                 {
                     "index": 19,
-                    "original_word": "[ne_2]",
-                    "wx_word": "[ne_2]",
+                    "original_word": "[ne_3]",
+                    "wx_word": "[ne_3]",
                     "dependency_relation": "r6",
                     "head_index": "12"
                 },
@@ -5225,8 +5225,8 @@
                 },
                 {
                     "index": 36,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
+                    "original_word": "[ne_2]",
+                    "wx_word": "[ne_2]",
                     "dependency_relation": "k2",
                     "head_index": "8",
                     "cnx_index": 38,
@@ -5234,8 +5234,8 @@
                 },
                 {
                     "index": 37,
-                    "original_word": "[ne_2]",
-                    "wx_word": "[ne_2]",
+                    "original_word": "[ne_3]",
+                    "wx_word": "[ne_3]",
                     "dependency_relation": "main",
                     "head_index": "0"
                 }
@@ -7267,8 +7267,8 @@
                 },
                 {
                     "index": 18,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "k2",
                     "head_index": "14"
                 },
@@ -7717,8 +7717,8 @@
                 },
                 {
                     "index": 14,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "k1",
                     "head_index": "11"
                 },
@@ -9052,8 +9052,8 @@
                 },
                 {
                     "index": 21,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "k7",
                     "head_index": "18",
                     "cnx_index": 24,
@@ -9061,8 +9061,8 @@
                 },
                 {
                     "index": 22,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
+                    "original_word": "[ne_2]",
+                    "wx_word": "[ne_2]",
                     "dependency_relation": "r6",
                     "head_index": "12"
                 },
@@ -11638,8 +11638,8 @@
                 },
                 {
                     "index": 24,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "k1",
                     "head_index": "22"
                 }
@@ -12740,8 +12740,8 @@
                 },
                 {
                     "index": 19,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "k1",
                     "head_index": "11"
                 },
@@ -13674,8 +13674,8 @@
                 },
                 {
                     "index": 22,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
+                    "original_word": "[ne_2]",
+                    "wx_word": "[ne_2]",
                     "dependency_relation": "k1",
                     "head_index": "19",
                     "cnx_index": 23,
@@ -15599,8 +15599,8 @@
                 },
                 {
                     "index": 15,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "rhh",
                     "head_index": "12"
                 },
@@ -15737,8 +15737,8 @@
                 },
                 {
                     "index": 13,
-                    "original_word": "[ne_0]",
-                    "wx_word": "[ne_0]",
+                    "original_word": "[ne_1]",
+                    "wx_word": "[ne_1]",
                     "dependency_relation": "k1",
                     "head_index": "9"
                 },
@@ -17496,8 +17496,8 @@
                 },
                 {
                     "index": 15,
-                    "original_word": "[ne_1]",
-                    "wx_word": "[ne_1]",
+                    "original_word": "[ne_2]",
+                    "wx_word": "[ne_2]",
                     "dependency_relation": "pof__cn",
                     "head_index": "0"
                 },
