@@ -1,249 +1,2528 @@
-<sentence_id=41>
-1	kOna	कौन	WQ	7	k1	-	-
-2	wumheM	तुम्हें	PRP	7	k2	-	-
-3	yaha	यह	DEM	4	nmod__adj	-	-
-4	kAma	काम	NN	5	k2	-	-
-5	karane	करने	VM	7	k2	-	-
-6	ko	को	PSP	5	lwg__psp	-	-
-7	kaha	कह	VM	0	main	-	-
-8	rahA	रहा	VAUX	7	lwg__vaux	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0001>
+1	kyA	क्या	WQ	9	krvn	-	-
+2	Apa	आप	PRP	9	k1	-	-
+3	apane	अपने	PRP	9	rd	-	-
+4	cAroM	चारों	QC	5	card	-	-
+5	waraPa	तरफ	NST	3	k7p	-	-
+6	vAyu	वायु	NN	9	k2	-	-
+7	ko	को	PSP	6	lwg__psp	-	-
+8	mahasUsa	महसूस	JJ	9	pof	12	kriyAmUla
+9	karawe	करते	VM	0	main	12	verbalizer
+10	hE	है	VAUX	9	lwg__vaux	12	verbalizer
+11	?	?	SYM	9	rsym	-	-
+12	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0002a>
+1	kyA	क्या	WQ	4	vmod	-	-
+2	Apa	आप	PRP	4	k1	-	-
+3	yaha	यह	PRP	4	k2	-	-
+4	jAnawe	जानते	VM	0	main	-	-
+5	hEM	हैं	VAUX	4	lwg__vaux	-	-
+6	.	।	SYM	4	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0002b>
+1	hama	हम	PRP	11	k1	-	-
+2	vAyu	वायु	NN	7	r6	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	eka	एक	QC	7	card	-	-
+5	bahuwa	बहुत	INTF	6	intf	-	-
+6	BArI	भारी	JJ	7	mod	-	-
+7	puliMxe	पुलिंदे	NN	9	r6	-	-
+8	ke	के	PSP	7	lwg__psp	-	-
+9	wala	तल	NN	11	k7p	-	-
+10	meM	में	PSP	9	lwg__psp	-	-
+11	rahawe	रहते	VM	0	main	-	-
+12	hEM	हैं	VAUX	11	lwg__vaux	-	-
+13	?	?	SYM	11	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0003a>
+1	hama	हम	PRP	12	k1	-	-
+2	vAyu	वायु	NN	5	k7p	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	sAzsa	साँस	NN	5	pof	15	kriyAmUla
+5	lewe	लेते	VM	12	rsk	15	verbalizer
+6	hue	हुए	VAUX	5	lwg__vaux	15	verbalizer
+7	sAzsa	साँस	NN	12	k3	-	-
+8	xvArA	द्वारा	PSP	7	lwg__psp	-	-
+9	vAyu	वायु	NN	12	k2	-	-
+10	ko	को	PSP	9	lwg__psp	-	-
+11	bAhara	बाहर	NST	12	k7p	-	-
+12	nikAlawe	निकालते	VM	0	main	-	-
+13	hEM	हैं	VAUX	12	lwg__vaux	-	-
+14	.	।	SYM	12	rsym	-	-
+15	[cp_1]	[cp_1]	-	12	rsk	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0003b>
+1	use	उसे	PRP	4	k2	-	-
+2	mahasUsa	महसूस	JJ	4	pof	7	kriyAmUla
+3	waBI	तभी	PRP	4	krvn	-	-
+4	karawe	करते	VM	0	main	7	verbalizer
+5	hEM	हैं	VAUX	4	lwg__vaux	7	verbalizer
+6	.	।	SYM	4	rsym	-	-
+7	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0003c>
+1	yaha	यह	PRP	3	k1	-	-
+2	gawimAna	गतिमान	JJ	3	pof	6	kriyAmUla
+3	howI	होती	VM	0	main	6	verbalizer
+4	hE	है	VAUX	3	lwg__vaux	6	verbalizer
+5	.	।	SYM	3	rsym	-	-
+6	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0004a>
+1	isa	इस	PRP	3	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	wAwparya	तात्पर्य	NN	5	k1	-	-
+4	yaha	यह	PRP	5	k1s	-	-
+5	hE	है	VM	0	main	-	-
+6	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0004b>
+1	gawimAna	गतिमान	JJ	2	mod	-	-
+2	vAyu	वायु	NN	5	k1	-	-
+3	hI	ही	RP	2	lwg__rp	-	-
+4	pavana	पवन	NNP	5	k1s	-	-
+5	hE	है	VM	0	main	-	-
+6	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0005a>
+1	Apa	आप	PRP	2	k1	-	-
+2	jAnawe	जानते	VM	0	main	-	-
+3	hEM	हैं	VAUX	2	lwg__vaux	-	-
+4	.	।	SYM	2	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0005b>
+1	pqWvI	पृथ्वी	NN	7	k1	11	begin
+2	cAroM	चारों	QC	3	card	-	-
+3	ora	ओर	NST	7	krvn	-	-
+4	se	से	PSP	3	lwg__psp	-	-
+5	vAyu	वायु	NN	7	krvn	-	-
+6	se	से	PSP	5	lwg__psp	-	-
+7	GirI	घिरी	VM	0	main	-	-
+8	huI	हुई	VAUX	7	lwg__vaux	-	-
 9	hE	है	VAUX	8	lwg__vaux_cont	-	-
-10	?	?	SYM	7	rsym	-	-
+10	.	।	SYM	7	rsym	-	-
+11	[ne_1]	loc_1	-	7	k1	-	-
 </sentence_id>
 
 
-<sentence_id=42>
-1	kyA	क्या	WQ	6	adv	-	-
-2	kisI	किसी	PRP	6	k1	-	-
-3	ne	ने	PSP	2	lwg__psp	-	-
-4	yaha	यह	DEM	5	nmod__adj	-	-
-5	kiwAba	किताब	NN	6	k2	-	-
-6	paDZI	पढ़ी	VM	0	main	-	-
-7	hE	है	VAUX	6	lwg__vaux	-	-
-8	?	?	SYM	6	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0006>
+1	vAyu	वायु	NN	4	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	yaha	यह	DEM	4	dem	-	-
+4	AvaraNa	आवरण	NN	7	k1	-	-
+5	hI	ही	RP	4	lwg__rp	-	-
+6	vAyumaMdala	वायुमंडल	NN	7	k1	-	-
+7	hE	है	VM	0	main	-	-
+8	,	,	SYM	7	rsym	-	-
+9	jo	जो	PRP	13	k1	-	-
+10	bahuwa-sI	बहुत-सी	QF	11	quant	-	-
+11	gEsoM	गैसों	NN	13	k5	-	-
+12	se	से	PSP	11	lwg__psp	-	-
+13	banA	बना	VM	6	rc	-	-
+14	hE	है	VAUX	13	lwg__vaux	-	-
+15	.	।	SYM	7	rsym	-	-
 </sentence_id>
 
 
-<sentence_id=43>
-1	kisake	किसके	WQ	6	sent-adv	-	-
-2	sAWa	साथ	NST	1	lwg__psp	-	-
-3	wumane	तुमने	PRP	6	k1	-	-
-4	yaha	यह	DEM	5	nmod__adj	-	-
-5	yojanA	योजना	NN	6	k2	-	-
-6	banAI	बनाई	VM	0	main	-	-
-7	?	?	SYM	6	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0007>
+1	inhIM	इन्हीं	DEM	2	dem	-	-
+2	gEsoM	गैसों	NN	9	rh	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	kAraNa	कारण	PSP	2	lwg__psp	-	-
+5	hI	ही	RP	2	lwg__rp	-	-
+6	pqWvI	पृथ्वी	NN	9	k7p	13	begin
+7	para	पर	PSP	6	lwg__psp	-	-
+8	jIvana	जीवन	NN	9	k2	-	-
+9	pAyA	पाया	VM	0	main	-	-
+10	jAwA	जाता	VAUX	9	lwg__vaux	-	-
+11	hE	है	VAUX	10	lwg__vaux_cont	-	-
+12	.	।	SYM	9	rsym	-	-
+13	[ne_1]	loc_1	-	9	k7p	-	-
 </sentence_id>
 
 
-<sentence_id=44>
-1	wuma	तुम	PRP	6	k1	-	-
-2	kahAz	कहाँ	WQ	6	adv	-	-
-3	se	से	PSP	2	lwg__psp	-	-
-4	yaha	यह	DEM	5	nmod__adj	-	-
-5	sAmAna	सामान	NN	6	k2	-	-
-6	lAe	लाए	VM	0	main	-	-
-7	ho	हो	VAUX	6	lwg__vaux	-	-
-8	?	?	SYM	6	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0008>
+1	pqWvI	पृथ्वी	NNP	11	k1	14	begin
+2	apanI	अपनी	PRP	3	r6	-	-
+3	UrjA	ऊर्जा	NN	7	r6	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	lagaBaga	लगभग	RP	6	lwg__rp	-	-
+6	saMpUrNa	संपूर्ण	JJ	7	mod	-	-
+7	BAga	भाग	NN	11	k2	-	-
+8	sUrya	सूर्य	NN	11	krvn	15	begin
+9	se	से	PSP	8	lwg__psp	-	-
+10	prApwa	प्राप्त	JJ	11	pof	16	kriyAmUla
+11	karawI	करती	VM	0	main	16	verbalizer
+12	hE	है	VAUX	11	lwg__vaux	16	verbalizer
+13	.	।	SYM	11	rsym	-	-
+14	[ne_1]	loc_1	-	11	k1	-	-
+15	[ne_2]	loc_2	-	11	krvn	-	-
+16	[cp_1]	[cp_1]	-	0	main	-	-
 </sentence_id>
 
 
-<sentence_id=45>
-1	kyA	क्या	WQ	8	adv	-	-
-2	vaha	वह	PRP	8	k1	-	-
-3	kisI	किसी	PRP	8	k2	-	-
-4	ko	को	PSP	3	lwg__psp	-	-
-5	isa	इस	PRP	8	k7	-	-
-6	bAre	बारे	PSP	5	lwg__psp	-	-
-7	meM	में	PSP	5	lwg__psp	-	-
-8	bawAegA	बताएगा	VM	0	main	-	-
-9	?	?	SYM	8	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0009>
+1	isake	इसके	PRP	13	vmod	-	-
+2	baxale	बदले	PSP	1	lwg__psp	-	-
+3	pqWvI	पृथ्वी	NNC	4	pof__cn	17	begin
+4	sUrya	सूर्य	NN	6	intf	-	-
+5	se	से	PSP	4	lwg__psp	-	-
+6	prApwa	प्राप्त	JJ	7	mod	-	-
+7	UrjA	ऊर्जा	NN	13	k2	-	-
+8	ko	को	PSP	7	lwg__psp	-	-
+9	aMwarikRa	अंतरिक्ष	NN	13	k7p	-	-
+10	meM	में	PSP	9	lwg__psp	-	-
+11	vApasa	वापस	JJ	13	k2	-	-
+12	vikariwa	विकरित	JJ	13	pof	18	kriyAmUla
+13	kara	कर	VM	0	main	18	verbalizer
+14	xewI	देती	VAUX	13	lwg__vaux	18	verbalizer
+15	hE	है	VAUX	14	lwg__vaux_cont	18	verbalizer
+16	.	।	SYM	13	rsym	-	-
+17	[ne_1]	loc_1	-	4	pof__cn	-	-
+18	[cp_1]	[cp_1]	-	0	main	-	-
 </sentence_id>
 
 
-<sentence_id=46>
-1	wumane	तुमने	PRP	5	k1	-	-
-2	kisase	किससे	WQ	5	adv	-	-
-3	yaha	यह	DEM	4	nmod__adj	-	-
-4	jAnakArI	जानकारी	NN	5	k2	-	-
-5	lI	ली	VM	0	main	-	-
-6	hE	है	VAUX	5	lwg__vaux	-	-
-7	?	?	SYM	5	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0010a>
+1	pariNAmasvarUpa	परिणामस्वरूप	PSP	0	main	-	-
+2	pqWvI	पृथ्वी	NN	10	k1	12	begin
+3	na	न	NEG	10	vmod	-	-
+4	wo	तो	RP	3	lwg__rp	-	-
+5	aXika	अधिक	QF	6	quant	-	-
+6	samaya	समय	NN	10	rt	-	-
+7	ke	के	PSP	6	lwg__psp	-	-
+8	lie	लिए	PSP	6	lwg__psp	-	-
+9	garma	गर्म	JJ	10	pof	13	kriyAmUla
+10	howI	होती	VM	1	ccof	13	verbalizer
+11	hE	है	VAUX	10	lwg__vaux	13	verbalizer
+12	[ne_1]	loc_1	-	10	k1	-	-
+13	[cp_1]	[cp_1]	-	1	ccof	-	-
 </sentence_id>
 
 
-<sentence_id=47>
-1	yaha	यह	DEM	2	nmod__adj	-	-
-2	kAma	काम	NN	7	k1	-	-
-3	kOna	कौन	WQ	4	mod__wq	-	-
-4	samaya	समय	NN	7	k7t	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0010b>
+1	na	न	NEG	4	neg	-	-
+2	hI	ही	RP	1	lwg__rp	-	-
+3	aXika	अधिक	QF	4	quant	-	-
+4	TaMdI	ठंडी	NN	0	main	11	op1
+5	awaH	अतः	CC	0	main	-	-
+6	hama	हम	PRP	8	k1	-	-
+7	yaha	यह	PRP	8	k2	-	-
+8	pAwe	पाते	VM	0	main	11	op2
+9	hEM	हैं	VAUX	8	lwg__vaux	-	-
+10	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0010च>
+1	pqWvI	पृथ्वी	NNP	4	r6	14	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	alaga-alaga	अलग-अलग	JJ	4	mod	-	-
+4	BAgoM	भागों	NN	12	k7p	-	-
+5	meM	में	PSP	4	lwg__psp	-	-
+6	prApwa	प्राप्त	JJ	7	mod	-	-
+7	wApa	ताप	NN	9	r6	-	-
+8	kI	की	PSP	7	lwg__psp	-	-
+9	mAwrA	मात्रा	NN	12	k1	-	-
+10	samAna	समान	JJ	12	k1s	-	-
+11	nahIM	नहीं	NEG	12	neg	-	-
+12	howI	होती	VM	0	main	-	-
+13	.	।	SYM	12	rsym	-	-
+14	[ne_1]	loc_1	-	4	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0011a>
+1	isI	इसी	DEM	2	dem	-	-
+2	BinnawA	भिन्नता	NN	10	rh	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	kAraNa	कारण	PSP	2	lwg__psp	-	-
+5	vAyumaMdala	वायुमंडल	NN	7	r6	-	-
+6	ke	के	PSP	5	lwg__psp	-	-
+7	xAba	दाब	NN	10	k7	-	-
+8	meM	में	PSP	7	lwg__psp	-	-
+9	BinnawA	भिन्नता	NN	10	pof	13	kriyAmUla
+10	howI	होती	VM	0	main	13	verbalizer
+11	hE	है	VAUX	10	lwg__vaux	13	verbalizer
+12	.	।	SYM	10	rsym	-	-
+13	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0011b>
+1	isI	इसी	DEM	2	dem	-	-
+2	kAraNa	कारण	NN	15	rh	-	-
+3	pavanoM	पवनों	NN	15	k3	-	-
+4	ke	के	PSP	3	lwg__psp	-	-
+5	xvArA	द्वारा	PSP	3	lwg__psp	-	-
+6	wApa	ताप	NN	8	r6	-	-
+7	kA	का	PSP	6	lwg__psp	-	-
+8	sWAnAMwaraNa	स्थानांतरण	NN	15	k1	-	-
+9	eka	एक	QC	10	card	-	-
+10	sWAna	स्थान	NN	15	k5	-	-
+11	se	से	PSP	10	lwg__psp	-	-
+12	xUsare	दूसरे	QO	13	nmod__adj	-	-
+13	sWAna	स्थान	NN	15	k7p	-	-
+14	para	पर	PSP	13	lwg__psp	-	-
+15	howA	होता	VM	0	main	-	-
+16	hE	है	VAUX	15	lwg__vaux	-	-
+17	.	।	SYM	15	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0012>
+1	isa	इस	DEM	2	dem	-	-
+2	aXyAya	अध्याय	NN	9	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	vAyumaMdala	वायुमंडल	NN	9	k1	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	garma	गर्म	JJ	7	ccof	-	-
+7	waWA	तथा	CC	9	pof	27	kriyAmUla
+8	TaMde	ठंडे	JJ	7	ccof	-	-
+9	hone	होने	VM	11	r6	27	verbalizer
+10	kI	की	PSP	9	lwg__psp	-	-
+11	prakriyA	प्रक्रिया	NN	22	k7a	28	op1
+12	evaM	एवं	CC	22	k7a	-	-
+13	pariNAmasvarUpa	परिणामस्वरूप	PSP	12	lwg__psp	-	-
+14	pqWvI	पृथ्वी	NN	16	r6	26	begin
+15	kI	की	PSP	14	lwg__psp	-	-
+16	sawaha	सतह	NN	22	k7p	-	-
+17	para	पर	PSP	16	lwg__psp	-	-
+18	wApamAna	तापमान	NN	20	r6	-	-
+19	ke	के	PSP	18	lwg__psp	-	-
+20	viwaraNa	वितरण	NN	22	k2	-	-
+21	ko	को	PSP	20	lwg__psp	-	-
+22	samaJAyA	समझाया	VM	0	main	-	-
+23	gayA	गया	VAUX	22	lwg__vaux	-	-
+24	hE	है	VAUX	23	lwg__vaux_cont	-	-
+25	.	।	SYM	22	rsym	-	-
+26	[ne_1]	loc_1	-	16	r6	-	-
+27	[cp_1]	[cp_1]	-	11	r6	-	-
+28	[conj_1]	[conj_1]	-	22	k7a	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0013>
+1	pqWvI	पृथ्वी	NNP	3	r6	20	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	pqRTa	पृष्ठ	NN	6	k7	-	-
+4	para	पर	PSP	3	lwg__psp	-	-
+5	prApwa	प्राप्त	JJ	6	pof	21	kriyAmUla
+6	hone	होने	VM	8	mod	21	verbalizer
+7	vAlI	वाली	PSP	6	lwg__psp	-	-
+8	UrjA	ऊर्जा	NN	11	r6	-	-
+9	kA	का	PSP	8	lwg__psp	-	-
+10	aXikawama	अधिकतम	JJ	11	mod	-	-
+11	aMSa	अंश	NN	17	k1	-	-
+12	laGu	लघु	JJ	13	mod	-	-
+13	waraMgaxErXya	तरंगदैर्ध्य	NN	17	k7	-	-
+14	ke	के	PSP	13	lwg__psp	-	-
+15	rUpa	रूप	PSP	13	lwg__psp	-	-
+16	meM	में	PSP	13	lwg__psp	-	-
+17	AwA	आता	VM	0	main	-	-
+18	hE	है	VAUX	17	lwg__vaux	-	-
+19	.	।	SYM	17	rsym	-	-
+20	[ne_1]	loc_1	-	3	r6	-	-
+21	[cp_1]	[cp_1]	-	8	mod	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0014>
+1	pqWvI	पृथ्वी	NNP	4	k2	19	begin
+2	ko	को	PSP	1	lwg__psp	-	-
+3	prApwa	प्राप्त	JJ	4	pof	22	kriyAmUla
+4	hone	होने	VM	6	mod	22	verbalizer
+5	vAlI	वाली	PSP	4	lwg__psp	-	-
+6	UrjA	ऊर्जा	NN	15	k2	-	-
+7	ko	को	PSP	6	lwg__psp	-	-
+8	‘AgamI	‘आगमी	NNPC	10	pof__cn	20	begin
+9	sOra	सौर	NNPC	10	pof__cn	21	begin
+10	vikiraNa’	विकिरण’	NNP	15	k7	21	inside
+11	yA	या	CC	15	k7	-	-
+12	Cote	छोटे	JJ	13	mod	-	-
+13	rUpa	रूप	NN	15	k7	23	op2
+14	meM	में	PSP	13	lwg__psp	-	-
+15	‘sUryAwapa’	‘सूर्यातप’	VM	16	k1	-	-
+16	kahawe	कहते	VM	0	main	-	-
+17	hEM	हैं	VAUX	16	lwg__vaux	-	-
+18	.	।	SYM	16	rsym	-	-
+19	[ne_1]	loc_1	-	4	k2	-	-
+20	[ne_1]	[ne_1]	-	15	k7	-	-
+21	[ne_2]	[ne_2]	-	15	k7	23	op1
+22	[cp_1]	[cp_1]	-	6	mod	-	-
+23	[disjunct_1]	[disjunct_1]	-	15	k7	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0015>
+1	pqWvI	पृथ्वी	NNP	3	k1	5	begin
+2	BU-ABa	भू-आभ	NNP	3	k1s	-	-
+3	hE	है	VM	0	main	-	-
+4	.	।	SYM	3	rsym	-	-
+5	[ne_1]	loc_1	-	3	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0016>
+1	sUrya	सूर्य	NN	3	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	kiraNeM	किरणें	NN	10	k1	-	-
+4	vAyumaMdala	वायुमंडल	NN	7	r6	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	UparI	ऊपरी	JJ	7	mod	-	-
+7	BAga	भाग	NN	9	intf	-	-
+8	para	पर	PSP	7	lwg__psp	-	-
+9	wiraCI	तिरछी	JJ	10	k1s	-	-
+10	padawI	पडती	VAUX	0	main	-	-
+11	hE	है	VAUX	10	lwg__vaux	-	-
+12	,	,	SYM	10	rsym	-	-
+13	jisake	जिसके	PRP	25	rh	-	-
+14	kAraNa	कारण	PSP	13	lwg__psp	-	-
+15	pqWvI	पृथ्वी	NNPC	17	pof__cn	29	begin
+16	sOra	सौर	NNC	17	pof__cn	30	mod
+17	UrjA	ऊर्जा	NN	21	r6	30	head
+18	ke	के	PSP	17	lwg__psp	-	-
+19	bahuwa	बहुत	INTF	20	intf	-	-
+20	kama	कम	QF	21	quant	-	-
+21	aMSa	अंश	NN	25	k2	-	-
+22	ko	को	PSP	21	lwg__psp	-	-
+23	hI	ही	RP	21	lwg__rp	-	-
+24	prApwa	प्राप्त	JJ	25	pof	31	kriyAmUla
+25	kara	कर	VM	10	rc	31	verbalizer
+26	pAwI	पाती	VAUX	25	lwg__vaux	31	verbalizer
+27	hE	है	VAUX	26	lwg__vaux_cont	31	verbalizer
+28	.	।	SYM	10	rsym	-	-
+29	[ne_1]	loc_1	-	17	pof__cn	-	-
+30	[nc_1]	[nc_1]	-	21	r6	-	-
+31	[cp_1]	[cp_1]	-	10	rc	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0017>
+1	pqWvI	पृथ्वी	NN	19	k1	22	begin
+2	Osawa	औसत	NN	3	mod	-	-
+3	rUpa	रूप	NN	19	krvn	-	-
+4	se	से	PSP	3	lwg__psp	-	-
+5	vAyumaMdala	वायुमंडल	NN	8	r6	-	-
+6	kI	की	PSP	5	lwg__psp	-	-
+7	UparI	ऊपरी	JJ	8	mod	-	-
+8	sawaha	सतह	NN	19	k7p	-	-
+9	para	पर	PSP	8	lwg__psp	-	-
+10	1.94	1.94	QC	11	card	-	-
+11	kElorI	कैलोरी	NN	19	k1	-	-
+12	/	/	SYM	11	rsym	-	-
+13	prawi	प्रति	RP	11	lwg__rp	-	-
+14	varga	वर्ग	NN	19	k1	-	-
+15	seMtImItara	सेंटीमीटर	NN	19	k7t	-	-
+16	prawiminata	प्रतिमिनट	QC	17	card	-	-
+17	UrjA	ऊर्जा	NN	19	k2	-	-
+18	prApwa	प्राप्त	JJ	19	pof	23	kriyAmUla
+19	karawI	करती	VM	0	main	23	verbalizer
+20	hE	है	VAUX	19	lwg__vaux	23	verbalizer
+21	.	।	SYM	19	rsym	-	-
+22	[ne_1]	loc_1	-	19	k1	-	-
+23	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0018>
+1	vAyumaMdala	वायुमंडल	NN	4	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	UparI	ऊपरी	JJ	4	mod	-	-
+4	sawaha	सतह	NN	7	k7p	-	-
 5	para	पर	PSP	4	lwg__psp	-	-
-6	pUrA	पूरा	JJ	7	pof	9	kriyAmUla
-7	karegA	करेगा	VM	0	main	9	verbalizer
-8	?	?	SYM	7	rsym	-	-
+6	prApwa	प्राप्त	JJ	7	pof	17	kriyAmUla
+7	hone	होने	VM	9	mod	17	verbalizer
+8	vAlI	वाली	PSP	7	lwg__psp	-	-
+9	UrjA	ऊर्जा	NN	14	k7	-	-
+10	meM	में	PSP	9	lwg__psp	-	-
+11	prawivarRa	प्रतिवर्ष	NN	14	k1	-	-
+12	WodA	थोडा	QF	13	k2	-	-
+13	parivarwana	परिवर्तन	NN	14	pof	18	kriyAmUla
+14	howA	होता	VM	0	main	18	verbalizer
+15	hE	है	VAUX	14	lwg__vaux	18	verbalizer
+16	.	।	SYM	14	rsym	-	-
+17	[cp_1]	[cp_1]	-	9	mod	-	-
+18	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0019>
+1	yaha	यह	DEM	2	dem	-	-
+2	parivarwana	परिवर्तन	NN	14	k1	-	-
+3	pqWvI	पृथ्वी	NN	9	r6	17	begin
+4	evaM	एवं	CC	9	r6	-	-
+5	sUrya	सूर्य	NN	9	r6	18	begin
+6	ke	के	PSP	5	lwg__psp	-	-
+7	bIca	बीच	NST	5	k7p	-	-
+8	kI	की	PSP	7	lwg__psp	-	-
+9	xUrI	दूरी	NN	14	k7	-	-
+10	meM	में	PSP	9	lwg__psp	-	-
+11	aMwara	अंतर	NN	14	rh	-	-
+12	ke	के	PSP	11	lwg__psp	-	-
+13	kAraNa	कारण	PSP	11	lwg__psp	-	-
+14	howA	होता	VM	0	main	-	-
+15	hE	है	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[ne_1]	loc_1	-	9	r6	19	op1
+18	[ne_2]	loc_2	-	9	r6	19	op2
+19	[conj_1]	[conj_1]	-	9	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0020>
+1	sUrya	सूर्य	NNP	0	rd	27	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	cAroM	चारों	QC	4	card	-	-
+4	ora	ओर	NST	1	k7p	-	-
+5	parikramaNa	परिक्रमण	NN	0	r6	-	-
+6	ke	के	PSP	5	lwg__psp	-	-
+7	xOrAna	दौरान	NST	5	k7p	-	-
+8	pqWvI	पृथ्वी	NNP	0	k7p	28	begin
+9	4	4	NNPC	10	pof__cn	31	component_of
+10	julAI	जुलाई	NNP	0	k7t	31	component_of
+11	ko	को	PSP	10	lwg__psp	-	-
+12	sUrya	सूर्य	NNP	15	mod	29	begin
+13	se	से	PSP	12	lwg__psp	-	-
+14	sabase	सबसे	INTF	15	intf	-	-
+15	xUra	दूर	NST	0	main	32	op1
+16	arWAw	अर्थात्	CC	0	main	-	-
+17	15	15	QCC	18	mod	-	-
+18	karoda	करोड	QC	24	k1	-	-
+19	,	,	SYM	18	rsym	-	-
+20	20	20	QCC	21	mod	-	-
+21	lAKa	लाख	QC	22	card	-	-
+22	kilomItara	किलोमीटर	NN	24	k7p	-	-
+23	xUra	दूर	NST	22	k7p	-	-
+24	howI	होती	VM	0	main	32	op2
+25	hE	है	VAUX	24	lwg__vaux	-	-
+26	.	।	SYM	16	rsym	-	-
+27	[ne_1]	loc_1	-	0	rd	-	-
+28	[ne_2]	loc_2	-	0	k7p	-	-
+29	[ne_3]	loc_3	-	15	mod	-	-
+30	[ne_3]	[ne_3]	-	0	k7t	-	-
+31	[calendar_1]	[calendar_1]	-	0	k7t	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0021>
+1	pqWvI	पृथ्वी	NNP	4	r6	11	begin
+2	kI	की	PSP	1	lwg__psp	-	-
+3	isa	इस	DEM	4	dem	-	-
+4	sWiwi	स्थिति	NN	7	k2	-	-
+5	ko	को	PSP	4	lwg__psp	-	-
+6	upasOra	उपसौर	NN	7	k2s	-	-
+7	kahA	कहा	VM	0	main	-	-
+8	jAwA	जाता	VAUX	7	lwg__vaux	-	-
+9	hE	है	VAUX	8	lwg__vaux_cont	-	-
+10	.	।	SYM	7	rsym	-	-
+11	[ne_1]	loc_1	-	4	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0022>
+1	3	3	NNPC	2	pof__cn	23	component_of
+2	janavarI	जनवरी	NNP	0	k7t	23	component_of
+3	ko	को	PSP	2	lwg__psp	-	-
+4	pqWvI	पृथ्वी	NNC	5	pof__cn	20	begin
+5	sUrya	सूर्य	NN	0	mod	21	begin
+6	se	से	PSP	5	lwg__psp	-	-
+7	sabase	सबसे	JJ	8	mod	-	-
+8	nikata	निकट	NST	0	main	24	op1
+9	arWAw	अर्थात्	CC	0	main	-	-
+10	14	14	QCC	11	mod	-	-
+11	karoda	करोड	QC	17	k1	-	-
+12	,	,	SYM	11	rsym	-	-
+13	70	70	QCC	14	mod	-	-
+14	lAKa	लाख	QC	15	card	-	-
+15	kilomItara	किलोमीटर	NN	17	k7p	-	-
+16	xUra	दूर	NST	15	k7p	-	-
+17	howI	होती	VM	0	main	24	op2
+18	hE	है	VAUX	17	lwg__vaux	-	-
+19	.	।	SYM	9	rsym	-	-
+20	[ne_1]	loc_1	-	5	pof__cn	-	-
+21	[ne_2]	loc_2	-	0	mod	-	-
+22	[ne_2]	[ne_2]	-	0	k7t	-	-
+23	[calendar_1]	[calendar_1]	-	0	k7t	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0023>
+1	isa	इस	DEM	2	dem	-	-
+2	sWiwi	स्थिति	NN	5	k2	-	-
+3	ko	को	PSP	2	lwg__psp	-	-
+4	‘upasOra’	‘उपसौर’	JJ	5	k2s	-	-
+5	kahA	कहा	VM	0	main	-	-
+6	jAwA	जाता	VAUX	5	lwg__vaux	-	-
+7	hE	है	VAUX	6	lwg__vaux_cont	-	-
+8	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0024a>
+1	pqWvI	पृथ्वी	NNP	3	intf	17	begin
+2	xvArA	द्वारा	PSP	1	lwg__psp	-	-
+3	prApwa	प्राप्त	JJ	5	mod	-	-
+4	vArRika	वार्षिक	JJ	5	mod	-	-
+5	sUryAwapa	सूर्यातप	NN	14	k1	-	-
+6	3	3	NNPC	7	pof__cn	20	component_of
+7	janavarI	जनवरी	NNP	14	k7t	20	component_of
+8	ko	को	PSP	7	lwg__psp	-	-
+9	4	4	NNPC	10	pof__cn	21	component_of
+10	julAI	जुलाई	NNP	12	r6	21	component_of
+11	kI	की	PSP	10	lwg__psp	-	-
+12	apekRA	अपेक्षा	NN	14	k1	-	-
+13	aXika	अधिक	QF	14	k1s	-	-
+14	howA	होता	VM	0	main	-	-
+15	hE	है	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[ne_1]	loc_1	-	3	intf	-	-
+18	[ne_1]	[ne_1]	-	14	k7t	-	-
+19	[ne_2]	[ne_2]	-	12	r6	-	-
+20	[calendar_1]	[calendar_1]	-	14	k7t	-	-
+21	[calendar_2]	[calendar_2]	-	12	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0024b>
+1	Pira	फिर	RB	0	krvn	-	-
+2	BI	भी	RP	1	lwg__rp	-	-
+3	sUryAwapa	सूर्यातप	NN	5	r6	-	-
+4	kI	की	PSP	3	lwg__psp	-	-
+5	BinnawA	भिन्नता	NN	8	r6	-	-
+6	kA	का	PSP	5	lwg__psp	-	-
+7	yaha	यह	DEM	8	dem	-	-
+8	praBAva	प्रभाव	NN	0	k1	-	-
+9	xUsare	दूसरे	QO	10	nmod__adj	-	-
+10	kArakoM	कारकों	NN	0	mod	-	-
+11	,	,	SYM	10	rsym	-	-
+12	jEse	जैसे	PSP	0	main	-	-
+13	sWala	स्थल	NN	17	r6	29	op1
+14	evaM	एवं	CC	17	r6	-	-
+15	samuxra	समुद्र	NN	17	r6	29	op2
+16	kA	का	PSP	15	lwg__psp	-	-
+17	viwaraNa	वितरण	NN	18	ccof	-	-
+18	waWA	तथा	CC	20	r6	-	-
+19	vAyumaMdala	वायुमंडल	NN	18	ccof	-	-
+20	parisaMcaraNa	परिसंचरण	NN	24	k3	-	-
+21	ke	के	PSP	20	lwg__psp	-	-
+22	xvArA	द्वारा	PSP	20	lwg__psp	-	-
+23	kama	कम	QF	24	pof	28	kriyAmUla
+24	ho	हो	VM	12	ccof	28	verbalizer
+25	jAwA	जाता	VAUX	24	lwg__vaux	28	verbalizer
+26	hE	है	VAUX	25	lwg__vaux_cont	28	verbalizer
+27	.	।	SYM	12	rsym	-	-
+28	[cp_1]	[cp_1]	-	12	ccof	-	-
+29	[conj_1]	[conj_1]	-	17	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0025a>
+1	yahI	यही	DEM	2	dem	-	-
+2	kAraNa	कारण	NN	3	k1	-	-
+3	hE	है	VM	0	main	-	-
+4	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0025b>
+1	sUryAwapa	सूर्यातप	NN	4	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	yaha	यह	DEM	4	dem	-	-
+4	BinnawA	भिन्नता	NN	19	k1	-	-
+5	pqWvI	पृथ्वी	NN	7	r6	23	begin
+6	kI	की	PSP	5	lwg__psp	-	-
+7	sawaha	सतह	NN	9	k7p	-	-
+8	para	पर	PSP	7	lwg__psp	-	-
+9	hone	होने	VM	11	mod	-	-
+10	vAle	वाले	PSP	9	lwg__psp	-	-
+11	prawixina	प्रतिदिन	NN	14	r6	-	-
+12	ke	के	PSP	11	lwg__psp	-	-
+13	mOsama	मौसम	NNC	14	pof__cn	24	mod
+14	parivarwana	परिवर्तन	NN	19	k7	24	head
+15	para	पर	PSP	14	lwg__psp	-	-
+16	aXika	अधिक	QF	17	k2	-	-
+17	praBAva	प्रभाव	NN	19	pof	25	kriyAmUla
+18	nahIM	नहीं	NEG	19	neg	-	-
+19	dAla	डाल	VM	0	main	25	verbalizer
+20	pAwI	पाती	VAUX	19	lwg__vaux	25	verbalizer
+21	hE	है	VAUX	20	lwg__vaux_cont	25	verbalizer
+22	.	।	SYM	19	rsym	-	-
+23	[ne_1]	loc_1	-	7	r6	-	-
+24	[nc_1]	[nc_1]	-	19	k7	-	-
+25	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0026>
+1	pqWvI	पृथ्वी	NNP	3	r6	9	begin
+2	kI	की	PSP	1	lwg__psp	-	-
+3	sawaha	सतह	NN	7	mod	-	-
+4	para	पर	PSP	3	lwg__psp	-	-
+5	sUryAwapa	सूर्यातप	NN	7	mod	-	-
+6	meM	में	PSP	5	lwg__psp	-	-
+7	BinnawA	भिन्नता	NN	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
+9	[ne_1]	loc_1	-	3	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0027>
+1	sUryAwapa	सूर्यातप	NN	3	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	wIvrawA	तीव्रता	NN	5	r6	-	-
+4	kI	की	PSP	3	lwg__psp	-	-
+5	mAwrA	मात्रा	NN	15	k7	-	-
+6	meM	में	PSP	5	lwg__psp	-	-
+7	prawixina	प्रतिदिन	NN	13	mod	20	op1
+8	,	,	SYM	7	rsym	-	-
+9	hara	हर	QF	10	quant	-	-
+10	mOsama	मौसम	NN	13	mod	20	op2
+11	Ora	और	CC	13	mod	-	-
+12	prawi	प्रति	RP	11	lwg__rp	-	-
+13	varRa	वर्ष	NN	15	k1	-	-
+14	parivarwana	परिवर्तन	NN	15	pof	19	kriyAmUla
+15	howA	होता	VM	0	main	19	verbalizer
+16	rahawA	रहता	VAUX	15	lwg__vaux	19	verbalizer
+17	hE	है	VAUX	16	lwg__vaux_cont	19	verbalizer
+18	.	।	SYM	15	rsym	-	-
+19	[cp_1]	[cp_1]	-	0	main	-	-
+20	[conj_1]	[conj_1]	-	13	mod	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0028>
+1	sUryAwapa	सूर्यातप	NN	3	k7	-	-
+2	meM	में	PSP	1	lwg__psp	-	-
+3	hone	होने	VM	5	mod	-	-
+4	vAlI	वाली	PSP	3	lwg__psp	-	-
+5	viBinnawA	विभिन्नता	NN	7	r6	-	-
+6	ke	के	PSP	5	lwg__psp	-	-
+7	kAraka	कारक	NN	8	k1s	-	-
+8	hEM	हैं	VM	0	main	-	-
+9	:	:	SYM	8	rsym	-	-
+10	pqWvI	पृथ्वी	NN	13	r6	35	begin
+11	kA	का	PSP	10	lwg__psp	-	-
+12	apane	अपने	PRP	13	r6	-	-
+13	akRa	अक्ष	NN	15	k7p	-	-
+14	para	पर	PSP	13	lwg__psp	-	-
+15	GUmanA	घूमना	VM	8	k2	38	op1
+16	;	;	SYM	15	rsym	-	-
+17	sUrya	सूर्य	NNP	19	r6	-	-
+18	kI	की	PSP	17	lwg__psp	-	-
+19	kiraNoM	किरणों	NN	22	r6	-	-
+20	kA	का	PSP	19	lwg__psp	-	-
+21	nawi	नति	NNPC	22	pof__cn	36	begin
+22	koNa	कोण	NN	8	k2	36	inside
+23	;	;	CC	8	k2	-	-
+24	xina	दिन	NN	26	r6	-	-
+25	kI	की	PSP	24	lwg__psp	-	-
+26	avaXi	अवधि	NN	27	ccof	-	-
+27	;	;	SYM	0	rsym	-	-
+28	vAyumaMdala	वायुमंडल	NN	30	r6	-	-
+29	kI	की	PSP	28	lwg__psp	-	-
+30	pAraxarSiwA	पारदर्शिता	NN	0	mod	-	-
+31	;	;	SYM	33	rsym	-	-
+32	sWala	स्थल	NNPC	33	pof__cn	37	begin
+33	vinyAsa	विन्यास	NN	0	main	37	inside
+34	.	।	SYM	33	rsym	-	-
+35	[ne_1]	loc_1	-	13	r6	-	-
+36	[ne_1]	[ne_1]	-	8	k2	38	op2
+37	[ne_2]	[ne_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0029>
+1	aMwima	अंतिम	JJ	3	mod	-	-
+2	xo	दो	QC	3	card	-	-
+3	kArakoM	कारकों	NN	5	r6	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	praBAva	प्रभाव	NN	7	k1	-	-
+6	kama	कम	QF	7	k1s	-	-
+7	padawA	पडता	VM	0	main	-	-
+8	hE	है	VAUX	7	lwg__vaux	-	-
+9	.	।	SYM	7	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0030a>
+1	yaha	यह	DEM	2	dem	-	-
+2	waWya	तथ्य	NN	3	k1	-	-
+3	hE	है	VM	0	main	-	-
+4	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0030b>
+1	pqWvI	पृथ्वी	NNP	3	r6	35	begin
+2	kA	का	PSP	1	lwg__psp	-	-
+3	akRa	अक्ष	NN	16	k1	-	-
+4	sUrya	सूर्य	NN	16	k7p	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	cAroM	चारों	QC	7	card	-	-
+7	ora	ओर	NST	4	k7p	-	-
+8	parikramaNa	परिक्रमण	NN	11	r6	-	-
+9	kI	की	PSP	8	lwg__psp	-	-
+10	samawala	समतल	JJ	11	mod	-	-
+11	kakRA	कक्षा	NN	16	k3	-	-
+12	se	से	PSP	11	lwg__psp	-	-
+13	661⁄2°	661⁄2°	QC	15	r6	-	-
+14	kA	का	PSP	13	lwg__psp	-	-
+15	koNa	कोण	NN	16	k2	-	-
+16	banAwA	बनाता	VM	0	main	-	-
+17	hE	है	VAUX	16	lwg__vaux	-	-
+18	,	,	SYM	16	rsym	-	-
+19	jo	जो	PRP	32	k1	-	-
+20	viBinna	विभिन्न	JJ	21	mod	-	-
+21	akRAMSoM	अक्षांशों	NN	24	k7p	-	-
+22	para	पर	PSP	21	lwg__psp	-	-
+23	prApwa	प्राप्त	JJ	24	pof	36	kriyAmUla
+24	hone	होने	VM	26	mod	36	verbalizer
+25	vAle	वाले	PSP	24	lwg__psp	-	-
+26	sUryAwapa	सूर्यातप	NN	28	r6	-	-
+27	kI	की	PSP	26	lwg__psp	-	-
+28	mAwrA	मात्रा	NN	32	k2	-	-
+29	ko	को	PSP	28	lwg__psp	-	-
+30	bahuwa	बहुत	INTF	31	intf	-	-
+31	praBAviwa	प्रभावित	JJ	32	pof	37	kriyAmUla
+32	karawA	करता	VM	16	rc	37	verbalizer
+33	hE	है	VAUX	32	lwg__vaux	37	verbalizer
+34	.	।	SYM	16	rsym	-	-
+35	[ne_1]	loc_1	-	3	r6	-	-
+36	[cp_1]	[cp_1]	-	26	mod	-	-
+37	[cp_2]	[cp_2]	-	16	rc	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0031>
+1	sUryAwapa	सूर्यातप	NN	3	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	mAwrA	मात्रा	NN	6	k2	-	-
+4	ko	को	PSP	3	lwg__psp	-	-
+5	praBAviwa	प्रभावित	JJ	6	pof	17	kriyAmUla
+6	karane	करने	VM	9	mod	17	verbalizer
+7	vAlA	वाला	PSP	6	lwg__psp	-	-
+8	xUsarA	दूसरा	QO	9	nmod__adj	-	-
+9	kAraka	कारक	NN	14	k1	-	-
+10	kiraNoM	किरणों	NN	13	r6	-	-
+11	kA	का	PSP	10	lwg__psp	-	-
+12	nawi	नति	NNC	13	pof__cn	16	mod
+13	koNa	कोण	NN	14	k1s	16	head
+14	hE	है	VM	0	main	-	-
+15	.	।	SYM	14	rsym	-	-
+16	[nc_1]	[nc_1]	-	14	k1s	-	-
+17	[cp_1]	[cp_1]	-	9	mod	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0032>
+1	yaha	यह	PRP	8	k1	-	-
+2	kisI	किसी	PRP	3	mod	-	-
+3	sWAna	स्थान	NN	5	r6	-	-
+4	ke	के	PSP	3	lwg__psp	-	-
+5	akRAMSa	अक्षांश	NN	8	k7p	-	-
+6	para	पर	PSP	5	lwg__psp	-	-
+7	nirBara	निर्भर	JJ	8	pof	11	kriyAmUla
+8	karawA	करता	VM	0	main	11	verbalizer
+9	hE	है	VAUX	8	lwg__vaux	11	verbalizer
+10	.	।	SYM	8	rsym	-	-
+11	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0033>
+1	akRAMSa	अक्षांश	NN	4	k1	-	-
+2	jiwanA	जितना	PRP	4	k1	-	-
+3	ucca	उच्च	JJ	4	k1s	-	-
+4	hogA	होगा	VM	0	main	22	op1
+5	(	(	SYM	4	rsym	-	-
+6	arWAw	अर्थात्	CC	0	main	-	-
+7	XruvoM	ध्रुवों	NN	18	rd	20	begin
+8	kI	की	PSP	7	lwg__psp	-	-
+9	ora	ओर	NST	7	k7p	-	-
+10	)	)	SYM	11	rsym	-	-
+11	kiraNoM	किरणों	NN	14	r6	-	-
+12	kA	का	PSP	11	lwg__psp	-	-
+13	nawi	नति	NNC	14	pof__cn	21	mod
+14	koNa	कोण	NN	18	k1	21	head
+15	uwanA	उतना	QF	18	k1s	-	-
+16	hI	ही	RP	15	lwg__rp	-	-
+17	kama	कम	QF	18	k1s	-	-
+18	hogA	होगा	VM	0	main	22	op2
+19	.	।	SYM	6	rsym	-	-
+20	[ne_1]	loc_1	-	18	rd	-	-
+21	[nc_1]	[nc_1]	-	18	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0034>
+1	awaeva	अतएव	CC	0	main	-	-
+2	sUrya	सूर्य	NNP	4	r6	-	-
+3	kI	की	PSP	2	lwg__psp	-	-
+4	kiraNeM	किरणें	NN	5	k1	-	-
+5	wiraCI	तिरछी	VM	0	main	8	op1
+6	padegI	पडेगी	VAUX	5	lwg__vaux	-	-
+7	.	।	SYM	1	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0035>
+1	wiraCI	तिरछी	JJ	2	mod	-	-
+2	kiraNoM	किरणों	NN	4	r6	-	-
+3	kI	की	PSP	2	lwg__psp	-	-
+4	apekRA	अपेक्षा	NN	10	k1	-	-
+5	sIXI	सीधी	JJ	6	mod	-	-
+6	kiraNeM	किरणें	NN	10	k1	-	-
+7	kama	कम	QF	8	quant	-	-
+8	sWAna	स्थान	NN	10	k7	-	-
+9	para	पर	PSP	8	lwg__psp	-	-
+10	padawI	पडती	VM	0	main	-	-
+11	hEM	हैं	VAUX	10	lwg__vaux	-	-
+12	.	।	SYM	10	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0036a>
+1	kiraNoM	किरणों	NN	4	r6	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	aXika	अधिक	QF	4	quant	-	-
+4	kRewra	क्षेत्र	NN	6	k7p	-	-
+5	para	पर	PSP	4	lwg__psp	-	-
+6	padane	पडने	VM	14	rh	-	-
+7	ke	के	PSP	6	lwg__psp	-	-
+8	kAraNa	कारण	PSP	6	lwg__psp	-	-
+9	UrjA	ऊर्जा	NNC	10	pof__cn	17	mod
+10	viwaraNa	वितरण	NN	14	k1	17	head
+11	bade	बडे	JJ	12	mod	-	-
+12	kRewra	क्षेत्र	NN	14	k7p	-	-
+13	para	पर	PSP	12	lwg__psp	-	-
+14	howA	होता	VM	0	main	-	-
+15	hE	है	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[nc_1]	[nc_1]	-	14	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0036b>
+1	prawi	प्रति	PSP	0	main	-	-
+2	ikAI	इकाई	NNC	3	pof__cn	10	mod
+3	kRewra	क्षेत्र	NN	7	k4	10	head
+4	ko	को	PSP	3	lwg__psp	-	-
+5	kama	कम	QF	6	quant	-	-
+6	UrjA	ऊर्जा	NN	7	k1	-	-
+7	milawI	मिलती	VM	1	ccof	-	-
+8	hE	है	VAUX	7	lwg__vaux	-	-
+9	.	।	SYM	1	rsym	-	-
+10	[nc_1]	[nc_1]	-	7	k4	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0037>
+1	isake	इसके	PRP	11	k7a	-	-
+2	awirikwa	अतिरिक्त	PSP	1	lwg__psp	-	-
+3	wiraCI	तिरछी	JJ	4	mod	-	-
+4	kiraNoM	किरणों	NN	11	k1	-	-
+5	ko	को	PSP	4	lwg__psp	-	-
+6	vAyumaMdala	वायुमंडल	NN	9	r6	-	-
+7	kI	की	PSP	6	lwg__psp	-	-
+8	aXika	अधिक	QF	9	quant	-	-
+9	gaharAI	गहराई	NN	11	k5	-	-
+10	se	से	PSP	9	lwg__psp	-	-
+11	gujaranA	गुजरना	VM	0	main	-	-
+12	padawA	पडता	VAUX	11	lwg__vaux	-	-
+13	hE	है	VAUX	12	lwg__vaux_cont	-	-
+14	.	।	SYM	11	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0038>
+1	aXika	अधिक	QF	2	quant	-	-
+2	avaSoRaNa	अवशोषण	NN	13	k1	16	op1
+3	,	,	SYM	2	rsym	-	-
+4	prakIrNana	प्रकीर्णन	NN	13	k1	16	op2
+5	evaM	एवं	CC	13	k1	-	-
+6	visaraNa	विसरण	NN	13	k1	16	op3
+7	ke	के	PSP	6	lwg__psp	-	-
+8	xvArA	द्वारा	PSP	6	lwg__psp	-	-
+9	UrjA	ऊर्जा	NN	12	r6	-	-
+10	kA	का	PSP	9	lwg__psp	-	-
+11	aXika	अधिक	QF	12	quant	-	-
+12	hAsra	हास्र	NN	13	k1	16	op4
+13	howA	होता	VM	0	main	-	-
+14	hE	है	VAUX	13	lwg__vaux	-	-
+15	.	।	SYM	13	rsym	-	-
+16	[conj_1]	[conj_1]	-	13	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0039>
+1	sOra	सौर	NNC	2	pof__cn	9	mod
+2	vikiraNa	विकिरण	NN	4	r6	9	head
+3	kA	का	PSP	2	lwg__psp	-	-
+4	vAyumaMdala	वायुमंडल	NN	6	k5	-	-
+5	se	से	PSP	4	lwg__psp	-	-
+6	hokara	होकर	VM	7	rpk	-	-
+7	gujaranA	गुजरना	VM	0	main	-	-
+8	.	।	SYM	7	rsym	-	-
+9	[nc_1]	[nc_1]	-	4	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0040>
+1	laGu	लघु	JJ	2	mod	-	-
+2	waraMgaxErXya	तरंगदैर्ध्य	NN	4	mod	-	-
+3	vAle	वाले	PSP	2	lwg__psp	-	-
+4	sOra-vikiraNa	सौर-विकिरण	NNP	10	rt	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	lie	लिए	PSP	4	lwg__psp	-	-
+7	vAyumaMdala	वायुमंडल	NN	10	k1	-	-
+8	aXikAMSawaH	अधिकांशतः	RB	10	krvn	-	-
+9	pAraxarSI	पारदर्शी	JJ	10	k1s	-	-
+10	howA	होता	VM	0	main	-	-
+11	hE	है	VAUX	10	lwg__vaux	-	-
+12	.	।	SYM	10	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0041>
+1	pqWvI	पृथ्वी	NNP	3	r6	17	begin
+2	kI	की	PSP	1	lwg__psp	-	-
+3	sawaha	सतह	NN	5	k7p	-	-
+4	para	पर	PSP	3	lwg__psp	-	-
+5	pahuzcane	पहुँचने	VM	14	rblak	-	-
+6	se	से	PSP	5	lwg__psp	-	-
+7	pahale	पहले	NST	5	k7p	-	-
+8	sUrya	सूर्य	NN	10	r6	18	begin
+9	kI	की	PSP	8	lwg__psp	-	-
+10	kiraNeM	किरणें	NN	13	k1	-	-
+11	vAyumaMdala	वायुमंडल	NN	13	k5	-	-
+12	se	से	PSP	11	lwg__psp	-	-
+13	hokara	होकर	VM	14	rpk	-	-
+14	gujarawI	गुजरती	VM	0	main	-	-
+15	hEM	हैं	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[ne_1]	loc_1	-	3	r6	-	-
+18	[ne_2]	loc_2	-	10	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0042>
+1	kRoBamaMdala	क्षोभमंडल	NNP	14	k7p	-	-
+2	meM	में	PSP	1	lwg__psp	-	-
+3	mOjUxa	मौजूद	JJ	4	mod	-	-
+4	jalavARpa	जलवाष्प	NN	14	k1	20	op1
+5	,	,	SYM	4	rsym	-	-
+6	ojona	ओजोन	NN	14	k1	20	op2
+7	waWA	तथा	CC	14	k1	-	-
+8	anya	अन्य	JJ	9	mod	-	-
+9	kiraNeM	किरणें	NN	14	k1	20	op3
+10	avarakwa	अवरक्त	NNPC	11	pof__cn	18	begin
+11	vikiraNa	विकिरण	NN	14	k2	18	inside
+12	ko	को	PSP	11	lwg__psp	-	-
+13	avaSoRiwa	अवशोषित	JJ	14	pof	19	kriyAmUla
+14	kara	कर	VM	0	main	19	verbalizer
+15	lewI	लेती	VAUX	14	lwg__vaux	19	verbalizer
+16	hEM	हैं	VAUX	15	lwg__vaux_cont	19	verbalizer
+17	.	।	SYM	14	rsym	-	-
+18	[ne_0]	[ne_0]	-	14	k2	-	-
+19	[cp_1]	[cp_1]	-	0	main	-	-
+20	[conj_1]	[conj_1]	-	14	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0043>
+1	kRoBamaMdala	क्षोभमंडल	NNP	6	k7p	-	-
+2	meM	में	PSP	1	lwg__psp	-	-
+3	Cote	छोटे	JJ	5	mod	-	-
+4	nilaMbiwa	निलंबित	JJ	3	mod	-	-
+5	kaNa	कण	NN	6	k1	-	-
+6	xiKane	दिखने	VM	8	mod	-	-
+7	vAle	वाले	PSP	6	lwg__psp	-	-
+8	spektaMma	स्पेक्टंम	NNP	18	k2	-	-
+9	ko	को	PSP	8	lwg__psp	-	-
+10	aMwarikRa	अंतरिक्ष	NNPC	14	r6	22	begin
+11	evaM	एवं	CC	14	r6	-	-
+12	pqWvI	पृथ्वी	NN	14	r6	23	begin
+13	kI	की	PSP	12	lwg__psp	-	-
+14	sawaha	सतह	NN	18	rd	-	-
+15	kI	की	PSP	14	lwg__psp	-	-
+16	ora	ओर	NST	14	k7p	-	-
+17	vikIrNa	विकीर्ण	JJ	18	pof	24	kriyAmUla
+18	kara	कर	VM	0	main	24	verbalizer
+19	xewe	देते	VAUX	18	lwg__vaux	24	verbalizer
+20	hEM	हैं	VAUX	19	lwg__vaux_cont	24	verbalizer
+21	.	।	SYM	18	rsym	-	-
+22	[ne_1]	loc_1	-	14	r6	25	op1
+23	[ne_2]	loc_2	-	14	r6	25	op2
+24	[cp_1]	[cp_1]	-	0	main	-	-
+25	[conj_1]	[conj_1]	-	14	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0044>
+1	yahI	यही	DEM	2	dem	-	-
+2	prakriyA	प्रक्रिया	NN	9	k1	-	-
+3	AkASa	आकाश	NN	9	k7p	-	-
+4	meM	में	PSP	3	lwg__psp	-	-
+5	raMga	रंग	NN	9	rt	-	-
+6	ke	के	PSP	5	lwg__psp	-	-
+7	lie	लिए	PSP	5	lwg__psp	-	-
+8	uwwaraxAyI	उत्तरदायी	JJ	9	k1s	-	-
+9	hE	है	VM	0	main	-	-
+10	.	।	SYM	9	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0045a>
+1	isI	इसी	PRP	6	rh	-	-
+2	se	से	PSP	1	lwg__psp	-	-
+3	uxaya	उदय	NNP	6	pof	15	kriyAmUla
+4	evaM	एवं	CC	6	pof	16	kriyAmUla
+5	aswa	अस्त	JJ	6	pof	17	kriyAmUla
+6	hone	होने	VM	11	rblsk	17	verbalizer
+7	ke	के	PSP	6	lwg__psp	-	-
+8	samaya	समय	PSP	6	lwg__psp	-	-
+9	sUrya	सूर्य	NNPC	10	pof__cn	14	begin
+10	lAla	लाल	NNP	11	k1	14	inside
+11	xiKawA	दिखता	VM	0	main	-	-
+12	hE	है	VAUX	11	lwg__vaux	-	-
+13	.	।	SYM	11	rsym	-	-
+14	[ne_0]	[ne_0]	-	11	k1	-	-
+15	[cp_1]	[cp_1]	-	11	rblsk	18	op1
+16	[cp_2]	[cp_2]	-	11	rblsk	-	-
+17	[cp_3]	[cp_3]	-	11	rblsk	18	op2
+18	[conj_1]	[conj_1]	-	6	pof	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0045b>
+1	AkASa	आकाश	NN	3	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	raMga	रंग	NN	5	k1	-	-
+4	nIlA	नीला	NN	5	k1s	-	-
+5	xiKAI	दिखाई	VM	0	main	-	-
+6	padawA	पडता	VAUX	5	lwg__vaux	-	-
+7	hE	है	VAUX	6	lwg__vaux_cont	-	-
+8	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0046>
+1	EsA	ऐसा	DEM	2	dem	-	-
+2	vAyumaMdala	वायुमंडल	NN	10	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	prakASa	प्रकाश	NNP	10	r6	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	prakIrNa	प्रकीर्ण	JJ	10	k1s	-	-
+7	na	न	NEG	10	vmod	-	-
+8	xvArA	द्वारा	PSP	7	lwg__psp	-	-
+9	saMBava	संभव	JJ	10	pof	13	kriyAmUla
+10	howA	होता	VM	0	main	13	verbalizer
+11	hE	है	VAUX	10	lwg__vaux	13	verbalizer
+12	.	।	SYM	10	rsym	-	-
+13	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0047>
+1	sUryAwapa	सूर्यातप	NN	3	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	pqWvI	पृथ्वी	NN	5	r6	39	begin
+4	kI	की	PSP	3	lwg__psp	-	-
+5	sawaha	सतह	NN	35	k7p	-	-
+6	para	पर	PSP	5	lwg__psp	-	-
+7	sWAnika	स्थानिक	JJ	9	mod	-	-
+8	viwaraNa	वितरण	NNC	9	pof__cn	41	mod
+9	XarAwala	धरातल	NN	35	k7	41	head
+10	para	पर	PSP	9	lwg__psp	-	-
+11	prApwa	प्राप्त	JJ	12	mod	-	-
+12	sUryAwapa	सूर्यातप	NN	14	r6	-	-
+13	kI	की	PSP	12	lwg__psp	-	-
+14	mAwrA	मात्रा	NN	35	k7	-	-
+15	meM	में	PSP	14	lwg__psp	-	-
+16	uRNa	उष्ण	JJ	17	mod	-	-
+17	katibaMXa	कटिबंध	NN	25	k7	-	-
+18	meM	में	PSP	17	lwg__psp	-	-
+19	320	320	QC	20	card	-	-
+20	vAta	वाट	NN	23	mod	-	-
+21	/	/	SYM	20	rsym	-	-
+22	prawi	प्रति	RP	20	lwg__rp	-	-
+23	vargamItara	वर्गमीटर	NN	25	k5	-	-
+24	se	से	PSP	23	lwg__psp	-	-
+25	lekara	लेकर	VM	35	rpk	-	-
+26	XruvoM	ध्रुवों	NN	35	k7	40	begin
+27	para	पर	PSP	26	lwg__psp	-	-
+28	70	70	QC	29	card	-	-
+29	vAta	वाट	NN	32	mod	-	-
+30	/	/	SYM	29	rsym	-	-
+31	prawi	प्रति	RP	29	lwg__rp	-	-
+32	vargamItara	वर्गमीटर	NN	35	k7	-	-
+33	waka	तक	PSP	32	lwg__psp	-	-
+34	BinnawA	भिन्नता	NN	35	pof	42	kriyAmUla
+35	pAI	पाई	VM	0	main	42	verbalizer
+36	jAwI	जाती	VAUX	35	lwg__vaux	42	verbalizer
+37	hE	है	VAUX	36	lwg__vaux_cont	42	verbalizer
+38	.	।	SYM	35	rsym	-	-
+39	[ne_1]	loc_1	-	5	r6	-	-
+40	[ne_2]	loc_2	-	35	k7	-	-
+41	[nc_1]	[nc_1]	-	35	k7	-	-
+42	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0048a>
+1	sabase	सबसे	INTF	2	intf	-	-
+2	aXika	अधिक	QF	3	quant	-	-
+3	sUryAwapa	सूर्यातप	NN	9	k1	-	-
+4	upoRNa	उपोष्ण	NNC	6	pof__cn	12	mod
+5	katibaMXIya	कटिबंधीय	JJ	6	mod	-	-
+6	marusWaloM	मरुस्थलों	NN	9	k7p	12	head
+7	para	पर	PSP	6	lwg__psp	-	-
+8	prApwa	प्राप्त	JJ	9	pof	13	kriyAmUla
+9	howA	होता	VM	0	main	13	verbalizer
+10	hE	है	VAUX	9	lwg__vaux	13	verbalizer
+11	.	।	SYM	9	rsym	-	-
+12	[nc_1]	[nc_1]	-	9	k7p	-	-
+13	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0048b>
+1	yahAz	यहाँ	PRP	5	k7p	-	-
+2	meGAcCAxana	मेघाच्छादन	NN	5	k1	-	-
+3	bahuwa	बहुत	INTF	4	intf	-	-
+4	kama	कम	QF	5	k1s	-	-
+5	pAyA	पाया	VM	0	main	-	-
+6	jAwA	जाता	VAUX	5	lwg__vaux	-	-
+7	hE	है	VAUX	6	lwg__vaux_cont	-	-
+8	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0049>
+1	uRNa	उष्ण	JJ	2	mod	-	-
+2	katibaMXa	कटिबंध	NN	13	rv	-	-
+3	kI	की	PSP	2	lwg__psp	-	-
+4	apekRA	अपेक्षा	PSP	2	lwg__psp	-	-
+5	viRuvaw	विषुवत्	NNC	6	pof__cn	16	mod
+6	vqwwa	वृत्त	NN	13	k7	16	head
+7	para	पर	PSP	6	lwg__psp	-	-
+8	kama	कम	QF	9	quant	-	-
+9	mAwrA	मात्रा	NN	13	k7	-	-
+10	meM	में	PSP	9	lwg__psp	-	-
+11	sUryAwapa	सूर्यातप	NN	13	k1	-	-
+12	prApwa	प्राप्त	JJ	13	pof	17	kriyAmUla
+13	howA	होता	VM	0	main	17	verbalizer
+14	hE	है	VAUX	13	lwg__vaux	17	verbalizer
+15	.	।	SYM	13	rsym	-	-
+16	[nc_1]	[nc_1]	-	13	k7	-	-
+17	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0050>
+1	sAmAnyawaH	सामान्यतः	RB	21	krvn	-	-
+2	eka	एक	QC	4	card	-	-
+3	hI	ही	RP	2	lwg__rp	-	-
+4	akRAMSa	अक्षांश	NN	6	intf	-	-
+5	para	पर	PSP	4	lwg__psp	-	-
+6	sWiwa	स्थित	JJ	8	mod	-	-
+7	mahAxvIpIya	महाद्वीपीय	JJ	8	mod	-	-
+8	BAga	भाग	NN	21	k7p	25	whole
+9	para	पर	PSP	8	lwg__psp	-	-
+10	aXika	अधिक	QF	13	mod	26	op1
+11	Ora	और	CC	13	mod	-	-
+12	mahAsAgarIya	महासागरीय	JJ	13	mod	26	op2
+13	BAga	भाग	NN	21	k7p	25	part
+14	meM	में	PSP	13	lwg__psp	-	-
+15	apekRawayA	अपेक्षतया	INTF	16	intf	-	-
+16	kama	कम	QF	17	quant	-	-
+17	mAwrA	मात्रा	NN	21	k7	-	-
+18	meM	में	PSP	17	lwg__psp	-	-
+19	sUryAwapa	सूर्यातप	NN	21	k1	-	-
+20	prApwa	प्राप्त	JJ	21	pof	24	kriyAmUla
+21	howA	होता	VM	0	main	24	verbalizer
+22	hE	है	VAUX	21	lwg__vaux	24	verbalizer
+23	.	।	SYM	21	rsym	-	-
+24	[cp_1]	[cp_1]	-	0	main	-	-
+25	[spatial_1]	[spatial_1]	-	21	k7p	-	-
+26	[conj_1]	[conj_1]	-	13	mod	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0051>
+1	SIwa	शीत	NNPC	2	pof__cn	21	begin
+2	qwu	ऋतु	NN	18	k7	21	inside
+3	meM	में	PSP	2	lwg__psp	-	-
+4	maXya	मध्य	NNPC	18	k7	24	op2
+5	evaM	एवं	CC	18	k7	-	-
+6	ucca	उच्च	JJ	7	mod	-	-
+7	akRAMSoM	अक्षांशों	NN	18	k7	24	op3
+8	para	पर	PSP	7	lwg__psp	-	-
+9	grIRma	ग्रीष्म	NNPC	10	pof__cn	22	begin
+10	qwu	ऋतु	NN	12	r6	22	inside
+11	kI	की	PSP	10	lwg__psp	-	-
+12	apekRA	अपेक्षा	NN	18	k1	-	-
+13	kama	कम	QF	14	quant	-	-
+14	mAwrA	मात्रा	NN	18	k7	24	op4
+15	meM	में	PSP	14	lwg__psp	-	-
+16	vikiraNa	विकिरण	NN	18	k1	-	-
+17	prApwa	प्राप्त	JJ	18	pof	23	kriyAmUla
+18	howA	होता	VM	0	main	23	verbalizer
+19	hE	है	VAUX	18	lwg__vaux	23	verbalizer
+20	.	।	SYM	18	rsym	-	-
+21	[ne_0]	[ne_0]	-	18	k7	24	op1
+22	[ne_1]	[ne_1]	-	12	r6	-	-
+23	[cp_1]	[cp_1]	-	0	main	-	-
+24	[conj_1]	[conj_1]	-	18	k7	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0052>
+1	vAyumaMdala	वायुमंडल	NN	3	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	wApana	तापन	NN	0	main	7	op1
+4	evaM	एवं	CC	0	main	-	-
+5	SIwalana	शीतलन	NN	0	main	7	op2
+6	.	।	SYM	4	rsym	-	-
+7	[conj_1]	[conj_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0053>
+1	vAyumaMdala	वायुमंडल	NN	3	r6	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	garma	गर्म	JJ	6	pof	12	kriyAmUla
+4	Ora	और	CC	6	pof	13	kriyAmUla
+5	TaMdA	ठंडा	JJ	6	pof	14	kriyAmUla
+6	hone	होने	VM	9	r6	14	verbalizer
+7	ke	के	PSP	6	lwg__psp	-	-
+8	aneka	अनेक	QF	9	quant	-	-
+9	warIke	तरीके	NN	10	k1	-	-
+10	hEM	हैं	VM	0	main	-	-
+11	.	।	SYM	10	rsym	-	-
+12	[cp_1]	[cp_1]	-	9	r6	15	op1
+13	[cp_2]	[cp_2]	-	9	r6	-	-
+14	[cp_3]	[cp_3]	-	9	r6	15	op2
+15	[conj_1]	[conj_1]	-	6	pof	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0054a>
+1	praveSI	प्रवेशी	JJ	3	mod	-	-
+2	sOra	सौर	NNC	3	pof__cn	29	mod
+3	vikiraNa	विकिरण	NN	6	k5	29	head
+4	se	से	PSP	3	lwg__psp	-	-
+5	garma	गर्म	JJ	6	pof	30	kriyAmUla
+6	hone	होने	VM	25	rblpk	30	verbalizer
+7	ke	के	PSP	6	lwg__psp	-	-
+8	bAxa	बाद	NST	6	k7p	-	-
+9	pqWvI	पृथ्वी	NNC	10	pof__cn	28	begin
+10	sawaha	सतह	NN	13	intf	-	-
+11	ke	के	PSP	10	lwg__psp	-	-
+12	nikata	निकट	NST	10	k7p	-	-
+13	sWiwa	स्थित	JJ	15	mod	-	-
+14	vAyumaMdalIya	वायुमंडलीय	JJ	15	mod	-	-
+15	parawoM	परतों	NN	25	k7p	-	-
+16	meM	में	PSP	15	lwg__psp	-	-
+17	xIrGa	दीर्घ	JJ	18	mod	-	-
+18	waraMgoM	तरंगों	NN	25	k7	-	-
+19	ke	के	PSP	18	lwg__psp	-	-
+20	rUpa	रूप	PSP	18	lwg__psp	-	-
+21	meM	में	PSP	18	lwg__psp	-	-
+22	wApa	ताप	NN	24	k2	-	-
+23	kA	का	PSP	22	lwg__psp	-	-
+24	saMcaraNa	संचरण	NN	25	pof	31	kriyAmUla
+25	karawI	करती	VM	0	main	31	verbalizer
+26	hE	है	VAUX	25	lwg__vaux	31	verbalizer
+27	.	।	SYM	25	rsym	-	-
+28	[ne_1]	loc_1	-	10	pof__cn	-	-
+29	[nc_1]	[nc_1]	-	6	k5	-	-
+30	[cp_1]	[cp_1]	-	25	rblpk	-	-
+31	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0054b>
+1	pqWvI	पृथ्वी	NNP	3	r6	13	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	saMparka	संपर्क	NN	5	k7	-	-
+4	meM	में	PSP	3	lwg__psp	-	-
+5	Ane	आने	VM	7	mod	-	-
+6	vAlI	वाली	PSP	5	lwg__psp	-	-
+7	vAyu	वायु	NN	10	k1	-	-
+8	XIre-XIre	धीरे-धीरे	RB	10	krvn	-	-
+9	garma	गर्म	JJ	10	pof	14	kriyAmUla
+10	howI	होती	VM	0	main	14	verbalizer
+11	hE	है	VAUX	10	lwg__vaux	14	verbalizer
+12	.	।	SYM	10	rsym	-	-
+13	[ne_1]	loc_1	-	3	r6	-	-
+14	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0055>
+1	nicalI	निचली	JJ	2	mod	-	-
+2	parawoM	परतों	NN	4	r6	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	saMparka	संपर्क	NN	6	k7	-	-
+5	meM	में	PSP	4	lwg__psp	-	-
+6	Ane	आने	VM	8	mod	-	-
+7	vAlI	वाली	PSP	6	lwg__psp	-	-
+8	vAyumaMdala	वायुमंडल	NN	11	r6	-	-
+9	kI	की	PSP	8	lwg__psp	-	-
+10	UparI	ऊपरी	JJ	11	mod	-	-
+11	paraweM	परतें	NN	14	k1	-	-
+12	BI	भी	RP	11	lwg__rp	-	-
+13	garma	गर्म	JJ	14	pof	18	kriyAmUla
+14	ho	हो	VM	0	main	18	verbalizer
+15	jAwI	जाती	VAUX	14	lwg__vaux	18	verbalizer
+16	hEM	हैं	VAUX	15	lwg__vaux_cont	18	verbalizer
+17	.	।	SYM	14	rsym	-	-
+18	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0056>
+1	isa	इस	DEM	2	dem	-	-
+2	prakriyA	प्रक्रिया	NN	5	k2	-	-
+3	ko	को	PSP	2	lwg__psp	-	-
+4	cAlana	चालन	NN	5	k2s	-	-
+5	kahA	कहा	VM	0	main	-	-
+6	jAwA	जाता	VAUX	5	lwg__vaux	-	-
+7	hE	है	VAUX	6	lwg__vaux_cont	-	-
+8	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0057a>
+1	cAlana	चालन	NN	3	k1	-	-
+2	waBI	तभी	PRP	3	k7t	-	-
+3	howA	होता	VM	0	main	-	-
+4	hE	है	VAUX	3	lwg__vaux	-	-
+5	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0057b>
+1	asamAna	असमान	JJ	2	mod	-	-
+2	wApa	ताप	NN	5	mod	-	-
+3	vAle	वाले	PSP	2	lwg__psp	-	-
+4	xo	दो	QC	5	card	-	-
+5	piMda	पिंड	NN	10	k1	-	-
+6	eka-xUsare	एक-दूसरे	PRP	8	r6	-	-
+7	ke	के	PSP	6	lwg__psp	-	-
+8	saMparka	संपर्क	NN	10	k7	-	-
+9	meM	में	PSP	8	lwg__psp	-	-
+10	Awe	आते	VM	0	main	-	-
+11	hEM	हैं	VAUX	10	lwg__vaux	-	-
+12	.	।	SYM	10	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0058>
+1	garma	गर्म	JJ	2	mod	-	-
+2	piMda	पिंड	NN	11	k3	-	-
+3	se	से	PSP	2	lwg__psp	-	-
+4	TaMde	ठंडे	JJ	5	mod	-	-
+5	piMda	पिंड	NN	11	rd	-	-
+6	kI	की	PSP	5	lwg__psp	-	-
+7	ora	ओर	NST	5	k7p	-	-
+8	UrjA	ऊर्जा	NN	10	r6	-	-
+9	kA	का	PSP	8	lwg__psp	-	-
+10	pravAha	प्रवाह	NN	11	k1	-	-
+11	calawA	चलता	VM	0	main	-	-
+12	hE	है	VAUX	11	lwg__vaux	-	-
+13	.	।	SYM	11	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0059a>
+1	UrjA	ऊर्जा	NN	3	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	sWAnAMwaraNa	स्थानांतरण	NN	6	k1	-	-
+4	waka	तक	PSP	3	lwg__psp	-	-
+5	waba	तब	PRP	6	k7t	-	-
+6	howA	होता	VM	0	main	-	-
+7	rahawA	रहता	VAUX	6	lwg__vaux	-	-
+8	hE	है	VAUX	7	lwg__vaux_cont	-	-
+9	.	।	SYM	6	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0059b>
+1	waka	तक	PSP	0	lwg__rp	-	-
+2	xonoM	दोनों	QC	3	card	-	-
+3	piMdoM	पिंडों	NN	5	r6	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	wApamAna	तापमान	NN	9	k1	-	-
+6	eka	एक	QC	7	card	-	-
+7	samAna	समान	JJ	9	k1s	-	-
+8	nahIM	नहीं	NEG	9	neg	-	-
+9	ho	हो	VM	0	main	-	-
+10	jAwA	जाता	VAUX	9	lwg__vaux	-	-
+11	.	।	SYM	9	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0059c>
+1	jaba	जब	PRP	5	k7t	-	-
+2	waka	तक	PSP	1	lwg__psp	-	-
+3	unameM	उनमें	PRP	5	k7	-	-
+4	saMparka	संपर्क	NN	5	pof	9	kriyAmUla
+5	tUta	टूट	VM	0	main	9	verbalizer
+6	nahI	नही	NEG	5	neg	-	-
+7	jAwA	जाता	VAUX	5	lwg__vaux	-	-
+8	.	।	SYM	5	rsym	-	-
 9	[cp_1]	[cp_1]	-	0	main	-	-
 </sentence_id>
 
 
-<sentence_id=48>
-1	kyA	क्या	WQ	8	adv	-	-
-2	kisI	किसी	PRP	8	k1	-	-
-3	ne	ने	PSP	2	lwg__psp	-	-
-4	usakA	उसका	PRP	7	r6	-	-
-5	hAla	हाल	NNC	7	pof__cn	10	mod
-6	-	-	SYM	7	rsym	-	-
-7	cAla	चाल	RDP	8	vmod	10	head
-8	pUCA	पूछा	VM	0	main	-	-
-9	?	?	SYM	8	rsym	-	-
-10	[nc_1]	[nc_1]	-	8	vmod	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0060>
+1	vAyumaMdala	वायुमंडल	NN	4	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	nicalI	निचली	JJ	4	mod	-	-
+4	parawoM	परतों	NN	7	k2	-	-
+5	ko	को	PSP	4	lwg__psp	-	-
+6	garma	गर्म	JJ	7	pof	13	kriyAmUla
+7	karane	करने	VM	11	k7	13	verbalizer
+8	meM	में	PSP	7	lwg__psp	-	-
+9	cAlana	चालन	NN	11	k1	-	-
+10	mahawwvapUrNa	महत्त्वपूर्ण	JJ	11	k1s	-	-
+11	hE	है	VM	0	main	-	-
+12	.	।	SYM	11	rsym	-	-
+13	[cp_1]	[cp_1]	-	11	k7	-	-
 </sentence_id>
 
 
-<sentence_id=49>
-1	wuma	तुम	PRP	6	k1	-	-
-2	kisake	किसके	PRP	6	rt	-	-
-3	lie	लिए	PSP	2	lwg__psp	-	-
-4	iwanA	इतना	QF	5	nmod__adj	-	-
-5	iMwajAra	इंतजार	NN	6	pof	10	kriyAmUla
-6	kara	कर	VM	0	main	10	verbalizer
-7	rahe	रहे	VAUX	6	lwg__vaux	10	verbalizer
-8	ho	हो	VAUX	7	lwg__vaux_cont	10	verbalizer
-9	?	?	SYM	6	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0061a>
+1	pqWvI	पृथ्वी	NNP	3	r6	17	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	saMparka	संपर्क	NN	5	k7	-	-
+4	meM	में	PSP	3	lwg__psp	-	-
+5	AI	आई	VM	6	rvks	-	-
+6	vAyu	वायु	NN	8	k1	-	-
+7	garma	गर्म	JJ	8	pof	18	kriyAmUla
+8	hokara	होकर	VM	14	rpk	18	verbalizer
+9	XArAoM	धाराओं	NN	14	k7	-	-
+10	ke	के	PSP	9	lwg__psp	-	-
+11	rUpa	रूप	PSP	9	lwg__psp	-	-
+12	meM	में	PSP	9	lwg__psp	-	-
+13	laMbavaw	लंबवत्	NN	14	k1	-	-
+14	uTawI	उठती	VM	0	main	-	-
+15	hE	है	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[ne_1]	loc_1	-	3	r6	-	-
+18	[cp_1]	[cp_1]	-	14	rpk	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0061b>
+1	vAyumaMdala	वायुमंडल	NN	6	k7p	-	-
+2	meM	में	PSP	1	lwg__psp	-	-
+3	wApa	ताप	NN	5	k2	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	saMcaraNa	संचरण	NN	6	pof	9	kriyAmUla
+6	karawI	करती	VM	0	main	9	verbalizer
+7	hE	है	VAUX	6	lwg__vaux	9	verbalizer
+8	.	।	SYM	6	rsym	-	-
+9	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0062a>
+1	vAyumaMdala	वायुमंडल	NN	4	r6	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	lambavaw	लम्बवत्	JJ	4	mod	-	-
+4	wApana	तापन	NN	7	r6	-	-
+5	kI	की	PSP	4	lwg__psp	-	-
+6	yaha	यह	DEM	7	dem	-	-
+7	prakriyA	प्रक्रिया	NN	9	k1	-	-
+8	saMvahana	संवहन	NN	9	pof	12	kriyAmUla
+9	kahalAwI	कहलाती	VM	0	main	12	verbalizer
+10	hE	है	VAUX	9	lwg__vaux	12	verbalizer
+11	.	।	SYM	9	rsym	-	-
+12	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0062b>
+1	UrjA	ऊर्जा	NN	3	r6	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	sWAnAMwaraNa	स्थानांतरण	NN	6	r6	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	yaha	यह	DEM	6	dem	-	-
+6	prakAra	प्रकार	NN	11	k1	-	-
+7	kevala	केवल	RP	8	lwg__rp	-	-
+8	kRoBamaMdala	क्षोभमंडल	NNP	11	k7	-	-
+9	waka	तक	PSP	8	lwg__psp	-	-
+10	sImiwa	सीमित	JJ	11	pof	14	kriyAmUla
+11	rahawA	रहता	VM	0	main	14	verbalizer
+12	hE	है	VAUX	11	lwg__vaux	14	verbalizer
+13	.	।	SYM	11	rsym	-	-
+14	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0063>
+1	vAyu	वायु	NN	4	r6	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	kREwija	क्षैतिज	JJ	4	mod	-	-
+4	saMcalana	संचलन	NN	6	rh	-	-
+5	se	से	PSP	4	lwg__psp	-	-
+6	hone	होने	VM	8	mod	-	-
+7	vAlA	वाला	PSP	6	lwg__psp	-	-
+8	wApa	ताप	NN	10	r6	-	-
+9	kA	का	PSP	8	lwg__psp	-	-
+10	sWAnAMwaraNa	स्थानांतरण	NN	12	k1	-	-
+11	aBivahana	अभिवहन	NN	12	pof	15	kriyAmUla
+12	kahalAwA	कहलाता	VM	0	main	15	verbalizer
+13	hE	है	VAUX	12	lwg__vaux	15	verbalizer
+14	.	।	SYM	12	rsym	-	-
+15	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0064>
+1	lambavaw	लम्बवत्	NNC	2	pof__cn	17	mod
+2	saMcalana	संचलन	NN	4	r6	17	head
+3	kI	की	PSP	2	lwg__psp	-	-
+4	apekRA	अपेक्षा	NN	14	k1	-	-
+5	vAyu	वायु	NN	8	r6	-	-
+6	kA	का	PSP	5	lwg__psp	-	-
+7	kREwija	क्षैतिज	JJ	8	mod	-	-
+8	saMcalana	संचलन	NN	14	k1	-	-
+9	sApekRika	सापेक्षिक	JJ	10	mod	-	-
+10	rUpa	रूप	NN	14	krvn	-	-
+11	se	से	PSP	10	lwg__psp	-	-
+12	aXika	अधिक	QF	13	k2	-	-
+13	mahawvapUrNa	महत्वपूर्ण	JJ	14	pof	18	kriyAmUla
+14	howA	होता	VM	0	main	18	verbalizer
+15	hE	है	VAUX	14	lwg__vaux	18	verbalizer
+16	.	।	SYM	14	rsym	-	-
+17	[nc_1]	[nc_1]	-	4	r6	-	-
+18	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0065>
+1	maXya	मध्य	NNC	2	pof__cn	17	begin
+2	akRAMSoM	अक्षांशों	NN	7	k7p	17	inside
+3	meM	में	PSP	2	lwg__psp	-	-
+4	xEnika	दैनिक	JJ	5	mod	-	-
+5	mOsama	मौसम	NN	7	k7	-	-
+6	meM	में	PSP	5	lwg__psp	-	-
+7	Ane	आने	VM	9	mod	-	-
+8	vAlI	वाली	PSP	7	lwg__psp	-	-
+9	BinnawAez	भिन्नताएँ	NN	14	k1	-	-
+10	kevala	केवल	RP	11	lwg__rp	-	-
+11	aBivahana	अभिवहन	NN	14	rh	-	-
+12	ke	के	PSP	11	lwg__psp	-	-
+13	kAraNa	कारण	PSP	11	lwg__psp	-	-
+14	howI	होती	VM	0	main	-	-
+15	hEM	हैं	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[ne_1]	loc_1	-	7	k7p	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0066>
+1	uRNa	उष्ण	JJ	3	mod	-	-
+2	katibaMXIya	कटिबंधीय	JJ	1	mod	-	-
+3	praxeSoM	प्रदेशों	NN	22	k7p	-	-
+4	meM	में	PSP	3	lwg__psp	-	-
+5	,	,	SYM	3	rsym	-	-
+6	viSeRawaH	विशेषतः	RB	22	krvn	-	-
+7	uwwarI	उत्तरी	JJ	8	mod	-	-
+8	BAga	भाग	NN	12	k7p	-	-
+9	meM	में	PSP	8	lwg__psp	-	-
+10	garmiyoM	गर्मियों	NN	12	k7p	-	-
+11	meM	में	PSP	10	lwg__psp	-	-
+12	calane	चलने	VM	16	mod	-	-
+13	vAlI	वाली	PSP	12	lwg__psp	-	-
+14	sWAnIya	स्थानीय	JJ	16	mod	-	-
+15	pavana	पवन	NNPC	16	pof__cn	24	begin
+16	lU	लू	NNP	22	k1	24	inside
+17	isI	इसी	DEM	18	dem	-	-
+18	aBivahana	अभिवहन	NN	21	r6	-	-
+19	kA	का	PSP	18	lwg__psp	-	-
+20	hI	ही	RP	18	lwg__rp	-	-
+21	pariNAma	परिणाम	NN	22	k1s	-	-
+22	hE	है	VM	0	main	-	-
+23	.	।	SYM	22	rsym	-	-
+24	[ne_0]	[ne_0]	-	22	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0067>
+1	pqWvI	पृथ्वी	NNP	3	intf	25	begin
+2	xvArA	द्वारा	PSP	1	lwg__psp	-	-
+3	prApwa	प्राप्त	JJ	6	mod	-	-
+4	praveSI	प्रवेशी	JJ	6	mod	-	-
+5	sOra	सौर	NNC	6	pof__cn	27	mod
+6	vikiraNa	विकिरण	NNP	22	k1	27	head
+7	,	,	SYM	6	rsym	-	-
+8	jo	जो	PRP	14	k1	-	-
+9	laGu	लघु	JJ	10	mod	-	-
+10	waraMgoM	तरंगों	NN	14	k7	-	-
+11	ke	के	PSP	10	lwg__psp	-	-
+12	rUpa	रूप	PSP	10	lwg__psp	-	-
+13	meM	में	PSP	10	lwg__psp	-	-
+14	howA	होता	VM	6	rc	-	-
+15	hE	है	VAUX	14	lwg__vaux	-	-
+16	,	,	SYM	14	rsym	-	-
+17	pqWvI	पृथ्वी	NNP	19	r6	26	begin
+18	kI	की	PSP	17	lwg__psp	-	-
+19	sawaha	सतह	NN	22	k2	-	-
+20	ko	को	PSP	19	lwg__psp	-	-
+21	garma	गर्म	JJ	22	pof	28	kriyAmUla
+22	karawA	करता	VM	0	main	28	verbalizer
+23	hE	है	VAUX	22	lwg__vaux	28	verbalizer
+24	.	।	SYM	22	rsym	-	-
+25	[ne_1]	loc_1	-	3	intf	-	-
+26	[ne_2]	loc_2	-	19	r6	-	-
+27	[nc_1]	[nc_1]	-	22	k1	-	-
+28	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0068a>
+1	pqWvI	पृथ्वी	NNP	10	k1	14	begin
+2	svayaM	स्वयं	PRP	4	k1	-	-
+3	garma	गर्म	JJ	4	pof	16	kriyAmUla
+4	hone	होने	VM	10	rblpk	16	verbalizer
+5	ke	के	PSP	4	lwg__psp	-	-
+6	bAxa	बाद	NST	4	k7p	-	-
+7	eka	एक	QC	9	card	-	-
+8	vikiraNa	विकिरण	NNC	9	pof__cn	15	mod
+9	piMda	पिंड	NN	10	k1	15	head
+10	bana	बन	VM	0	main	-	-
+11	jAwI	जाती	VAUX	10	lwg__vaux	-	-
+12	hE	है	VAUX	11	lwg__vaux_cont	-	-
+13	.	।	SYM	10	rsym	-	-
+14	[ne_1]	loc_1	-	10	k1	-	-
+15	[nc_1]	[nc_1]	-	10	k1	-	-
+16	[cp_1]	[cp_1]	-	10	rblpk	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0068b>
+1	vAyumaMdala	वायुमंडल	NN	11	k7p	-	-
+2	meM	में	PSP	1	lwg__psp	-	-
+3	xIrGa	दीर्घ	JJ	4	mod	-	-
+4	waraMgoM	तरंगों	NN	11	k7	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	rUpa	रूप	PSP	4	lwg__psp	-	-
+7	meM	में	PSP	4	lwg__psp	-	-
+8	UrjA	ऊर्जा	NN	10	k2	-	-
+9	kA	का	PSP	8	lwg__psp	-	-
+10	vikiraNa	विकिरण	NN	11	pof	15	kriyAmUla
+11	karane	करने	VM	0	main	15	verbalizer
+12	lagawI	लगती	VAUX	11	lwg__vaux	15	verbalizer
+13	hE	है	VAUX	12	lwg__vaux_cont	15	verbalizer
+14	.	।	SYM	11	rsym	-	-
+15	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0069>
+1	yaha	यह	DEM	2	dem	-	-
+2	UrjA	ऊर्जा	NN	8	k1	-	-
+3	vAyumaMdala	वायुमंडल	NN	8	k2	-	-
+4	ko	को	PSP	3	lwg__psp	-	-
+5	nIce	नीचे	NST	8	krvn	-	-
+6	se	से	PSP	5	lwg__psp	-	-
+7	garma	गर्म	JJ	8	pof	11	kriyAmUla
+8	karawI	करती	VM	0	main	11	verbalizer
+9	hE	है	VAUX	8	lwg__vaux	11	verbalizer
+10	.	।	SYM	8	rsym	-	-
+11	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0070>
+1	isa	इस	DEM	2	dem	-	-
+2	prakriyA	प्रक्रिया	NN	6	k2	-	-
+3	ko	को	PSP	2	lwg__psp	-	-
+4	‘pArWiva	‘पार्थिव	JJ	5	mod	-	-
+5	vikiraNa’	विकिरण’	NN	6	k2s	-	-
+6	kahA	कहा	VM	0	main	-	-
+7	jAwA	जाता	VAUX	6	lwg__vaux	-	-
+8	hE	है	VAUX	7	lwg__vaux_cont	-	-
+9	.	।	SYM	6	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0071>
+1	xIrGa	दीर्घ	JJ	3	mod	-	-
+2	waraMgaxErXya	तरंगदैर्ध्य	NNC	3	pof__cn	23	mod
+3	vikiraNa	विकिरण	NN	4	intf	23	head
+4	vAyumaMdalIya	वायुमंडलीय	JJ	5	mod	-	-
+5	gEsoM	गैसों	NN	17	rh	26	op1
+6	,	,	SYM	5	rsym	-	-
+7	muKyawaH	मुख्यतः	JJ	9	mod	-	-
+8	kArbana	कार्बन	NNC	9	pof__cn	24	mod
+9	dAIOYksAida	डाईऑक्साइड	NN	17	rh	24	head
+10	evaM	एवं	CC	17	rh	-	-
+11	anya	अन्य	JJ	14	mod	-	-
+12	grIna	ग्रीन	NNC	14	pof__cn	22	begin
+13	hAUsa	हाऊस	NNPC	14	pof__cn	22	inside
+14	gEsoM	गैसों	NN	17	rh	26	op3
+15	xvArA	द्वारा	PSP	14	lwg__psp	-	-
+16	avaSoRiwa	अवशोषित	JJ	17	pof	25	kriyAmUla
+17	kara	कर	VM	0	main	25	verbalizer
+18	liyA	लिया	VAUX	17	lwg__vaux	25	verbalizer
+19	jAwA	जाता	VAUX	18	lwg__vaux_cont	25	verbalizer
+20	hE	है	VAUX	19	lwg__vaux_cont	25	verbalizer
+21	.	।	SYM	17	rsym	-	-
+22	[ne_1]	org_1	-	14	pof__cn	-	-
+23	[nc_1]	[nc_1]	-	4	intf	-	-
+24	[nc_2]	[nc_2]	-	17	rh	26	op2
+25	[cp_1]	[cp_1]	-	0	main	-	-
+26	[conj_1]	[conj_1]	-	17	rh	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0072>
+1	isa	इस	DEM	2	dem	-	-
+2	prakAra	प्रकार	NN	0	k1	-	-
+3	vAyumaMdala	वायुमंडल	NN	11	k1	-	-
+4	pArWiva	पार्थिव	NNPC	5	pof__cn	19	begin
+5	vikiraNa	विकिरण	NNP	11	k1	19	inside
+6	xvArA	द्वारा	PSP	5	lwg__psp	-	-
+7	aprawyakRa	अप्रत्यक्ष	JJ	8	mod	-	-
+8	rUpa	रूप	NN	11	krvn	-	-
+9	se	से	PSP	8	lwg__psp	-	-
+10	garma	गर्म	JJ	11	pof	20	kriyAmUla
+11	howA	होता	VM	13	rc	20	verbalizer
+12	hE	है	VAUX	11	lwg__vaux	20	verbalizer
+13	na	न	RP	14	lwg__rp	-	-
+14	ki	कि	CC	0	re	-	-
+15	sIXe	सीधे	RB	0	krvn	-	-
+16	sUryAwapa	सूर्यातप	NNP	0	main	-	-
+17	se	से	PSP	16	lwg__psp	-	-
+18	.	।	SYM	16	rsym	-	-
+19	[ne_0]	[ne_0]	-	11	k1	-	-
+20	[cp_1]	[cp_1]	-	13	rc	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0073>
+1	waxuparAMwa	तदुपरांत	RB	10	sent-adv	-	-
+2	vAyumaMdala	वायुमंडल	NN	3	mod	-	-
+3	vikIrNana	विकीर्णन	NN	10	k1	-	-
+4	xvArA	द्वारा	PSP	3	lwg__psp	-	-
+5	wApa	ताप	NN	10	k2	-	-
+6	ko	को	PSP	5	lwg__psp	-	-
+7	aMwarikRa	अंतरिक्ष	NN	10	k7p	14	begin
+8	meM	में	PSP	7	lwg__psp	-	-
+9	saMcariwa	संचरित	JJ	10	pof	15	kriyAmUla
+10	kara	कर	VM	0	main	15	verbalizer
+11	xewA	देता	VAUX	10	lwg__vaux	15	verbalizer
+12	hE	है	VAUX	11	lwg__vaux_cont	15	verbalizer
+13	.	।	SYM	10	rsym	-	-
+14	[ne_1]	loc_1	-	10	k7p	-	-
+15	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0074>
+1	isa	इस	DEM	2	dem	-	-
+2	prakAra	प्रकार	NN	11	k1	-	-
+3	pqWvI	पृथ्वी	NN	5	r6	14	begin
+4	kI	की	PSP	3	lwg__psp	-	-
+5	sawaha	सतह	NN	9	r6	15	op1
+6	evaM	एवं	CC	9	r6	-	-
+7	vAyumaMdala	वायुमंडल	NN	9	r6	15	op2
+8	kA	का	PSP	7	lwg__psp	-	-
+9	wApamAna	तापमान	NN	11	k1	-	-
+10	sWira	स्थिर	JJ	11	k1s	-	-
+11	rahawA	रहता	VM	0	main	-	-
+12	hE	है	VAUX	11	lwg__vaux	-	-
+13	.	।	SYM	11	rsym	-	-
+14	[ne_1]	loc_1	-	5	r6	-	-
+15	[conj_1]	[conj_1]	-	9	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0075>
+1	pqWvI	पृथ्वी	NN	3	r6	6	begin
+2	kA	का	PSP	1	lwg__psp	-	-
+3	URmA	ऊष्मा	NN	0	k3	-	-
+4	bajata	बजट	NN	0	main	-	-
+5	.	।	SYM	4	rsym	-	-
+6	[ne_1]	loc_1	-	3	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0076>
+1	ciwra	चित्र	NN	9	k2	-	-
+2	9.2	9.2	NNP	9	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	pqWvI	पृथ्वी	NN	7	r6	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	URmA	ऊष्मा	NNC	7	pof__cn	13	begin
+7	bajata	बजट	NN	9	k2	-	-
+8	ko	को	PSP	7	lwg__psp	-	-
+9	xarSAyA	दर्शाया	VM	0	main	-	-
+10	gayA	गया	VAUX	9	lwg__vaux	-	-
+11	hE	है	VAUX	10	lwg__vaux_cont	-	-
+12	.	।	SYM	9	rsym	-	-
+13	[ne_1]	loc_1	-	7	pof__cn	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0077a>
+1	pqWvI	पृथ्वी	NNC	2	pof__cn	10	begin
+2	URmA	ऊष्मा	NN	7	k2	-	-
+3	kA	का	PSP	2	lwg__psp	-	-
+4	na	न	NEG	7	vmod	-	-
+5	wo	तो	RP	4	lwg__rp	-	-
+6	saMcaya	संचय	NN	7	pof	11	kriyAmUla
+7	karawI	करती	VM	0	main	11	verbalizer
+8	hE	है	VAUX	7	lwg__vaux	11	verbalizer
+9	.	।	SYM	7	rsym	-	-
+10	[ne_1]	loc_1	-	2	pof__cn	-	-
+11	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0077b>
+1	na	न	NEG	4	neg	-	-
+2	hI	ही	RP	1	lwg__rp	-	-
+3	hrAsa	ह्रास	NN	4	pof	7	kriyAmUla
+4	karawI	करती	VM	0	main	7	verbalizer
+5	hE	है	VAUX	4	lwg__vaux	7	verbalizer
+6	.	।	SYM	4	rsym	-	-
+7	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0078>
+1	yaha	यह	PRP	6	k1	-	-
+2	apane	अपने	PRP	3	r6	-	-
+3	wApamAna	तापमान	NN	6	k2	-	-
+4	ko	को	PSP	3	lwg__psp	-	-
+5	sWira	स्थिर	JJ	6	pof	9	kriyAmUla
+6	raKawI	रखती	VM	0	main	9	verbalizer
+7	hE	है	VAUX	6	lwg__vaux	9	verbalizer
+8	.	।	SYM	6	rsym	-	-
+9	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0079a>
+1	EsA	ऐसा	PRP	4	k1	-	-
+2	waBI	तभी	PRP	4	k7t	-	-
+3	samBava	सम्भव	JJ	4	k1s	-	-
+4	hE	है	VM	0	main	-	-
+5	.	।	SYM	4	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0079b>
+1	sUrya	सूर्य	NNPC	2	pof__cn	22	begin
+2	vikiraNa	विकिरण	NN	19	k1	22	inside
+3	xvArA	द्वारा	PSP	2	lwg__psp	-	-
+4	sUryAwapa	सूर्यातप	NN	19	k7	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	rUpa	रूप	PSP	4	lwg__psp	-	-
+7	meM	में	PSP	4	lwg__psp	-	-
+8	prApwa	प्राप्त	JJ	9	mod	-	-
+9	URmA	ऊष्मा	NN	19	k1	23	op2
+10	evaM	एवं	CC	19	k1	-	-
+11	pArWiva	पार्थिव	JJ	12	mod	-	-
+12	vikiraNa	विकिरण	NN	19	k1	23	op3
+13	xvArA	द्वारा	PSP	12	lwg__psp	-	-
+14	aMwarikRa	अंतरिक्ष	NN	19	k7p	21	begin
+15	meM	में	PSP	14	lwg__psp	-	-
+16	saMcariwa	संचरित	JJ	17	mod	-	-
+17	wApa	ताप	NN	19	k1	23	op4
+18	barAbara	बराबर	JJ	19	k1s	-	-
+19	hoM	हों	VM	0	main	-	-
+20	.	।	SYM	19	rsym	-	-
+21	[ne_1]	loc_1	-	19	k7p	-	-
+22	[ne_1]	[ne_1]	-	19	k1	23	op1
+23	[conj_1]	[conj_1]	-	19	k1	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0080a>
+1	mAna	मान	VM	0	main	-	-
+2	leM	लें	VAUX	1	lwg__vaux	-	-
+3	.	।	SYM	1	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0080b>
+1	vAyumaMdala	वायुमंडल	NN	4	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	UparI	ऊपरी	JJ	4	mod	-	-
+4	sawaha	सतह	NN	6	intf	-	-
+5	para	पर	PSP	4	lwg__psp	-	-
+6	prApwa	प्राप्त	JJ	7	mod	-	-
+7	sUryAwapa	सूर्यातप	NN	10	k1	-	-
+8	100	100	QC	9	card	-	-
+9	prawiSawa	प्रतिशत	NN	10	k1s	-	-
+10	hE	है	VM	0	main	-	-
+11	.	।	SYM	10	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0081>
+1	vAyumaMdala	वायुमंडल	NN	3	k5	-	-
+2	se	से	PSP	1	lwg__psp	-	-
+3	gujarawe	गुजरते	VM	0	rvks	-	-
+4	hue	हुए	VAUX	3	lwg__vaux	-	-
+5	UrjA	ऊर्जा	NN	8	r6	-	-
+6	kA	का	PSP	5	lwg__psp	-	-
+7	kuCa	कुछ	QF	8	quant	-	-
+8	aMSa	अंश	NN	0	mod	-	-
+9	parAvarwiwa	परावर्तित	JJ	0	main	19	op1
+10	,	,	SYM	9	rsym	-	-
+11	prakIrNiwa	प्रकीर्णित	NNP	0	main	19	op2
+12	evaM	एवं	CC	0	main	-	-
+13	avaSoRiwa	अवशोषित	JJ	14	pof	18	kriyAmUla
+14	ho	हो	VM	0	main	18	verbalizer
+15	jAwA	जाता	VAUX	14	lwg__vaux	18	verbalizer
+16	hE	है	VAUX	15	lwg__vaux_cont	18	verbalizer
+17	.	।	SYM	12	rsym	-	-
+18	[cp_1]	[cp_1]	-	0	main	19	op3
+19	[conj_1]	[conj_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0082>
+1	kevala	केवल	RP	2	lwg__rp	-	-
+2	SeRa	शेष	JJ	3	mod	-	-
+3	BAga	भाग	NN	9	k1	-	-
+4	hI	ही	RP	3	lwg__rp	-	-
+5	pqWvI	पृथ्वी	NN	7	r6	12	begin
+6	kI	की	PSP	5	lwg__psp	-	-
+7	sawaha	सतह	NN	9	k7	-	-
+8	waka	तक	PSP	7	lwg__psp	-	-
+9	pahuzcawA	पहुँचता	VM	0	main	-	-
+10	hE	है	VAUX	9	lwg__vaux	-	-
+11	.	।	SYM	9	rsym	-	-
+12	[ne_1]	loc_1	-	7	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0083>
+1	100	100	QC	2	card	-	-
+2	ikAI	इकाई	NN	11	k5	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	se	से	PSP	2	lwg__psp	-	-
+5	35	35	QC	6	card	-	-
+6	ikAiyAz	इकाइयाँ	NN	11	k1	-	-
+7	pqWvI	पृथ्वी	NN	9	r6	22	begin
+8	ke	के	PSP	7	lwg__psp	-	-
+9	XarAwala	धरातल	NN	11	k7	-	-
+10	para	पर	PSP	9	lwg__psp	-	-
+11	pahuzcane	पहुँचने	VM	18	rblak	-	-
+12	se	से	PSP	11	lwg__psp	-	-
+13	pahale	पहले	NST	11	k7p	-	-
+14	hI	ही	RP	13	lwg__rp	-	-
+15	aMwarikRa	अंतरिक्ष	NN	18	k7p	-	-
+16	meM	में	PSP	15	lwg__psp	-	-
+17	parAvarwiwa	परावर्तित	JJ	18	pof	23	kriyAmUla
+18	ho	हो	VM	0	main	23	verbalizer
+19	jAwI	जाती	VAUX	18	lwg__vaux	23	verbalizer
+20	hE	है	VAUX	19	lwg__vaux_cont	23	verbalizer
+21	.	।	SYM	18	rsym	-	-
+22	[ne_1]	loc_1	-	9	r6	-	-
+23	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0084>
+1	27	27	QC	2	card	-	-
+2	ikAiyAz	इकाइयाँ	NN	18	k1	-	-
+3	bAxaloM	बादलों	NN	6	r6	-	-
+4	ke	के	PSP	3	lwg__psp	-	-
+5	UparI	ऊपरी	JJ	6	mod	-	-
+6	Cora	छोर	NN	17	k7p	24	op1
+7	se	से	PSP	6	lwg__psp	-	-
+8	waWA	तथा	CC	17	k7p	-	-
+9	2	2	QC	10	card	-	-
+10	ikAiyAz	इकाइयाँ	NN	17	k7p	24	op2
+11	pqWvI	पृथ्वी	NNP	14	r6	22	begin
+12	ke	के	PSP	11	lwg__psp	-	-
+13	himAcCAxiwa	हिमाच्छादित	JJ	14	mod	-	-
+14	kRewroM	क्षेत्रों	NN	17	k1	-	-
+15	xvArA	द्वारा	PSP	14	lwg__psp	-	-
+16	parAvarwiwa	परावर्तित	JJ	17	pof	23	kriyAmUla
+17	hokara	होकर	VM	18	rpk	23	verbalizer
+18	lOta	लौट	VM	0	main	-	-
+19	jAwI	जाती	VAUX	18	lwg__vaux	-	-
+20	hEM	हैं	VAUX	19	lwg__vaux_cont	-	-
+21	.	।	SYM	18	rsym	-	-
+22	[ne_1]	loc_1	-	14	r6	-	-
+23	[cp_1]	[cp_1]	-	18	rpk	-	-
+24	[conj_1]	[conj_1]	-	17	k7p	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0085>
+1	sOra	सौर	NNC	2	pof__cn	15	mod
+2	vikiraNa	विकिरण	NN	6	r6	15	head
+3	kI	की	PSP	2	lwg__psp	-	-
+4	isa	इस	DEM	6	dem	-	-
+5	parAvarwiwa	परावर्तित	JJ	6	mod	-	-
+6	mAwrA	मात्रा	NN	11	k2	-	-
+7	ko	को	PSP	6	lwg__psp	-	-
+8	pqWvI	पृथ्वी	NNP	10	r6	14	begin
+9	kA	का	PSP	8	lwg__psp	-	-
+10	elbido	एल्बिडो	NN	11	k2s	-	-
+11	kahawe	कहते	VM	0	main	-	-
+12	hEM	हैं	VAUX	11	lwg__vaux	-	-
+13	.	।	SYM	11	rsym	-	-
+14	[ne_1]	loc_1	-	10	r6	-	-
+15	[nc_1]	[nc_1]	-	6	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0086>
+1	praWama	प्रथम	QO	3	nmod__adj	-	-
+2	35	35	QC	3	card	-	-
+3	ikAiyoM	इकाइयों	NN	5	k2	-	-
+4	ko	को	PSP	3	lwg__psp	-	-
+5	Codakara	छोडकर	VM	10	rpk	-	-
+6	bAkI	बाकी	JJ	8	mod	-	-
+7	65	65	QC	8	card	-	-
+8	ikAiyAz	इकाइयाँ	NN	10	k1	-	-
+9	avaSoRiwa	अवशोषित	JJ	10	pof	24	kriyAmUla
+10	howI	होती	VM	13	re	24	verbalizer
+11	hE	है	VAUX	10	lwg__vaux	24	verbalizer
+12	-	-	SYM	10	rsym	-	-
+13	14	14	NNP	0	main	-	-
+14	vAyumaMdala	वायुमंडल	NN	20	r6	25	op1
+15	meM	में	PSP	14	lwg__psp	-	-
+16	waWA	तथा	CC	20	r6	-	-
+17	51	51	QC	18	card	-	-
+18	pqWvI	पृथ्वी	NN	20	r6	23	begin
+19	ke	के	PSP	18	lwg__psp	-	-
+20	XarAwala	धरातल	NN	0	main	-	-
+21	xvArA	द्वारा	PSP	20	lwg__psp	-	-
+22	.	।	SYM	20	rsym	-	-
+23	[ne_1]	loc_1	-	20	r6	25	op2
+24	[cp_1]	[cp_1]	-	13	re	-	-
+25	[conj_1]	[conj_1]	-	20	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0087>
+1	pqWvI	पृथ्वी	NNP	3	intf	18	begin
+2	xvArA	द्वारा	PSP	1	lwg__psp	-	-
+3	avaSoRiwa	अवशोषित	JJ	6	mod	-	-
+4	ye	ये	DEM	6	dem	-	-
+5	51	51	QC	6	card	-	-
+6	ikAiyAz	इकाइयाँ	NN	13	k1	-	-
+7	punaH	पुनः	RB	13	krvn	-	-
+8	pArWiva	पार्थिव	JJ	9	mod	-	-
+9	vikiraNa	विकिरण	NN	13	k7	-	-
+10	ke	के	PSP	9	lwg__psp	-	-
+11	rUpa	रूप	PSP	9	lwg__psp	-	-
+12	meM	में	PSP	9	lwg__psp	-	-
+13	lOtA	लौटा	VM	0	main	-	-
+14	xI	दी	VAUX	13	lwg__vaux	-	-
+15	jAwI	जाती	VAUX	14	lwg__vaux_cont	-	-
+16	hEM	हैं	VAUX	15	lwg__vaux_cont	-	-
+17	.	।	SYM	13	rsym	-	-
+18	[ne_1]	loc_1	-	3	intf	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0088a>
+1	inameM	इनमें	PRP	9	k5	-	-
+2	se	से	PSP	1	lwg__psp	-	-
+3	17	17	QC	4	card	-	-
+4	ikAiyAz	इकाइयाँ	NN	9	k1	-	-
+5	wo	तो	RP	4	lwg__rp	-	-
+6	sIXe	सीधे	RB	9	krvn	-	-
+7	aMwarikRa	अंतरिक्ष	NN	9	k7p	-	-
+8	meM	में	PSP	7	lwg__psp	-	-
+9	calI	चली	VM	0	main	-	-
+10	jAwI	जाती	VAUX	9	lwg__vaux	-	-
+11	hEM	हैं	VAUX	10	lwg__vaux_cont	-	-
+12	.	।	SYM	9	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0088b>
+1	34	34	QC	2	card	-	-
+2	ikAiyAz	इकाइयाँ	NN	6	k1	-	-
+3	vAyumaMdala	वायुमंडल	NN	6	k1	-	-
+4	xvArA	द्वारा	PSP	3	lwg__psp	-	-
+5	avaSoRiwa	अवशोषित	JJ	6	pof	9	kriyAmUla
+6	howI	होती	VM	0	main	9	verbalizer
+7	hE	है	VAUX	6	lwg__vaux	9	verbalizer
+8	.	।	SYM	6	rsym	-	-
+9	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0089>
+1	6	6	QC	2	card	-	-
+2	ikAiyAz	इकाइयाँ	NN	0	mod	-	-
+3	svayaM	स्वयं	PRP	0	nmod__emph	-	-
+4	vAyumaMdala	वायुमंडल	NN	0	r6	23	op1
+5	xvArA	द्वारा	PSP	4	lwg__psp	-	-
+6	,	,	SYM	4	rsym	-	-
+7	9	9	QC	8	card	-	-
+8	ikAiyAz	इकाइयाँ	NN	9	mod	-	-
+9	saMvahana	संवहन	NN	0	r6	23	op2
+10	ke	के	PSP	9	lwg__psp	-	-
+11	jarie	जरिए	PSP	9	lwg__psp	-	-
+12	Ora	और	CC	0	r6	-	-
+13	19	19	QC	14	card	-	-
+14	ikAiyAz	इकाइयाँ	NN	0	r6	23	op3
+15	saMGanana	संघनन	NN	18	r6	-	-
+16	kI	की	PSP	15	lwg__psp	-	-
+17	gupwa	गुप्त	JJ	18	mod	-	-
+18	URmA	ऊष्मा	NN	0	main	-	-
+19	ke	के	PSP	18	lwg__psp	-	-
+20	rUpa	रूप	PSP	18	lwg__psp	-	-
+21	meM	में	PSP	18	lwg__psp	-	-
+22	.	।	SYM	18	rsym	-	-
+23	[conj_1]	[conj_1]	-	0	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0090a>
+1	vAyumaMdala	वायुमंडल	NN	7	k1	-	-
+2	xvArA	द्वारा	PSP	1	lwg__psp	-	-
+3	48	48	QC	4	card	-	-
+4	ikAiyoM	इकाइयों	NN	6	r6	-	-
+5	kA	का	PSP	4	lwg__psp	-	-
+6	avaSoRaNa	अवशोषण	NN	7	pof	10	kriyAmUla
+7	howA	होता	VM	0	main	10	verbalizer
+8	hE	है	VAUX	7	lwg__vaux	10	verbalizer
+9	.	।	SYM	7	rsym	-	-
 10	[cp_1]	[cp_1]	-	0	main	-	-
 </sentence_id>
 
 
-<sentence_id=50>
-1	kqRNa	कृष्ण	NNP	4	k1	8	begin
-2	kisake	किसके	PRP	4	ras-k1	-	-
-3	sAWa	साथ	NST	2	lwg__psp	-	-
-4	Kelane	खेलने	VM	0	main	-	-
-5	gayA	गया	VAUX	4	lwg__vaux	-	-
-6	hE	है	VAUX	5	lwg__vaux_cont	-	-
-7	?	?	SYM	4	rsym	-	-
-8	[ne_1]	per_1	-	4	k1	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0090b>
+1	inameM	इनमें	PRP	5	k7	-	-
+2	14	14	QC	3	card	-	-
+3	ikAiyAz	इकाइयाँ	NN	5	k1	-	-
+4	sUryAwapa	सूर्यातप	NN	5	pof	16	kriyAmUla
+5	kI	की	VM	0	main	16	verbalizer
+6	Ora	और	CC	0	main	-	-
+7	34	34	QC	8	card	-	-
+8	ikAiyAz	इकाइयाँ	NN	12	k1	-	-
+9	pArWiva	पार्थिव	NNPC	10	pof__cn	15	begin
+10	vikiraNa	विकिरण	NN	12	rhh	15	inside
+11	kI	की	PSP	10	lwg__psp	-	-
+12	howI	होती	VM	0	main	17	op2
+13	hEM	हैं	VAUX	12	lwg__vaux	-	-
+14	.	।	SYM	6	rsym	-	-
+15	[ne_0]	[ne_0]	-	12	rhh	-	-
+16	[cp_1]	[cp_1]	-	0	main	17	op1
+17	[conj_1]	[conj_1]	-	0	main	-	-
 </sentence_id>
 
 
-<sentence_id=51>
-1	wumane	तुमने	PRP	5	k1	-	-
-2	kisase	किससे	WQ	5	adv	-	-
-3	yaha	यह	DEM	4	nmod__adj	-	-
-4	bAwa	बात	NN	5	k2	-	-
-5	sIKI	सीखी	VM	0	main	-	-
-6	?	?	SYM	5	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0091>
+1	vAyumaMdala	वायुमंडल	NNPC	2	pof__cn	13	begin
+2	vikiraNa	विकिरण	NN	9	k1	13	inside
+3	xvArA	द्वारा	PSP	2	lwg__psp	-	-
+4	inako	इनको	PRP	9	k2	-	-
+5	BI	भी	RP	4	lwg__rp	-	-
+6	aMwarikRa	अंतरिक्ष	NN	9	k7p	-	-
+7	meM	में	PSP	6	lwg__psp	-	-
+8	vApasa	वापस	JJ	9	pof	14	kriyAmUla
+9	lOtA	लौटा	VM	0	main	14	verbalizer
+10	xewA	देता	VAUX	9	lwg__vaux	14	verbalizer
+11	hE	है	VAUX	10	lwg__vaux_cont	14	verbalizer
+12	.	।	SYM	9	rsym	-	-
+13	[ne_0]	[ne_0]	-	9	k1	-	-
+14	[cp_1]	[cp_1]	-	0	main	-	-
 </sentence_id>
 
 
-<sentence_id=52>
-1	wuma	तुम	DEM	2	nmod__adj	-	-
-2	loga	लोग	NN	7	k1	-	-
-3	kisake	किसके	PRP	7	k7a	-	-
-4	anusAra	अनुसार	PSP	3	lwg__psp	-	-
-5	apanI	अपनी	PRP	6	r6	-	-
-6	yojanA	योजना	NN	7	k2	-	-
-7	baxaloge	बदलोगे	VM	0	main	-	-
-8	?	?	SYM	7	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0092>
+1	pqWvI	पृथ्वी	NNP	3	r6	27	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	XarAwala	धरातल	NN	4	ccof	-	-
+4	waWA	तथा	CC	10	k7p	-	-
+5	vAyumaMdala	वायुमंडल	NN	4	ccof	-	-
+6	se	से	PSP	5	lwg__psp	-	-
+7	aMwarikRa	अंतरिक्ष	NN	10	k7p	29	op1
+8	meM	में	PSP	7	lwg__psp	-	-
+9	vApasa	वापस	JJ	10	pof	28	kriyAmUla
+10	lOtane	लौटने	VM	12	mod	28	verbalizer
+11	vAlI	वाली	PSP	10	lwg__psp	-	-
+12	vikiraNa	विकिरण	NN	14	r6	-	-
+13	kI	की	PSP	12	lwg__psp	-	-
+14	ikAiyAz	इकाइयाँ	NN	19	k1	-	-
+15	kramaSaH	क्रमशः	RB	19	krvn	-	-
+16	17	17	QC	19	k1s	30	op1
+17	Ora	और	CC	19	k1s	-	-
+18	48	48	QC	19	k1s	30	op2
+19	hEM	हैं	VM	0	main	-	-
+20	,	,	SYM	19	rsym	-	-
+21	jinakA	जिनका	PRP	22	r6	-	-
+22	yoga	योग	NN	24	k1	-	-
+23	65	65	QC	24	k1s	-	-
+24	howA	होता	VM	19	rc	-	-
+25	hE	है	VAUX	24	lwg__vaux	-	-
+26	.	।	SYM	19	rsym	-	-
+27	[ne_1]	loc_1	-	3	r6	-	-
+28	[cp_1]	[cp_1]	-	12	mod	-	-
+29	[conj_1]	[conj_1]	-	10	k7p	-	-
+30	[conj_2]	[conj_2]	-	19	k1s	-	-
 </sentence_id>
 
 
-<sentence_id=53>
-1	kyA	क्या	WQ	7	adv	-	-
-2	kisI	किसी	PRP	6	k1	-	-
-3	ne	ने	PSP	2	lwg__psp	-	-
-4	use	उसे	PRP	6	k2	-	-
-5	yahAz	यहाँ	PRP	6	k7p	-	-
-6	Awe	आते	VM	7	vmod	-	-
-7	xeKA	देखा	VM	0	main	-	-
-8	hE	है	VAUX	7	lwg__vaux	-	-
-9	?	?	SYM	7	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0093>
+1	vApasa	वापस	JJ	2	pof	22	kriyAmUla
+2	lOtane	लौटने	VM	5	mod	22	verbalizer
+3	vAlI	वाली	PSP	2	lwg__psp	-	-
+4	ye	ये	DEM	5	dem	-	-
+5	ikAiyAz	इकाइयाँ	NN	11	k1	-	-
+6	una	उन	DEM	8	dem	-	-
+7	65	65	QC	8	card	-	-
+8	ikAiyoM	इकाइयों	NN	10	k2	-	-
+9	kA	का	PSP	8	lwg__psp	-	-
+10	saMwulana	संतुलन	NN	11	pof	23	kriyAmUla
+11	kara	कर	VM	0	main	23	verbalizer
+12	xewI	देती	VAUX	11	lwg__vaux	23	verbalizer
+13	hEM	हैं	VAUX	12	lwg__vaux_cont	23	verbalizer
+14	jo	जो	PRP	18	k1	-	-
+15	sUrya	सूर्य	NNP	18	k5	21	begin
+16	se	से	PSP	15	lwg__psp	-	-
+17	prApwa	प्राप्त	JJ	18	pof	24	kriyAmUla
+18	howI	होती	VM	11	rc	24	verbalizer
+19	hEM	हैं	VAUX	18	lwg__vaux	24	verbalizer
+20	.	।	SYM	11	rsym	-	-
+21	[ne_1]	org_1	-	18	k5	-	-
+22	[cp_1]	[cp_1]	-	5	mod	-	-
+23	[cp_2]	[cp_2]	-	0	main	-	-
+24	[cp_3]	[cp_3]	-	11	rc	-	-
 </sentence_id>
 
 
-<sentence_id=54>
-1	vaha	वह	PRP	6	k1	-	-
-2	kisake	किसके	PRP	6	k7	-	-
-3	pAsa	पास	NST	2	lwg__psp	-	-
-4	maxaxa	मदद	NN	5	pof	8	kriyAmUla
-5	mAMgane	मांगने	VM	6	rt	8	verbalizer
-6	jAegA	जाएगा	VM	0	main	-	-
-7	?	?	SYM	6	rsym	-	-
-8	[cp_1]	[cp_1]	-	6	rt	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0094>
+1	yahI	यही	PRP	9	k1	-	-
+2	pqWvI	पृथ्वी	NN	4	r6	11	begin
+3	kA	का	PSP	2	lwg__psp	-	-
+4	URmA	ऊष्मा	NN	9	k1	-	-
+5	bajata	बजट	NN	9	k1s	13	op1
+6	aWavA	अथवा	CC	9	k1s	-	-
+7	URmA	ऊष्मा	NNC	8	pof__cn	12	mod
+8	saMwulana	संतुलन	NN	9	k1s	12	head
+9	hE	है	VM	0	main	-	-
+10	.	।	SYM	9	rsym	-	-
+11	[ne_1]	loc_1	-	4	r6	-	-
+12	[nc_1]	[nc_1]	-	9	k1s	13	op2
+13	[disjunct_1]	[disjunct_1]	-	9	k1s	-	-
 </sentence_id>
 
 
-<sentence_id=55>
-1	wuma	तुम	DEM	2	nmod__adj	-	-
-2	loga	लोग	NN	6	k1	-	-
-3	kisa	किस	PRP	6	k7	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0095a>
+1	yahI	यही	DEM	2	dem	-	-
+2	kAraNa	कारण	NN	3	k1	-	-
+3	hE	है	VM	0	main	-	-
+4	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0095b>
+1	URmA	ऊष्मा	NN	5	r6	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	iwanI	इतनी	INTF	4	intf	-	-
+4	bade	बडे	JJ	5	mod	-	-
+5	sWAnAMwaraNa	स्थानांतरण	NN	14	k1	-	-
+6	ke	के	PSP	5	lwg__psp	-	-
+7	bAvajUxa	बावजूद	PSP	5	lwg__psp	-	-
+8	BI	भी	RP	5	lwg__rp	-	-
+9	pqWvI	पृथ्वी	NN	14	k1	17	begin
+10	na	न	NEG	14	vmod	-	-
+11	wo	तो	RP	10	lwg__rp	-	-
+12	bahuwa	बहुत	QF	13	k2	-	-
+13	garma	गर्म	JJ	14	pof	18	kriyAmUla
+14	howI	होती	VM	0	main	18	verbalizer
+15	hE	है	VAUX	14	lwg__vaux	18	verbalizer
+16	.	।	SYM	14	rsym	-	-
+17	[ne_1]	loc_1	-	14	k1	-	-
+18	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0095c>
+1	na	न	NEG	4	neg	-	-
+2	hI	ही	RP	1	lwg__rp	-	-
+3	TaMdI	ठंडी	JJ	4	pof	7	kriyAmUla
+4	howI	होती	VM	0	main	7	verbalizer
+5	hE	है	VAUX	4	lwg__vaux	7	verbalizer
+6	.	।	SYM	4	rsym	-	-
+7	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0096>
+1	pqWvI	पृथ्वी	NNP	3	r6	11	begin
+2	kI	की	PSP	1	lwg__psp	-	-
+3	sawaha	सतह	NN	9	k7	-	-
 4	para	पर	PSP	3	lwg__psp	-	-
-5	viSvAsa	विश्वास	NN	6	pof	8	kriyAmUla
-6	karoge	करोगे	VM	0	main	8	verbalizer
-7	?	?	SYM	6	rsym	-	-
-8	[cp_1]	[cp_1]	-	0	main	-	-
+5	kula	कुल	QF	7	quant	-	-
+6	URmA	ऊष्मा	NNC	7	pof__cn	12	mod
+7	bajata	बजट	NN	9	mod	12	head
+8	meM	में	PSP	7	lwg__psp	-	-
+9	BinnawA	भिन्नता	NN	0	main	-	-
+10	.	।	SYM	9	rsym	-	-
+11	[ne_1]	loc_1	-	3	r6	-	-
+12	[nc_1]	[nc_1]	-	9	mod	-	-
 </sentence_id>
 
 
-<sentence_id=56>
-1	kyA	क्या	WQ	5	adv	-	-
-2	kisI	किसी	PRP	5	k4a	-	-
-3	ko	को	PSP	2	lwg__psp	-	-
-4	pawA	पता	NN	5	k1	-	-
-5	hE	है	VM	0	main	-	-
-6	ki	कि	CC	4	rs	-	-
-7	vaha	वह	PRP	9	k1	-	-
-8	kahAz	कहाँ	WQ	9	adv	-	-
-9	hE	है	VM	6	ccof	-	-
-10	?	?	SYM	5	rsym	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0097a>
+1	jEsA	जैसा	CCC	2	mod	-	-
+2	ki	कि	CC	0	main	-	-
+3	pahale	पहले	NST	5	k7t	-	-
+4	vyAKyA	व्याख्या	NN	5	pof	10	kriyAmUla
+5	kI	की	VM	0	main	10	verbalizer
+6	jA	जा	VAUX	5	lwg__vaux	10	verbalizer
+7	cukI	चुकी	VAUX	6	lwg__vaux_cont	10	verbalizer
+8	hE	है	VAUX	7	lwg__vaux_cont	10	verbalizer
+9	.	।	SYM	2	rsym	-	-
+10	[cp_1]	[cp_1]	-	0	main	11	op1
 </sentence_id>
 
 
-<sentence_id=57>
-1	hama	हम	DEM	2	nmod__adj	-	-
-2	loga	लोग	NN	7	k1	-	-
-3	kisake	किसके	PRP	4	r6	-	-
-4	samarWana	समर्थन	NN	7	k7	-	-
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0097b>
+1	pqWvI	पृथ्वी	NNP	3	r6	15	begin
+2	kI	की	PSP	1	lwg__psp	-	-
+3	sawaha	सतह	NN	5	intf	-	-
+4	para	पर	PSP	3	lwg__psp	-	-
+5	prApwa	प्राप्त	JJ	6	mod	-	-
+6	vikiraNa	विकिरण	NN	8	r6	-	-
+7	kI	की	PSP	6	lwg__psp	-	-
+8	mAwrA	मात्रा	NN	11	k7	-	-
+9	meM	में	PSP	8	lwg__psp	-	-
+10	BinnawA	भिन्नता	NN	11	pof	16	kriyAmUla
+11	pAI	पाई	VM	0	main	16	verbalizer
+12	jAwI	जाती	VAUX	11	lwg__vaux	16	verbalizer
+13	hE	है	VAUX	12	lwg__vaux_cont	16	verbalizer
+14	.	।	SYM	11	rsym	-	-
+15	[ne_1]	loc_1	-	3	r6	-	-
+16	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0098a>
+1	pqWvI	पृथ्वी	NN	4	r6	14	begin
+2	ke	के	PSP	1	lwg__psp	-	-
+3	kuCa	कुछ	QF	4	quant	-	-
+4	BAgoM	भागों	NN	10	k7p	-	-
 5	meM	में	PSP	4	lwg__psp	-	-
-6	KadZe	खड़े	JJ	7	pof	9	kriyAmUla
-7	hoMge	होंगे	VM	0	main	9	verbalizer
-8	?	?	SYM	7	rsym	-	-
+6	vikiraNa	विकिरण	NNC	7	pof__cn	15	mod
+7	saMwulana	संतुलन	NN	10	k7	15	head
+8	meM	में	PSP	7	lwg__psp	-	-
+9	aXiSeRa	अधिशेष	NN	10	pof	16	kriyAmUla
+10	pAyA	पाया	VM	0	main	16	verbalizer
+11	jAwA	जाता	VAUX	10	lwg__vaux	16	verbalizer
+12	hE	है	VAUX	11	lwg__vaux_cont	16	verbalizer
+13	.	।	SYM	10	rsym	-	-
+14	[ne_1]	loc_1	-	4	r6	-	-
+15	[nc_1]	[nc_1]	-	10	k7	-	-
+16	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0098b>
+1	kuCa	कुछ	QF	2	quant	-	-
+2	BAgoM	भागों	NN	6	k7p	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	qNAwmaka	ऋणात्मक	JJ	5	mod	-	-
+5	saMwulana	संतुलन	NN	6	k1	-	-
+6	howA	होता	VM	0	main	-	-
+7	hE	है	VAUX	6	lwg__vaux	-	-
+8	.	।	SYM	6	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0099>
+1	ciwra	चित्र	NN	13	k2	-	-
+2	9.3	9.3	NNP	13	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	pqWvI	पृथ्वी	NNC	5	pof__cn	18	mod
+5	vAyumaMdala-waMwra	वायुमंडल-तंत्र	NN	8	r6	18	head
+6	ke	के	PSP	5	lwg__psp	17	begin
+7	SuxXa	शुद्ध	JJ	8	mod	-	-
+8	vikiraNa	विकिरण	NN	13	k7	-	-
+9	meM	में	PSP	8	lwg__psp	-	-
+10	akRAMSIya	अक्षांशीय	JJ	11	mod	-	-
+11	BinnawA	भिन्नता	NN	13	k2	-	-
+12	ko	को	PSP	11	lwg__psp	-	-
+13	xarSAyA	दर्शाया	VM	0	main	-	-
+14	gayA	गया	VAUX	13	lwg__vaux	-	-
+15	hE	है	VAUX	14	lwg__vaux_cont	-	-
+16	.	।	SYM	13	rsym	-	-
+17	[ne_1]	loc_1	-	5	lwg__psp	-	-
+18	[nc_1]	[nc_1]	-	8	r6	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0100a>
+1	yaha	यह	DEM	2	dem	-	-
+2	ciwra	चित्र	NN	3	k1	-	-
+3	xarSAwA	दर्शाता	VM	0	main	-	-
+4	hE	है	VAUX	3	lwg__vaux	-	-
+5	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0100b>
+1	SuxXa	शुद्ध	JJ	2	mod	-	-
+2	vikiraNa	विकिरण	NN	0	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	aXiSeRa	अधिशेष	NN	12	mod	-	-
+5	40°	40°	NNPC	0	pof__cn	15	begin
+6	uwwarI	उत्तरी	NNPC	12	k7p	14	begin
+7	evaM	एवं	CC	12	k7p	-	-
+8	xakRiNI	दक्षिणी	JJ	9	mod	-	-
+9	akRAMSoM	अक्षांशों	NN	12	k7p	16	op2
+10	meM	में	PSP	9	lwg__psp	-	-
+11	aXika	अधिक	QF	12	k1s	-	-
+12	hE	है	VM	0	main	-	-
+13	.	।	SYM	12	rsym	-	-
+14	[ne_1]	loc_1	-	12	k7p	16	op1
+15	[ne_1]	[ne_1]	-	0	pof__cn	-	-
+16	[conj_1]	[conj_1]	-	12	k7p	-	-
+</sentence_id>
+
+
+<sentence_id=Geo_ncert_11stnd_9ch-bk1_0100c>
+1	XruvoM	ध्रुवों	NN	5	rsm	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	pAsa	पास	NST	1	k7p	-	-
+4	kamI	कमी	NN	5	pof	9	kriyAmUla
+5	pAI	पाई	VM	0	main	9	verbalizer
+6	jAwI	जाती	VAUX	5	lwg__vaux	9	verbalizer
+7	hE	है	VAUX	6	lwg__vaux_cont	9	verbalizer
+8	.	।	SYM	5	rsym	-	-
 9	[cp_1]	[cp_1]	-	0	main	-	-
-</sentence_id>
-
-
-<sentence_id=58>
-1	wumane	तुमने	PRP	6	k1	-	-
-2	kisake	किसके	WQ	6	vmod	-	-
-3	sAWa	साथ	NST	2	lwg__psp	-	-
-4	yaha	यह	DEM	5	nmod__adj	-	-
-5	yAwrA	यात्रा	NN	6	pof	9	kriyAmUla
-6	kI	की	VM	0	main	9	verbalizer
-7	WI	थी	VAUX	6	lwg__vaux	9	verbalizer
-8	?	?	SYM	6	rsym	-	-
-9	[cp_1]	[cp_1]	-	0	main	-	-
-</sentence_id>
-
-
-<sentence_id=59>
-1	kOna	कौन	WQ	6	k1	-	-
-2	sabase	सबसे	JJ	3	nmod__adj	-	-
-3	pahale	पहले	NST	6	k7t	-	-
-4	apanI	अपनी	PRP	5	r6	-	-
-5	bAwa	बात	NN	6	k2	-	-
-6	kahegA	कहेगा	VM	0	main	-	-
-7	?	?	SYM	6	rsym	-	-
-</sentence_id>
-
-
-<sentence_id=60>
-1	kyA	क्या	WQ	9	adv	-	-
-2	kisI	किसी	PRP	9	k1	-	-
-3	ne	ने	PSP	2	lwg__psp	-	-
-4	use	उसे	PRP	9	k2	-	-
-5	yaha	यह	DEM	6	nmod__adj	-	-
-6	kAma	काम	NN	7	k2	-	-
-7	karane	करने	VM	9	k5	-	-
-8	se	से	PSP	7	lwg__psp	-	-
-9	rokA	रोका	VM	0	main	-	-
-10	?	?	SYM	9	rsym	-	-
 </sentence_id>
 
