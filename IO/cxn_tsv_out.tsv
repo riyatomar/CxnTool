@@ -498,29 +498,30 @@
 6	ke	के	PSP	5	lwg__psp	-	-
 7	xOrAna	दौरान	NST	5	k7p	-	-
 8	pqWvI	पृथ्वी	NNP	0	k7p	28	begin
-9	4	4	NNPC	10	pof__cn	31	component_of
-10	julAI	जुलाई	NNP	0	k7t	31	component_of
+9	4	4	NNPC	10	pof__cn	32	component_of
+10	julAI	जुलाई	NNP	0	k7t	32	component_of
 11	ko	को	PSP	10	lwg__psp	-	-
 12	sUrya	सूर्य	NNP	15	mod	29	begin
 13	se	से	PSP	12	lwg__psp	-	-
 14	sabase	सबसे	INTF	15	intf	-	-
-15	xUra	दूर	NST	0	main	32	op1
+15	xUra	दूर	NST	0	main	33	op1
 16	arWAw	अर्थात्	CC	0	main	-	-
 17	15	15	QCC	18	mod	-	-
 18	karoda	करोड	QC	24	k1	-	-
 19	,	,	SYM	18	rsym	-	-
 20	20	20	QCC	21	mod	-	-
-21	lAKa	लाख	QC	22	card	-	-
-22	kilomItara	किलोमीटर	NN	24	k7p	-	-
+21	lAKa	लाख	QC	22	card	31	count
+22	kilomItara	किलोमीटर	NN	24	k7p	31	unit
 23	xUra	दूर	NST	22	k7p	-	-
-24	howI	होती	VM	0	main	32	op2
+24	howI	होती	VM	0	main	33	op2
 25	hE	है	VAUX	24	lwg__vaux	-	-
 26	.	।	SYM	16	rsym	-	-
 27	[ne_1]	loc_1	-	0	rd	-	-
 28	[ne_2]	loc_2	-	0	k7p	-	-
 29	[ne_3]	loc_3	-	15	mod	-	-
 30	[ne_4]	[ne_4]	-	0	k7t	-	-
-31	[calendar_1]	[calendar_1]	-	0	k7t	-	-
+31	[meas_1]	[meas_1]	-	24	k7p	-	-
+32	[calendar_1]	[calendar_1]	-	0	k7t	-	-
 </sentence_id>
 
 
@@ -540,29 +541,30 @@
 
 
 <sentence_id=Geo_ncert_11stnd_9ch-bk1_0022>
-1	3	3	NNPC	2	pof__cn	23	component_of
-2	janavarI	जनवरी	NNP	0	k7t	23	component_of
+1	3	3	NNPC	2	pof__cn	24	component_of
+2	janavarI	जनवरी	NNP	0	k7t	24	component_of
 3	ko	को	PSP	2	lwg__psp	-	-
 4	pqWvI	पृथ्वी	NNC	5	pof__cn	20	begin
 5	sUrya	सूर्य	NN	0	mod	21	begin
 6	se	से	PSP	5	lwg__psp	-	-
 7	sabase	सबसे	JJ	8	mod	-	-
-8	nikata	निकट	NST	0	main	24	op1
+8	nikata	निकट	NST	0	main	25	op1
 9	arWAw	अर्थात्	CC	0	main	-	-
 10	14	14	QCC	11	mod	-	-
 11	karoda	करोड	QC	17	k1	-	-
 12	,	,	SYM	11	rsym	-	-
 13	70	70	QCC	14	mod	-	-
-14	lAKa	लाख	QC	15	card	-	-
-15	kilomItara	किलोमीटर	NN	17	k7p	-	-
+14	lAKa	लाख	QC	15	card	23	count
+15	kilomItara	किलोमीटर	NN	17	k7p	23	unit
 16	xUra	दूर	NST	15	k7p	-	-
-17	howI	होती	VM	0	main	24	op2
+17	howI	होती	VM	0	main	25	op2
 18	hE	है	VAUX	17	lwg__vaux	-	-
 19	.	।	SYM	9	rsym	-	-
 20	[ne_1]	loc_1	-	5	pof__cn	-	-
 21	[ne_2]	loc_2	-	0	mod	-	-
 22	[ne_3]	[ne_3]	-	0	k7t	-	-
-23	[calendar_1]	[calendar_1]	-	0	k7t	-	-
+23	[meas_1]	[meas_1]	-	17	k7p	-	-
+24	[calendar_1]	[calendar_1]	-	0	k7t	-	-
 </sentence_id>
 
 

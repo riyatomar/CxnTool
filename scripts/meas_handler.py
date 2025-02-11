@@ -9,7 +9,7 @@ def handle_measurement_units(parser_output, new_entries, meas_count, meas_UNITS)
                 prev_item = parser_output[i - 1]
                 prev_word = prev_item.get('wx_word', '')
 
-                if re.search(r'\d', prev_word):
+                if re.search(r'\d', prev_word) or prev_item.get('pos_tag', '') == 'QC':
                     meas_index = len(parser_output) + len(new_entries) + 1
                     update_cnx_value(item, meas_index, f'unit')
                     update_cnx_value(prev_item, meas_index, f'count')
