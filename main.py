@@ -4,6 +4,7 @@ from scripts.file_utils import read_json_from_file, write_json_to_file
 from scripts.text_utils import devanagari_to_wx
 from scripts.ner_handler import handle_ner_annotations
 from scripts.nc_handler import handle_mod_and_head
+from scripts.compound_handler import handle_compound
 from scripts.cp_handler import handle_pof_rvks_rbk
 from scripts.meas_handler import handle_measurement_units
 from scripts.calendar_handler import handle_calendaric_units
@@ -26,7 +27,7 @@ def modify_json_data(json_data, ner_data):
         )
 
         # Reinitialize counters and temporary lists for the current sentence
-        span_count = nc_count = cp_count = disjunct_count = conj_count = spatial_count = meas_count = calendaric_count = 1
+        compound_count = span_count = nc_count = cp_count = disjunct_count = conj_count = spatial_count = meas_count = calendaric_count = 1
         ne_count = 0
         new_entries = []
 
@@ -38,10 +39,10 @@ def modify_json_data(json_data, ner_data):
         # Process annotations and relations for the current sentence
         parser_output, ne_count, new_entries = handle_ner_annotations(ner_annotations, parser_output, ne_count, new_entries)
         nc_count, ne_count = handle_mod_and_head(parser_output, new_entries, nc_count, ne_count) #
+        compound_count = handle_compound(parser_output, new_entries, compound_count)
         cp_count = handle_pof_rvks_rbk(parser_output, new_entries, cp_count)
         meas_count = handle_measurement_units(parser_output, new_entries, meas_count, MEAS_UNITS)
         calendaric_count = handle_calendaric_units(parser_output, new_entries, calendaric_count, CALENDARIC_UNITS)
-        # spatial_count = handle_spatial_relations(parser_output, new_entries, spatial_count)
         spatial_count = handle_spatial_relations(parser_output, new_entries, spatial_count, ner_annotations)
         span_count = handle_spans(parser_output, new_entries, span_count)
         conj_count, disjunct_count = handle_conj_disjunct(parser_output, new_entries, conj_count, disjunct_count, CONJ_LIST, DISJUNCT_LIST)
