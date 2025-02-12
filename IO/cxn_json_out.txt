@@ -168,7 +168,7 @@
                     "original_word": "आर्द्र",
                     "pos_tag": "NN",
                     "wx_word": "Arxra",
-                    "cnx_index": 21,
+                    "cnx_index": 20,
                     "cnx_component": "op1"
                 },
                 {
@@ -186,7 +186,7 @@
                     "original_word": "उष्ण",
                     "pos_tag": "JJ",
                     "wx_word": "uRNa",
-                    "cnx_index": 21,
+                    "cnx_index": 20,
                     "cnx_component": "op2"
                 },
                 {
@@ -204,8 +204,8 @@
                     "original_word": "भूमध्य",
                     "pos_tag": "NNPC",
                     "wx_word": "BUmaXya",
-                    "cnx_index": 19,
-                    "cnx_component": "mod"
+                    "cnx_index": 17,
+                    "cnx_component": "begin"
                 },
                 {
                     "dependency_relation": "mod",
@@ -213,9 +213,7 @@
                     "index": 6,
                     "original_word": "रेखीय",
                     "pos_tag": "JJ",
-                    "wx_word": "reKIya",
-                    "cnx_index": 19,
-                    "cnx_component": "head"
+                    "wx_word": "reKIya"
                 },
                 {
                     "dependency_relation": "k7",
@@ -278,7 +276,7 @@
                     "original_word": "सघन",
                     "pos_tag": "JJ",
                     "wx_word": "saGana",
-                    "cnx_index": 20,
+                    "cnx_index": 19,
                     "cnx_component": "kriyAmUla"
                 },
                 {
@@ -288,7 +286,7 @@
                     "original_word": "होती",
                     "pos_tag": "VM",
                     "wx_word": "howI",
-                    "cnx_index": 20,
+                    "cnx_index": 19,
                     "cnx_component": "verbalizer"
                 },
                 {
@@ -298,7 +296,7 @@
                     "original_word": "हैं",
                     "pos_tag": "VAUX",
                     "wx_word": "hEM",
-                    "cnx_index": 20,
+                    "cnx_index": 19,
                     "cnx_component": "verbalizer"
                 },
                 {
@@ -325,22 +323,15 @@
                 },
                 {
                     "index": 19,
-                    "original_word": "[compound_1]",
-                    "wx_word": "[compound_1]",
-                    "dependency_relation": "mod",
-                    "head_index": "7"
-                },
-                {
-                    "index": 20,
                     "original_word": "[cp_1]",
                     "wx_word": "[cp_1]",
                     "dependency_relation": "main",
                     "head_index": "0",
-                    "cnx_index": 21,
+                    "cnx_index": 20,
                     "cnx_component": "op3"
                 },
                 {
-                    "index": 21,
+                    "index": 20,
                     "original_word": "[conj_1]",
                     "wx_word": "[conj_1]",
                     "dependency_relation": "main",
@@ -400,7 +391,7 @@
                     "original_word": "वायुमंडल",
                     "pos_tag": "NN",
                     "wx_word": "vAyumaMdala",
-                    "cnx_index": 25,
+                    "cnx_index": 26,
                     "cnx_component": "op1"
                 },
                 {
@@ -418,7 +409,7 @@
                     "original_word": "जलमंडल",
                     "pos_tag": "NN",
                     "wx_word": "jalamaMdala",
-                    "cnx_index": 25,
+                    "cnx_index": 26,
                     "cnx_component": "op2"
                 },
                 {
@@ -515,7 +506,9 @@
                     "index": 20,
                     "original_word": "बदलाव",
                     "pos_tag": "NN",
-                    "wx_word": "baxalAva"
+                    "wx_word": "baxalAva",
+                    "cnx_index": 25,
+                    "cnx_component": "mod"
                 },
                 {
                     "dependency_relation": "k1s",
@@ -523,7 +516,9 @@
                     "index": 21,
                     "original_word": "रहित",
                     "pos_tag": "JJ",
-                    "wx_word": "rahiwa"
+                    "wx_word": "rahiwa",
+                    "cnx_index": 25,
+                    "cnx_component": "head"
                 },
                 {
                     "dependency_relation": "ccof",
@@ -551,6 +546,13 @@
                 },
                 {
                     "index": 25,
+                    "original_word": "[compound_1]",
+                    "wx_word": "[compound_1]",
+                    "dependency_relation": "k1s",
+                    "head_index": "22"
+                },
+                {
+                    "index": 26,
                     "original_word": "[conj_1]",
                     "wx_word": "[conj_1]",
                     "dependency_relation": "r6",

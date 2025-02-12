@@ -21,27 +21,26 @@
 
 
 <sentence_id=Geo_ncert_11stnd_6ch-bk1_0284a>
-1	Arxra	आर्द्र	NN	0	main	21	op1
+1	Arxra	आर्द्र	NN	0	main	20	op1
 2	,	,	SYM	1	rsym	-	-
-3	uRNa	उष्ण	JJ	0	main	21	op2
+3	uRNa	उष्ण	JJ	0	main	20	op2
 4	evaM	एवं	CC	0	main	-	-
-5	BUmaXya	भूमध्य	NNPC	7	pof__cn	19	mod
-6	reKIya	रेखीय	JJ	7	mod	19	head
+5	BUmaXya	भूमध्य	NNPC	7	pof__cn	17	begin
+6	reKIya	रेखीय	JJ	7	mod	-	-
 7	jalavAyu	जलवायु	NN	14	k7	17	inside
 8	meM	में	PSP	7	lwg__psp	-	-
 9	bEkteriyala	बैक्टेरियल	NNPC	10	pof__cn	18	begin
 10	vqxXi	वृद्धि	NN	11	ccof	18	inside
 11	evaM	एवं	CC	14	k1	-	-
 12	kriyAez	क्रियाएँ	NN	11	ccof	-	-
-13	saGana	सघन	JJ	14	pof	20	kriyAmUla
-14	howI	होती	VM	0	main	20	verbalizer
-15	hEM	हैं	VAUX	14	lwg__vaux	20	verbalizer
+13	saGana	सघन	JJ	14	pof	19	kriyAmUla
+14	howI	होती	VM	0	main	19	verbalizer
+15	hEM	हैं	VAUX	14	lwg__vaux	19	verbalizer
 16	.	।	SYM	4	rsym	-	-
 17	[ne_1]	[ne_1]	-	14	k7	-	-
 18	[ne_2]	[ne_2]	-	11	ccof	-	-
-19	[compound_1]	[compound_1]	-	7	mod	-	-
-20	[cp_1]	[cp_1]	-	0	main	21	op3
-21	[conj_1]	[conj_1]	-	0	main	-	-
+19	[cp_1]	[cp_1]	-	0	main	20	op3
+20	[conj_1]	[conj_1]	-	0	main	-	-
 </sentence_id>
 
 
@@ -51,9 +50,9 @@
 3	karoda	करोड	QC	4	card	-	-
 4	varRoM	वर्षों	NN	0	k7t	-	-
 5	meM	में	PSP	4	lwg__psp	-	-
-6	vAyumaMdala	वायुमंडल	NN	10	r6	25	op1
+6	vAyumaMdala	वायुमंडल	NN	10	r6	26	op1
 7	va	व	CC	10	r6	-	-
-8	jalamaMdala	जलमंडल	NN	10	r6	25	op2
+8	jalamaMdala	जलमंडल	NN	10	r6	26	op2
 9	kI	की	PSP	8	lwg__psp	-	-
 10	saMracanA	संरचना	NN	0	k7	-	-
 11	meM	में	PSP	10	lwg__psp	-	-
@@ -65,12 +64,13 @@
 17	eka	एक	QC	0	mod	-	-
 18	jEsA	जैसा	PSP	17	lwg__psp	-	-
 19	arWAw	अर्थात्	CC	0	main	-	-
-20	baxalAva	बदलाव	NN	22	k1	-	-
-21	rahiwa	रहित	JJ	22	k1s	-	-
+20	baxalAva	बदलाव	NN	22	k1	25	mod
+21	rahiwa	रहित	JJ	22	k1s	25	head
 22	rahA	रहा	VAUX	19	ccof	-	-
 23	hE	है	VAUX	22	lwg__vaux_cont	-	-
 24	.	।	SYM	19	rsym	-	-
-25	[conj_1]	[conj_1]	-	10	r6	-	-
+25	[compound_1]	[compound_1]	-	22	k1s	-	-
+26	[conj_1]	[conj_1]	-	10	r6	-	-
 </sentence_id>
 
 
