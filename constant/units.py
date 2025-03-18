@@ -3,7 +3,7 @@ MEAS_UNITS = ["kilomItara", "mItara", "kilo", "seMtImItara", "milImItara", "lIta
             'milIlItara', 'kilolItara', 'grAma', 'kilogrAma', 'milIgrAma', 'tana',
             'sekaMda', 'minata', 'GaMtA', 'xina', 'sapwAha', 'mahInA', 'sAla', 'varga',
             'mItara', 'varga', 'seMtImItara', 'hekteyara', 'ekadZa', 'selsiyasa',
-            'PZerenahAita', 'kelvina']
+            'PZerenahAita', 'kelvina', 'maMjileM']
 
 CALENDARIC_UNITS = ['janavarI', 'PZaravarI', 'mArca', 'aprEla', 'maI', 'jUna',
                 'julAI', 'agaswa', 'siwaMbara', 'akwUbara', 'navaMbara', 'xisaMbara']

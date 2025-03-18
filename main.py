@@ -54,9 +54,9 @@ def modify_json_data(json_data, ner_data):
 
 
 if __name__ == "__main__":
-    ner_file_path = 'IO/ner_output.txt'
-    parser_file_path = 'IO/parser_input.txt'
-    output_file_path = 'IO/cxn_json_out.txt'
+    ner_file_path = 'IO/ner.json'
+    parser_file_path = 'IO/parser.json'
+    output_file_path = 'IO/cxn_output.json'
 
     ner_data = read_json_from_file(ner_file_path)
     parser_data = read_json_from_file(parser_file_path)

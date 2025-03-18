@@ -1,0 +1,3545 @@
+{
+    "data": [
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "निजता"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "व्यक्तिगत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उपयोग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गोपनीयता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "I-ORG",
+                    "word": "अधिकरण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बारे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "क्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नीति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "निजता , व्यक्तिगत स्वास्थ्य जानकारी के उपयोग और गोपनीयता के अधिकरण के बारे में क्या नीति है ?",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_041"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "हम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "व्यक्तिगत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निजी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गोपनीय"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रखने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पूरी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोशिश"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करेंगे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "हम आपकी व्यक्तिगत जानकारी को निजी और गोपनीय रखने की पूरी कोशिश करेंगे ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_042"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "हालांकि"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "कानूनन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आवश्यक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "व्यक्तिगत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "खुलासा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "हालांकि , कानूनन आवश्यक होने पर आपकी व्यक्तिगत जानकारी का खुलासा किया जा सकता है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_043"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "परिणाम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अन्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "डॉक्टरों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पेशेवरों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सूचित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बैठकों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दिखाए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस अध्ययन के परिणाम अन्य डॉक्टरों और स्वास्थ्य पेशेवरों को सूचित करने के लिए बैठकों में दिखाए जा सकते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_044a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पत्रिकाओं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रकाशित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "या वह पत्रिकाओं में प्रकाशित किए जा सकते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_044b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "हम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वाले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रकाशन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रस्तुति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहचान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गुप्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रखेंगे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "हम इस अध्ययन से होने वाले किसी भी प्रकाशन या प्रस्तुति में आपकी पहचान गुप्त रखेंगे ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_045"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "वे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "व्यक्ति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संगठन"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संचालित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रिकॉर्ड"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निरीक्षण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "/"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कॉपी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "वे व्यक्ति या संगठन , इस शोध को संचालित करने के लिए अपने शोध रिकॉर्ड का निरीक्षण और / या कॉपी कर सकते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_046a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "डेटा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "विश्लेषण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शामिल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "डेटा का विश्लेषण करने में शामिल होते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_046b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "डेटा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गुणवत्ता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आश्वासन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "और डेटा की गुणवत्ता का आश्वासन देते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_046c"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-ORG",
+                    "word": "सीएमसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "वेल्लोर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अनुसंधान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "टीम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सदस्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "सीएमसी , वेल्लोर में अनुसंधान टीम के सदस्य ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_047F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "चिकित्सा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर्मचारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संबंधित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देखभाल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रत्यक्ष"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अप्रत्यक्ष"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रूप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शामिल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "चिकित्सा कर्मचारी जो इस शोध से संबंधित आपकी देखभाल में प्रत्यक्ष या अप्रत्यक्ष रूप से शामिल हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_048F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "जो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लोग"
+                },
+                {
+                    "annotation": "B-ORG",
+                    "word": "सीएमसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "वेल्लोर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अनुसंधान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देखभाल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गतिविधियों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देखरेख"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मूल्यांकन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "जो लोग सीएमसी , वेल्लोर में अनुसंधान और देखभाल गतिविधियों की देखरेख या मूल्यांकन करते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_049F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "स्वतंत्र"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मान्यता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्राप्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "/"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अनुसंधान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निगरानी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वाली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "एजेंसियों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संगठनों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लोग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "स्वतंत्र मान्यता प्राप्त और / या अनुसंधान की निगरानी करने वाली एजेंसियों और संगठनों के लोग ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_050F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "कानूनन"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "B-ORG",
+                    "word": "सीएमसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "B-LOC",
+                    "word": "वेल्लोर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिये"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सुरक्षित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रखना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आवश्यक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "कानूनन , सीएमसी , वेल्लोर के लिये आपकी स्वास्थ्य जानकारी को सुरक्षित रखना आवश्यक है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_051"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "अनुसंधान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर्मचारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "केवल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ऊपर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सूचीबद्ध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "समूहों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ही"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहुंचने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अनुमति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "अनुसंधान कर्मचारी , केवल ऊपर सूचीबद्ध समूहों को ही आपकी स्वास्थ्य जानकारी तक पहुंचने की अनुमति देगा ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_052"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दस्तावेज"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हस्ताक्षर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करके"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "B-ORG",
+                    "word": "विभाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपनी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उपयोग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "/"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अधिकृत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रहे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस दस्तावेज पर हस्ताक्षर करके , आप विभाग को इस शोध के लिए अपनी स्वास्थ्य जानकारी का उपयोग करने और / या जारी करने के लिए अधिकृत कर रहे हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_053"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "एकत्र"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नष्ट"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निर्धारित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "समय"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "एकत्र की गई जानकारी को नष्ट करने के लिए कोई निर्धारित समय नहीं है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_054"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "डेटा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उपयोग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "साझा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अनुमति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अनुसंधान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "समाप्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रहेगी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "जानकारी और डेटा का उपयोग और साझा करने की आपकी अनुमति अनुसंधान समाप्त होने तक जारी रहेगी ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_055a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "यह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "समाप्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होगी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "और यह समाप्त नहीं होगी ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_055b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "शोधकर्ता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वर्षों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "डेटा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "विश्लेषण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रखते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "शोधकर्ता कई वर्षों तक डेटा का विश्लेषण करना जारी रखते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_056a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "यह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संभव"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "और यह जानना संभव नहीं है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_056b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "कि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कब"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पूरा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "कि वह कब तक पूरा कर लिया जाएगा ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_056c"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "दाता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रूप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मेरे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अधिकार"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दायित्व"
+                },
+                {
+                    "annotation": "O",
+                    "word": "क्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "दाता के रूप में मेरे अधिकार और दायित्व क्या हैं ?",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_057"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "यदि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "एक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दाता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रूप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निर्णय"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "यदि आप एक दाता के रूप में भाग लेने का निर्णय लेते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_058a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "तो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वयं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चिकित्सीय"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देखभाल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रभावित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हुए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बिना"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपनी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सहमति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वापस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वतंत्र"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तो आप स्वयं के या आपकी चिकित्सीय देखभाल के प्रभावित हुए बिना , अपनी सहमति को वापस लेने के लिए स्वतंत्र हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_058b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बदल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "आप अपना मन बदल सकते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_059a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "समय"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपनी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उपयोग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रकटीकरण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपना"
+                },
+                {
+                    "annotation": "B-ORG",
+                    "word": "अधिकरण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वापस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "और किसी भी समय अपनी स्वास्थ्य जानकारी के उपयोग और प्रकटीकरण का अपना अधिकरण वापस ले सकते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_059b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "भले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ही"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अधिकरण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वापस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लें"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "भले ही आप अपना अधिकरण वापस ले लें ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_060a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "फिर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वर्तमान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अखंडता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "विश्वसनीयता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बनाए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रखने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आवश्यक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वास्थ्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उपयोग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "खुलासा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "जो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हमने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपके"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बारे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ही"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्राप्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ली"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "फिर भी हम वर्तमान शोध की अखंडता या विश्वसनीयता को बनाए रखने के लिए आवश्यक स्वास्थ्य जानकारी का उपयोग और खुलासा कर सकते हैं , जो हमने आपके बारे में पहले ही प्राप्त कर ली है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_060b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "क्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मुझे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रकार"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मूल्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "क्या मुझे किसी प्रकार का मूल्य देना होगा ?",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_061"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "आपके"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रक्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संग्रह"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रसंस्करण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अन्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गतिविधियों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शामिल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लागत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हमारे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "द्वारा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वहन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएगी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "आपके रक्त के संग्रह , प्रसंस्करण और अन्य गतिविधियों में शामिल लागत हमारे द्वारा वहन की जाएगी ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_062"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "परियोजना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपको"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "राशि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भुगतान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस परियोजना में भाग लेने के लिए आपको किसी भी राशि का भुगतान नहीं करना है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_063"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "नमूनों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "डेटा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोडिंग"
+                },
+                {
+                    "annotation": "O",
+                    "word": ":"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "नमूनों या डेटा की कोडिंग :",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_064H"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्राप्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सभी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नमूनों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "एक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोड"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नंबर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दिया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस अध्ययन के लिए प्राप्त सभी जानकारी और नमूनों को एक कोड नंबर दिया जाएगा ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_065"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "अस्पताल"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "मेडिकल"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रिकॉर्ड"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नंबर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किसी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहचान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संख्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जैसे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नाम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "महत्वपूर्ण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संख्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "उनसे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आसानी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहचान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जोडने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नमूनों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कुछ"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिखा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "अस्पताल , मेडिकल रिकॉर्ड नंबर या किसी भी पहचान संख्या जैसे कि कोई नाम या महत्वपूर्ण संख्या , उनसे आसानी से आपकी पहचान जोडने के लिए नमूनों पर कुछ नहीं लिखा जाएगा ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_066"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "दाता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "पुन"
+                },
+                {
+                    "annotation": "O",
+                    "word": ":"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संपर्क"
+                },
+                {
+                    "annotation": "O",
+                    "word": ":"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "दाता से पुन : संपर्क :",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_067F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "एक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "दाता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रूप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "यदि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आवश्यक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "एक दाता के रूप में , यदि आवश्यक हो ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_068a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "तो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपसे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भविष्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "फिर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संपर्क"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तो आपसे भविष्य में फिर से संपर्क किया जा सकता है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_068b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "हितों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "टकराव"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "हितों का टकराव ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_069F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "खुलासा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हितों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संभावित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संघर्ष"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "खुलासा करने के लिए हितों का कोई संभावित संघर्ष नहीं है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_070"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "सहमति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वापस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "सहमति को वापस लेना ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_071F"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "आपकी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भागीदारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वैच्छिक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "आपकी भागीदारी स्वैच्छिक है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_072"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "यदि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहले"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सहमत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "यदि आप पहले भाग लेने के लिए सहमत हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_073a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "फिर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बदलते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "और फिर अपना मन बदलते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_073b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "तो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आप"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपनी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सहमति"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वापस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अपनी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रत्यक्ष"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भागीदारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बंद"
+                },
+                {
+                    "annotation": "O",
+                    "word": "करने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "स्वतंत्र"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तो आप अपनी सहमति वापस लेने और अपनी प्रत्यक्ष भागीदारी को बंद करने के लिए स्वतंत्र हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_073c"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "हालांकि"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "दान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बाद"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "हम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ऊतक"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "ऊतक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पृथक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोशिकाओं"
+                },
+                {
+                    "annotation": "O",
+                    "word": ","
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "O",
+                    "word": "/"
+                },
+                {
+                    "annotation": "O",
+                    "word": "या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पृथक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोशिकाओं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अन्य"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उत्पादों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वापस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निम्नलिखित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कारणों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सक्षम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "हालांकि , दान के बाद , हम ऊतक , ऊतक से पृथक की गई कोशिकाओं , और / या पृथक कोशिकाओं से बने अन्य उत्पादों को वापस देने में निम्नलिखित कारणों से सक्षम नहीं हो सकते हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_074"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "व्यक्तिगत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पहचान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जानकारी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बिना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संग्रहीत"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सकती"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "व्यक्तिगत पहचान की जानकारी के बिना संग्रहीत की गई हो सकती हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_075"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "जीन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "संपादन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निर्माणों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "की"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रभावकारिता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "परीक्षण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोधकर्ताओं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रदान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किये"
+                },
+                {
+                    "annotation": "O",
+                    "word": "गये"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "जीन संपादन निर्माणों की प्रभावकारिता के परीक्षण के लिए शोधकर्ताओं को प्रदान किये गये हों ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_076"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "क्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मुझे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भुगतान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "क्या मुझे इस अध्ययन में भाग लेने के लिए भुगतान किया जाएगा ?",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_077"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लिए"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपको"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भुगतान"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नहीं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जाएगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस अध्ययन में भाग लेने के लिए आपको कोई भुगतान नहीं किया जाएगा ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_078"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शोध"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वित्तपोषण"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कौन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रहा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस शोध का वित्तपोषण कौन कर रहा है ?",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_079"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "इस"
+                },
+                {
+                    "annotation": "O",
+                    "word": "परियोजना"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "B-ORG",
+                    "word": "भारत"
+                },
+                {
+                    "annotation": "I-ORG",
+                    "word": "सरकार"
+                },
+                {
+                    "annotation": "I-ORG",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जैव"
+                },
+                {
+                    "annotation": "B-ORG",
+                    "word": "प्रौद्योगिकी"
+                },
+                {
+                    "annotation": "I-ORG",
+                    "word": "विभाग"
+                },
+                {
+                    "annotation": "O",
+                    "word": "द्वारा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वित्त"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पोषित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "जा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "रहा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "इस परियोजना को भारत सरकार के जैव प्रौद्योगिकी विभाग द्वारा वित्त पोषित किया जा रहा है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_080"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "अगर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "मेरे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "पास"
+                },
+                {
+                    "annotation": "O",
+                    "word": "अध्ययन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "के"
+                },
+                {
+                    "annotation": "O",
+                    "word": "बारे"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कोई"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रश्न"
+                },
+                {
+                    "annotation": "O",
+                    "word": "है"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "अगर मेरे पास अध्ययन के बारे में कोई प्रश्न है ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_081a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "तो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "क्या"
+                },
+                {
+                    "annotation": "O",
+                    "word": "होगा"
+                },
+                {
+                    "annotation": "O",
+                    "word": "?"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तो क्या होगा ?",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_081b"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "यदि"
+                },
+                {
+                    "annotation": "O",
+                    "word": "आपके"
+                },
+                {
+                    "annotation": "O",
+                    "word": "प्रश्न"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हैं"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "यदि आपके प्रश्न हैं ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_082a"
+        },
+        {
+            "annotation": [
+                {
+                    "annotation": "O",
+                    "word": "तो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "निम्नलिखित"
+                },
+                {
+                    "annotation": "O",
+                    "word": "चिकित्सकों"
+                },
+                {
+                    "annotation": "O",
+                    "word": "को"
+                },
+                {
+                    "annotation": "O",
+                    "word": "फोन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "कीजिये"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "तो निम्नलिखित चिकित्सकों को फोन कीजिये ।",
+            "sentence_id": "sept-7-2022ICF-HD_source_hin_082b"
+        }
+    ],
+    "response_for": "USR"
+}

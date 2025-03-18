@@ -1,0 +1,1109 @@
+<sentence_id=sept-7-2022ICF-HD_source_hin_041>
+1	nijawA	निजता	NN	11	r6	20	op1
+2	,	,	SYM	1	rsym	-	-
+3	vyakwigawa	व्यक्तिगत	JJ	5	mod	-	-
+4	svAsWya	स्वास्थ्य	NNC	5	pof__cn	19	mod
+5	jAnakArI	जानकारी	NN	7	r6	19	head
+6	ke	के	PSP	5	lwg__psp	-	-
+7	upayoga	उपयोग	NN	11	r6	20	op2
+8	Ora	और	CC	11	r6	-	-
+9	gopanIyawA	गोपनीयता	NN	11	r6	20	op3
+10	ke	के	PSP	9	lwg__psp	-	-
+11	aXikaraNa	अधिकरण	NN	17	k7	-	-
+12	ke	के	PSP	11	lwg__psp	-	-
+13	bAre	बारे	PSP	11	lwg__psp	-	-
+14	meM	में	PSP	11	lwg__psp	-	-
+15	kyA	क्या	WQ	16	mod__wq	-	-
+16	nIwi	नीति	NN	17	k1	-	-
+17	hE	है	VM	0	main	-	-
+18	?	?	SYM	17	rsym	-	-
+19	[nc_1]	[nc_1]	-	7	r6	-	-
+20	[conj_1]	[conj_1]	-	11	r6	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_042>
+1	hama	हम	PRP	13	k1	-	-
+2	ApakI	आपकी	PRP	4	r6	-	-
+3	vyakwigawa	व्यक्तिगत	JJ	4	mod	-	-
+4	jAnakArI	जानकारी	NN	9	k2	-	-
+5	ko	को	PSP	4	lwg__psp	-	-
+6	nijI	निजी	JJ	9	k2s	16	op1
+7	Ora	और	CC	9	k2s	-	-
+8	gopanIya	गोपनीय	JJ	9	k2s	16	op2
+9	raKane	रखने	VM	12	k2	-	-
+10	kI	की	PSP	9	lwg__psp	-	-
+11	pUrI	पूरी	JJ	12	k2	-	-
+12	koSiSa	कोशिश	NN	13	pof	15	kriyAmUla
+13	kareMge	करेंगे	VM	0	main	15	verbalizer
+14	.	।	SYM	13	rsym	-	-
+15	[cp_1]	[cp_1]	-	0	main	-	-
+16	[conj_1]	[conj_1]	-	9	k2s	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_043>
+1	kAnUnana	कानूनन	RB	3	krvn	-	-
+2	AvaSyaka	आवश्यक	JJ	3	pof	15	kriyAmUla
+3	hone	होने	VM	10	rblsk	15	verbalizer
+4	para	पर	PSP	3	lwg__psp	-	-
+5	ApakI	आपकी	PRP	7	r6	-	-
+6	vyakwigawa	व्यक्तिगत	JJ	7	mod	-	-
+7	jAnakArI	जानकारी	NN	9	k2	-	-
+8	kA	का	PSP	7	lwg__psp	-	-
+9	KulAsA	खुलासा	NN	10	pof	16	kriyAmUla
+10	kiyA	किया	VM	0	main	16	verbalizer
+11	jA	जा	VAUX	10	lwg__vaux	16	verbalizer
+12	sakawA	सकता	VAUX	11	lwg__vaux_cont	16	verbalizer
+13	hE	है	VAUX	12	lwg__vaux_cont	16	verbalizer
+14	.	।	SYM	10	rsym	-	-
+15	[cp_1]	[cp_1]	-	10	rblsk	-	-
+16	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_044a>
+1	isa	इस	DEM	2	dem	-	-
+2	aXyayana	अध्ययन	NN	4	r6	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	pariNAma	परिणाम	NN	12	k2	24	op1
+5	anya	अन्य	JJ	6	mod	-	-
+6	dOYktaroM	डॉक्टरों	NN	12	k2	24	op2
+7	Ora	और	CC	12	k2	-	-
+8	svAsWya	स्वास्थ्य	NNC	9	pof__cn	22	mod
+9	peSevaroM	पेशेवरों	NN	12	k2	22	head
+10	ko	को	PSP	9	lwg__psp	-	-
+11	sUciwa	सूचित	JJ	12	pof	23	kriyAmUla
+12	karane	करने	VM	17	rt	23	verbalizer
+13	ke	के	PSP	12	lwg__psp	-	-
+14	lie	लिए	PSP	12	lwg__psp	-	-
+15	bETakoM	बैठकों	NN	17	k7	-	-
+16	meM	में	PSP	15	lwg__psp	-	-
+17	xiKAe	दिखाए	VM	0	main	-	-
+18	jA	जा	VAUX	17	lwg__vaux	-	-
+19	sakawe	सकते	VAUX	18	lwg__vaux_cont	-	-
+20	hEM	हैं	VAUX	19	lwg__vaux_cont	-	-
+21	.	।	SYM	17	rsym	-	-
+22	[nc_1]	[nc_1]	-	12	k2	24	op3
+23	[cp_1]	[cp_1]	-	17	rt	-	-
+24	[conj_1]	[conj_1]	-	12	k2	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_044b>
+1	vaha	वह	PRP	5	k1	-	-
+2	pawrikAoM	पत्रिकाओं	NN	5	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	prakASiwa	प्रकाशित	JJ	5	pof	10	kriyAmUla
+5	kie	किए	VM	0	main	10	verbalizer
+6	jA	जा	VAUX	5	lwg__vaux	10	verbalizer
+7	sakawe	सकते	VAUX	6	lwg__vaux_cont	10	verbalizer
+8	hEM	हैं	VAUX	7	lwg__vaux_cont	10	verbalizer
+9	.	।	SYM	5	rsym	-	-
+10	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_045>
+1	hama	हम	PRP	16	k1	-	-
+2	isa	इस	DEM	3	dem	-	-
+3	aXyayana	अध्ययन	NN	5	k5	-	-
+4	se	से	PSP	3	lwg__psp	-	-
+5	hone	होने	VM	9	mod	-	-
+6	vAle	वाले	PSP	5	lwg__psp	-	-
+7	kisI	किसी	PRP	9	mod	-	-
+8	BI	भी	RP	7	lwg__rp	-	-
+9	prakASana	प्रकाशन	NN	16	k2	19	op1
+10	yA	या	CC	16	k2	-	-
+11	praswuwi	प्रस्तुति	NN	16	k2	19	op2
+12	meM	में	PSP	11	lwg__psp	-	-
+13	ApakI	आपकी	PRP	14	r6	-	-
+14	pahacAna	पहचान	NN	16	k2	19	op3
+15	gupwa	गुप्त	JJ	16	pof	18	kriyAmUla
+16	raKeMge	रखेंगे	VM	0	main	18	verbalizer
+17	.	।	SYM	16	rsym	-	-
+18	[cp_1]	[cp_1]	-	0	main	-	-
+19	[disjunct_1]	[disjunct_1]	-	16	k2	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_046a>
+1	ve	वे	PRP	22	k1	29	op1
+2	vyakwi	व्यक्ति	NN	22	k1	29	op2
+3	yA	या	CC	22	k1	-	-
+4	saMgaTana	संगठन	NN	22	k1	29	op3
+5	,	,	SYM	4	rsym	-	-
+6	isa	इस	DEM	7	dem	-	-
+7	SoXa	शोध	NN	10	k2	-	-
+8	ko	को	PSP	7	lwg__psp	-	-
+9	saMcAliwa	संचालित	JJ	10	pof	27	kriyAmUla
+10	karane	करने	VM	22	rt	27	verbalizer
+11	ke	के	PSP	10	lwg__psp	-	-
+12	lie	लिए	PSP	10	lwg__psp	-	-
+13	apane	अपने	PRP	15	r6	-	-
+14	SoXa	शोध	NNC	15	pof__cn	26	mod
+15	rikOYrda	रिकॉर्ड	NN	17	k2	26	head
+16	kA	का	PSP	15	lwg__psp	-	-
+17	nirIkRaNa	निरीक्षण	NN	18	ccof	-	-
+18	Ora	और	CC	20	ccof	-	-
+19	/	/	SYM	18	rsym	-	-
+20	yA	या	CC	22	pof	28	kriyAmUla
+21	kOYpI	कॉपी	NN	20	ccof	30	op1
+22	kara	कर	VM	0	main	28	verbalizer
+23	sakawe	सकते	VAUX	22	lwg__vaux	28	verbalizer
+24	hEM	हैं	VAUX	23	lwg__vaux_cont	28	verbalizer
+25	.	।	SYM	22	rsym	-	-
+26	[nc_1]	[nc_1]	-	17	k2	-	-
+27	[cp_1]	[cp_1]	-	22	rt	-	-
+28	[cp_2]	[cp_2]	-	0	main	-	-
+29	[disjunct_1]	[disjunct_1]	-	22	k1	-	-
+30	[conj_1]	[conj_1]	-	20	ccof	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_046b>
+1	detA	डेटा	NN	3	k2	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	viSleRaNa	विश्लेषण	NN	4	pof	10	kriyAmUla
+4	karane	करने	VM	7	k7	10	verbalizer
+5	meM	में	PSP	4	lwg__psp	-	-
+6	SAmila	शामिल	JJ	7	pof	11	kriyAmUla
+7	howe	होते	VM	0	main	11	verbalizer
+8	hEM	हैं	VAUX	7	lwg__vaux	11	verbalizer
+9	.	।	SYM	7	rsym	-	-
+10	[cp_1]	[cp_1]	-	7	k7	-	-
+11	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_046c>
+1	detA	डेटा	NN	3	r6	-	-
+2	kI	की	PSP	1	lwg__psp	-	-
+3	guNavawwA	गुणवत्ता	NN	5	k2	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	ASvAsana	आश्वासन	NN	6	pof	9	kriyAmUla
+6	xewe	देते	VM	0	main	9	verbalizer
+7	hEM	हैं	VAUX	6	lwg__vaux	9	verbalizer
+8	.	।	SYM	6	rsym	-	-
+9	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_047F>
+1	sIemasI	सीएमसी	NNP	8	mod	10	begin
+2	,	,	SYM	1	rsym	-	-
+3	vellora	वेल्लोर	NNP	8	k7p	11	begin
+4	meM	में	PSP	3	lwg__psp	-	-
+5	anusaMXAna	अनुसंधान	NNC	6	pof__cn	12	mod
+6	tIma	टीम	NN	8	r6	12	head
+7	ke	के	PSP	6	lwg__psp	-	-
+8	saxasya	सदस्य	NN	0	main	-	-
+9	.	।	SYM	8	rsym	-	-
+10	[ne_1]	org_1	-	8	mod	-	-
+11	[ne_2]	loc_1	-	8	k7p	-	-
+12	[nc_1]	[nc_1]	-	8	r6	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_048F>
+1	cikiwsA	चिकित्सा	NNC	2	pof__cn	19	mod
+2	karmacArI	कर्मचारी	NN	17	k1	19	head
+3	jo	जो	PRP	17	k1	-	-
+4	isa	इस	DEM	5	dem	-	-
+5	SoXa	शोध	NN	7	intf	-	-
+6	se	से	PSP	5	lwg__psp	-	-
+7	saMbaMXiwa	संबंधित	JJ	9	mod	-	-
+8	ApakI	आपकी	PRP	9	r6	-	-
+9	xeKaBAla	देखभाल	NN	17	k7	-	-
+10	meM	में	PSP	9	lwg__psp	-	-
+11	prawyakRa	प्रत्यक्ष	JJ	14	mod	20	op1
+12	yA	या	CC	14	mod	-	-
+13	aprawyakRa	अप्रत्यक्ष	JJ	14	mod	20	op2
+14	rUpa	रूप	NN	17	krvn	-	-
+15	se	से	PSP	14	lwg__psp	-	-
+16	SAmila	शामिल	JJ	17	k1s	-	-
+17	hEM	हैं	VM	0	main	-	-
+18	.	।	SYM	17	rsym	-	-
+19	[nc_1]	[nc_1]	-	17	k1	-	-
+20	[disjunct_1]	[disjunct_1]	-	14	mod	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_049F>
+1	jo	जो	DEM	2	dem	-	-
+2	loga	लोग	NN	15	k1	-	-
+3	sIemasI	सीएमसी	NNP	15	k1	18	begin
+4	,	,	SYM	3	rsym	-	-
+5	vellora	वेल्लोर	NNP	15	k7p	19	begin
+6	meM	में	PSP	5	lwg__psp	-	-
+7	anusaMXAna	अनुसंधान	NN	12	r6	22	op1
+8	Ora	और	CC	12	r6	-	-
+9	xeKaBAla	देखभाल	NNC	10	pof__cn	20	mod
+10	gawiviXiyoM	गतिविधियों	NN	12	r6	20	head
+11	kI	की	PSP	10	lwg__psp	-	-
+12	xeKareKa	देखरेख	NN	13	ccof	-	-
+13	yA	या	CC	15	pof	21	kriyAmUla
+14	mUlyAMkana	मूल्यांकन	NN	13	ccof	-	-
+15	karawe	करते	VM	0	main	21	verbalizer
+16	hEM	हैं	VAUX	15	lwg__vaux	21	verbalizer
+17	.	।	SYM	15	rsym	-	-
+18	[ne_1]	org_1	-	15	k1	-	-
+19	[ne_2]	loc_1	-	15	k7p	-	-
+20	[nc_1]	[nc_1]	-	12	r6	22	op2
+21	[cp_1]	[cp_1]	-	0	main	-	-
+22	[conj_1]	[conj_1]	-	12	r6	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_050F>
+1	svawaMwra	स्वतंत्र	JJ	2	mod	-	-
+2	mAnyawA	मान्यता	NN	6	ccof	19	op1
+3	prApwa	प्राप्त	JJ	6	ccof	19	op2
+4	Ora	और	CC	6	ccof	-	-
+5	/	/	SYM	4	rsym	-	-
+6	yA	या	CC	0	main	-	-
+7	anusaMXAna	अनुसंधान	NN	9	k2	-	-
+8	kI	की	PSP	7	lwg__psp	-	-
+9	nigarAnI	निगरानी	NN	10	pof	18	kriyAmUla
+10	karane	करने	VM	12	mod	18	verbalizer
+11	vAlI	वाली	PSP	10	lwg__psp	-	-
+12	ejeMsiyoM	एजेंसियों	NN	13	ccof	-	-
+13	Ora	और	CC	16	r6	-	-
+14	saMgaTanoM	संगठनों	NN	13	ccof	-	-
+15	ke	के	PSP	14	lwg__psp	-	-
+16	loga	लोग	NN	6	ccof	19	op3
+17	.	।	SYM	6	rsym	-	-
+18	[cp_1]	[cp_1]	-	12	mod	-	-
+19	[conj_1]	[conj_1]	-	6	ccof	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_051>
+1	kAnUnana	कानूनन	NN	15	k1	-	-
+2	,	,	SYM	1	rsym	-	-
+3	sIemasI	सीएमसी	NNP	13	k1	17	begin
+4	,	,	SYM	3	rsym	-	-
+5	vellora	वेल्लोर	NNP	13	rt	18	begin
+6	ke	के	PSP	5	lwg__psp	-	-
+7	liye	लिये	PSP	5	lwg__psp	-	-
+8	ApakI	आपकी	PRP	10	r6	-	-
+9	svAsWya	स्वास्थ्य	NNC	10	pof__cn	19	mod
+10	jAnakArI	जानकारी	NN	13	k2	19	head
+11	ko	को	PSP	10	lwg__psp	-	-
+12	surakRiwa	सुरक्षित	JJ	13	pof	20	kriyAmUla
+13	raKanA	रखना	VM	15	k1	20	verbalizer
+14	AvaSyaka	आवश्यक	JJ	15	k1s	-	-
+15	hE	है	VM	0	main	-	-
+16	.	।	SYM	15	rsym	-	-
+17	[ne_1]	org_1	-	13	k1	-	-
+18	[ne_2]	loc_1	-	13	rt	-	-
+19	[nc_1]	[nc_1]	-	13	k2	-	-
+20	[cp_1]	[cp_1]	-	15	k1	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_052>
+1	anusaMXAna	अनुसंधान	NNC	2	pof__cn	19	mod
+2	karmacArI	कर्मचारी	NN	17	k1	19	head
+3	,	,	SYM	2	rsym	-	-
+4	kevala	केवल	RP	5	lwg__rp	-	-
+5	Upara	ऊपर	NST	6	intf	-	-
+6	sUcIbaxXa	सूचीबद्ध	JJ	7	mod	-	-
+7	samUhoM	समूहों	NN	14	k4	-	-
+8	ko	को	PSP	7	lwg__psp	-	-
+9	hI	ही	RP	7	lwg__rp	-	-
+10	ApakI	आपकी	PRP	12	r6	-	-
+11	svAsWya	स्वास्थ्य	NNC	12	pof__cn	20	mod
+12	jAnakArI	जानकारी	NN	14	k7	20	head
+13	waka	तक	PSP	12	lwg__psp	-	-
+14	pahuMcane	पहुंचने	VM	16	k2	-	-
+15	kI	की	PSP	14	lwg__psp	-	-
+16	anumawi	अनुमति	NN	17	pof	21	kriyAmUla
+17	xegA	देगा	VM	0	main	21	verbalizer
+18	.	।	SYM	17	rsym	-	-
+19	[nc_1]	[nc_1]	-	17	k1	-	-
+20	[nc_2]	[nc_2]	-	14	k7	-	-
+21	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_053>
+1	isa	इस	DEM	2	dem	-	-
+2	xaswAveja	दस्तावेज	NN	5	k7	-	-
+3	para	पर	PSP	2	lwg__psp	-	-
+4	haswAkRara	हस्ताक्षर	NN	5	pof	34	kriyAmUla
+5	karake	करके	VM	7	rc	34	verbalizer
+6	,	,	SYM	5	rsym	-	-
+7	Apa	आप	PRP	19	k1	-	-
+8	viBAga	विभाग	NN	19	k2	32	begin
+9	ko	को	PSP	8	lwg__psp	-	-
+10	isa	इस	DEM	11	dem	-	-
+11	SoXa	शोध	NN	19	rt	-	-
+12	ke	के	PSP	11	lwg__psp	-	-
+13	lie	लिए	PSP	11	lwg__psp	-	-
+14	apanI	अपनी	PRP	16	r6	-	-
+15	svAsWya	स्वास्थ्य	NNC	16	pof__cn	33	mod
+16	jAnakArI	जानकारी	NN	18	k2	33	head
+17	kA	का	PSP	16	lwg__psp	-	-
+18	upayoga	उपयोग	NN	19	pof	35	kriyAmUla
+19	karane	करने	VM	20	ccof	35	verbalizer
+20	Ora	और	CC	28	rt	-	-
+21	/	/	SYM	20	rsym	-	-
+22	yA	या	CC	28	rt	-	-
+23	jArI	जारी	JJ	24	pof	36	kriyAmUla
+24	karane	करने	VM	28	rt	36	verbalizer
+25	ke	के	PSP	24	lwg__psp	-	-
+26	lie	लिए	PSP	24	lwg__psp	-	-
+27	aXikqwa	अधिकृत	JJ	28	pof	37	kriyAmUla
+28	kara	कर	VM	0	main	37	verbalizer
+29	rahe	रहे	VAUX	28	lwg__vaux	37	verbalizer
+30	hEM	हैं	VAUX	29	lwg__vaux_cont	37	verbalizer
+31	.	।	SYM	28	rsym	-	-
+32	[ne_1]	org_1	-	19	k2	-	-
+33	[nc_1]	[nc_1]	-	18	k2	-	-
+34	[cp_1]	[cp_1]	-	7	rc	-	-
+35	[cp_2]	[cp_2]	-	20	ccof	-	-
+36	[cp_3]	[cp_3]	-	28	rt	38	op1
+37	[cp_4]	[cp_4]	-	0	main	-	-
+38	[conj_1]	[conj_1]	-	28	rt	-	-
+39	[disjunct_1]	[disjunct_1]	-	28	rt	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_054>
+1	ekawra	एकत्र	JJ	2	pof	16	kriyAmUla
+2	kI	की	VM	4	rbks	16	verbalizer
+3	gaI	गई	VAUX	2	lwg__vaux	16	verbalizer
+4	jAnakArI	जानकारी	NN	7	k2	-	-
+5	ko	को	PSP	4	lwg__psp	-	-
+6	naRta	नष्ट	JJ	7	pof	17	kriyAmUla
+7	karane	करने	VM	14	rt	17	verbalizer
+8	ke	के	PSP	7	lwg__psp	-	-
+9	lie	लिए	PSP	7	lwg__psp	-	-
+10	koI	कोई	PRP	12	mod	-	-
+11	nirXAriwa	निर्धारित	JJ	12	mod	-	-
+12	samaya	समय	NN	14	k1	-	-
+13	nahIM	नहीं	NEG	14	neg	-	-
+14	hE	है	VM	0	main	-	-
+15	.	।	SYM	14	rsym	-	-
+16	[cp_1]	[cp_1]	-	4	rbks	-	-
+17	[cp_2]	[cp_2]	-	14	rt	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_055a>
+1	jAnakArI	जानकारी	NN	2	ccof	-	-
+2	Ora	और	CC	5	r6	-	-
+3	detA	डेटा	NN	2	ccof	-	-
+4	kA	का	PSP	3	lwg__psp	-	-
+5	upayoga	उपयोग	NN	8	pof	20	kriyAmUla
+6	Ora	और	CC	8	pof	21	kriyAmUla
+7	sAJA	साझा	NN	8	pof	22	kriyAmUla
+8	karane	करने	VM	12	r6	22	verbalizer
+9	kI	की	PSP	8	lwg__psp	-	-
+10	ApakI	आपकी	PRP	12	r6	-	-
+11	anumawi	अनुमति	NNC	12	pof__cn	19	mod
+12	anusaMXAna	अनुसंधान	NN	14	k1	19	head
+13	samApwa	समाप्त	JJ	14	pof	23	kriyAmUla
+14	hone	होने	VM	17	k7	23	verbalizer
+15	waka	तक	PSP	14	lwg__psp	-	-
+16	jArI	जारी	JJ	17	pof	24	kriyAmUla
+17	rahegI	रहेगी	VM	0	main	24	verbalizer
+18	.	।	SYM	17	rsym	-	-
+19	[nc_1]	[nc_1]	-	14	k1	-	-
+20	[cp_1]	[cp_1]	-	12	r6	25	op1
+21	[cp_2]	[cp_2]	-	12	r6	-	-
+22	[cp_3]	[cp_3]	-	12	r6	25	op2
+23	[cp_4]	[cp_4]	-	17	k7	-	-
+24	[cp_5]	[cp_5]	-	0	main	-	-
+25	[conj_1]	[conj_1]	-	8	pof	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_055b>
+1	yaha	यह	PRP	4	k1	-	-
+2	samApwa	समाप्त	JJ	4	pof	6	kriyAmUla
+3	nahIM	नहीं	NEG	4	neg	-	-
+4	hogI	होगी	VM	0	main	6	verbalizer
+5	.	।	SYM	4	rsym	-	-
+6	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_056a>
+1	SoXakarwA	शोधकर्ता	NN	10	k1	-	-
+2	kaI	कई	QF	3	quant	-	-
+3	varRoM	वर्षों	NN	8	k7t	-	-
+4	waka	तक	PSP	3	lwg__psp	-	-
+5	detA	डेटा	NN	7	k2	-	-
+6	kA	का	PSP	5	lwg__psp	-	-
+7	viSleRaNa	विश्लेषण	NN	8	pof	13	kriyAmUla
+8	karanA	करना	VM	10	k2	13	verbalizer
+9	jArI	जारी	JJ	10	pof	14	kriyAmUla
+10	raKawe	रखते	VM	0	main	14	verbalizer
+11	hEM	हैं	VAUX	10	lwg__vaux	14	verbalizer
+12	.	।	SYM	10	rsym	-	-
+13	[cp_1]	[cp_1]	-	10	k2	-	-
+14	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_056b>
+1	yaha	यह	PRP	2	k2	-	-
+2	jAnanA	जानना	VM	5	k1	-	-
+3	saMBava	संभव	JJ	5	k1s	-	-
+4	nahIM	नहीं	NEG	5	neg	-	-
+5	hE	है	VM	0	main	-	-
+6	.	।	SYM	5	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_056c>
+1	vaha	वह	PRP	5	k1	-	-
+2	kaba	कब	WQ	5	k7t	-	-
+3	waka	तक	PSP	2	lwg__psp	-	-
+4	pUrA	पूरा	JJ	5	pof	9	kriyAmUla
+5	kara	कर	VM	0	main	9	verbalizer
+6	liyA	लिया	VAUX	5	lwg__vaux	9	verbalizer
+7	jAegA	जाएगा	VAUX	6	lwg__vaux_cont	9	verbalizer
+8	.	।	SYM	5	rsym	-	-
+9	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_057>
+1	xAwA	दाता	NN	10	k7	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	rUpa	रूप	PSP	1	lwg__psp	-	-
+4	meM	में	PSP	1	lwg__psp	-	-
+5	mere	मेरे	PRP	6	r6	-	-
+6	aXikAra	अधिकार	NN	10	k1	12	op1
+7	Ora	और	CC	10	k1	-	-
+8	xAyiwva	दायित्व	NN	10	k1	12	op2
+9	kyA	क्या	WQ	10	k1s	-	-
+10	hEM	हैं	VM	0	main	-	-
+11	?	?	SYM	10	rsym	-	-
+12	[conj_1]	[conj_1]	-	10	k1	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_058a>
+1	Apa	आप	PRP	11	k1	-	-
+2	eka	एक	QC	3	card	-	-
+3	xAwA	दाता	NN	8	k7	-	-
+4	ke	के	PSP	3	lwg__psp	-	-
+5	rUpa	रूप	PSP	3	lwg__psp	-	-
+6	meM	में	PSP	3	lwg__psp	-	-
+7	BAga	भाग	NN	8	pof	14	kriyAmUla
+8	lene	लेने	VM	10	k2	14	verbalizer
+9	kA	का	PSP	8	lwg__psp	-	-
+10	nirNaya	निर्णय	NN	11	pof	15	kriyAmUla
+11	lewe	लेते	VM	0	main	15	verbalizer
+12	hEM	हैं	VAUX	11	lwg__vaux	15	verbalizer
+13	.	।	SYM	11	rsym	-	-
+14	[cp_1]	[cp_1]	-	10	k2	-	-
+15	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_058b>
+1	Apa	आप	PRP	10	k1	-	-
+2	svayaM	स्वयं	PRP	4	r6	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	yA	या	CC	10	k2	-	-
+5	ApakI	आपकी	PRP	7	r6	-	-
+6	cikiwsIya	चिकित्सीय	JJ	7	mod	-	-
+7	xeKaBAla	देखभाल	NN	10	k2	25	op1
+8	ke	के	PSP	7	lwg__psp	-	-
+9	praBAviwa	प्रभावित	JJ	10	pof	23	kriyAmUla
+10	hue	हुए	VM	21	k1	23	verbalizer
+11	binA	बिना	RP	21	k1	-	-
+12	,	,	SYM	11	rsym	-	-
+13	apanI	अपनी	PRP	14	r6	-	-
+14	sahamawi	सहमति	NN	17	k2	-	-
+15	ko	को	PSP	14	lwg__psp	-	-
+16	vApasa	वापस	JJ	17	pof	24	kriyAmUla
+17	lene	लेने	VM	21	rt	24	verbalizer
+18	ke	के	PSP	17	lwg__psp	-	-
+19	lie	लिए	PSP	17	lwg__psp	-	-
+20	svawaMwra	स्वतंत्र	JJ	21	k1s	-	-
+21	hEM	हैं	VM	0	main	-	-
+22	.	।	SYM	21	rsym	-	-
+23	[cp_1]	[cp_1]	-	21	k1	-	-
+24	[cp_2]	[cp_2]	-	21	rt	-	-
+25	[disjunct_1]	[disjunct_1]	-	10	k2	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_059a>
+1	Apa	आप	PRP	4	k1	-	-
+2	apanA	अपना	PRP	3	r6	-	-
+3	mana	मन	NN	4	k2	-	-
+4	baxala	बदल	VM	0	main	-	-
+5	sakawe	सकते	VAUX	4	lwg__vaux	-	-
+6	hEM	हैं	VAUX	5	lwg__vaux_cont	-	-
+7	.	।	SYM	4	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_059b>
+1	kisI	किसी	PRP	3	mod	-	-
+2	BI	भी	RP	1	lwg__rp	-	-
+3	samaya	समय	NN	15	k7t	-	-
+4	apanI	अपनी	PRP	6	r6	-	-
+5	svAsWya	स्वास्थ्य	NNC	6	pof__cn	20	mod
+6	jAnakArI	जानकारी	NN	8	r6	20	head
+7	ke	के	PSP	6	lwg__psp	-	-
+8	upayoga	उपयोग	NN	13	r6	22	op1
+9	Ora	और	CC	13	r6	-	-
+10	prakatIkaraNa	प्रकटीकरण	NN	13	r6	22	op2
+11	kA	का	PSP	10	lwg__psp	-	-
+12	apanA	अपना	PRP	13	r6	22	op3
+13	aXikaraNa	अधिकरण	NN	15	k2	19	begin
+14	vApasa	वापस	JJ	15	pof	21	kriyAmUla
+15	le	ले	VM	0	main	21	verbalizer
+16	sakawe	सकते	VAUX	15	lwg__vaux	21	verbalizer
+17	hEM	हैं	VAUX	16	lwg__vaux_cont	21	verbalizer
+18	.	।	SYM	15	rsym	-	-
+19	[ne_1]	org_1	-	15	k2	-	-
+20	[nc_1]	[nc_1]	-	8	r6	-	-
+21	[cp_1]	[cp_1]	-	0	main	-	-
+22	[conj_1]	[conj_1]	-	13	r6	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_060a>
+1	Bale	भले	RB	7	krvn	-	-
+2	hI	ही	RP	1	lwg__rp	-	-
+3	Apa	आप	PRP	7	k1	-	-
+4	apanA	अपना	PRP	5	r6	-	-
+5	aXikaraNa	अधिकरण	NN	7	k2	-	-
+6	vApasa	वापस	JJ	7	pof	10	kriyAmUla
+7	le	ले	VM	0	main	10	verbalizer
+8	leM	लें	VAUX	7	lwg__vaux	10	verbalizer
+9	.	।	SYM	7	rsym	-	-
+10	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_060b>
+1	Pira	फिर	RB	22	krvn	-	-
+2	BI	भी	RP	1	lwg__rp	-	-
+3	hama	हम	PRP	22	k1	-	-
+4	varwamAna	वर्तमान	JJ	5	mod	-	-
+5	SoXa	शोध	NN	7	r6	-	-
+6	kI	की	PSP	5	lwg__psp	-	-
+7	aKaMdawA	अखंडता	NN	8	ccof	-	-
+8	yA	या	CC	11	k2	-	-
+9	viSvasanIyawA	विश्वसनीयता	NN	8	ccof	-	-
+10	ko	को	PSP	9	lwg__psp	-	-
+11	banAe	बनाए	VM	22	rt	-	-
+12	raKane	रखने	VAUX	11	lwg__vaux	-	-
+13	ke	के	PSP	11	lwg__psp	-	-
+14	lie	लिए	PSP	11	lwg__psp	-	-
+15	AvaSyaka	आवश्यक	JJ	17	mod	-	-
+16	svAsWya	स्वास्थ्य	NNC	17	pof__cn	38	mod
+17	jAnakArI	जानकारी	NN	19	r6	38	head
+18	kA	का	PSP	17	lwg__psp	-	-
+19	upayoga	उपयोग	NN	22	pof	39	kriyAmUla
+20	Ora	और	CC	22	pof	40	kriyAmUla
+21	KulAsA	खुलासा	NN	22	pof	41	kriyAmUla
+22	kara	कर	VM	0	main	41	verbalizer
+23	sakawe	सकते	VAUX	22	lwg__vaux	41	verbalizer
+24	hEM	हैं	VAUX	23	lwg__vaux_cont	41	verbalizer
+25	,	,	SYM	22	rsym	-	-
+26	jo	जो	PRP	34	k1	-	-
+27	hamane	हमने	PRP	34	k1	-	-
+28	Apake	आपके	PRP	34	k7	-	-
+29	bAre	बारे	PSP	28	lwg__psp	-	-
+30	meM	में	PSP	28	lwg__psp	-	-
+31	pahale	पहले	NST	34	k7t	-	-
+32	hI	ही	RP	31	lwg__rp	-	-
+33	prApwa	प्राप्त	JJ	34	pof	42	kriyAmUla
+34	kara	कर	VM	22	rc	42	verbalizer
+35	lI	ली	VAUX	34	lwg__vaux	42	verbalizer
+36	hE	है	VAUX	35	lwg__vaux_cont	42	verbalizer
+37	.	।	SYM	22	rsym	-	-
+38	[nc_1]	[nc_1]	-	19	r6	-	-
+39	[cp_1]	[cp_1]	-	0	main	43	op1
+40	[cp_2]	[cp_2]	-	0	main	-	-
+41	[cp_3]	[cp_3]	-	0	main	43	op2
+42	[cp_4]	[cp_4]	-	22	rc	-	-
+43	[conj_1]	[conj_1]	-	22	pof	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_061>
+1	kyA	क्या	WQ	7	krvn	-	-
+2	muJe	मुझे	PRP	7	k1	-	-
+3	kisI	किसी	PRP	4	mod	-	-
+4	prakAra	प्रकार	NN	6	r6	-	-
+5	kA	का	PSP	4	lwg__psp	-	-
+6	mUlya	मूल्य	NN	7	k2	-	-
+7	xenA	देना	VM	0	main	-	-
+8	hogA	होगा	VAUX	7	lwg__vaux	-	-
+9	?	?	SYM	7	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_062>
+1	Apake	आपके	PRP	2	r6	-	-
+2	rakwa	रक्त	NN	4	r6	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	saMgraha	संग्रह	NN	16	k7	20	op1
+5	,	,	SYM	4	rsym	-	-
+6	prasaMskaraNa	प्रसंस्करण	NN	16	k7	20	op2
+7	Ora	और	CC	16	k7	-	-
+8	anya	अन्य	JJ	9	mod	-	-
+9	gawiviXiyoM	गतिविधियों	NN	16	k7	20	op3
+10	meM	में	PSP	9	lwg__psp	-	-
+11	SAmila	शामिल	JJ	12	mod	-	-
+12	lAgawa	लागत	NN	16	k2	-	-
+13	hamAre	हमारे	PRP	16	k1	-	-
+14	xvArA	द्वारा	PSP	13	lwg__psp	-	-
+15	vahana	वहन	NN	16	pof	19	kriyAmUla
+16	kI	की	VM	0	main	19	verbalizer
+17	jAegI	जाएगी	VAUX	16	lwg__vaux	19	verbalizer
+18	.	।	SYM	16	rsym	-	-
+19	[cp_1]	[cp_1]	-	0	main	-	-
+20	[conj_1]	[conj_1]	-	16	k7	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_063>
+1	isa	इस	DEM	2	dem	-	-
+2	pariyojanA	परियोजना	NN	5	k7p	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	BAga	भाग	NN	5	pof	18	kriyAmUla
+5	lene	लेने	VM	15	rt	18	verbalizer
+6	ke	के	PSP	5	lwg__psp	-	-
+7	lie	लिए	PSP	5	lwg__psp	-	-
+8	Apako	आपको	PRP	15	k1	-	-
+9	kisI	किसी	PRP	11	mod	-	-
+10	BI	भी	RP	9	lwg__rp	-	-
+11	rASi	राशि	NN	13	k2	-	-
+12	kA	का	PSP	11	lwg__psp	-	-
+13	BugawAna	भुगतान	NN	15	pof	19	kriyAmUla
+14	nahIM	नहीं	NEG	15	neg	-	-
+15	karanA	करना	VM	0	main	19	verbalizer
+16	hE	है	VAUX	15	lwg__vaux	19	verbalizer
+17	.	।	SYM	15	rsym	-	-
+18	[cp_1]	[cp_1]	-	15	rt	-	-
+19	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_064H>
+1	namUnoM	नमूनों	NN	5	r6	7	op1
+2	yA	या	CC	5	r6	-	-
+3	detA	डेटा	NN	5	r6	7	op2
+4	kI	की	PSP	3	lwg__psp	-	-
+5	kodiMga	कोडिंग	NN	0	main	-	-
+6	:	:	SYM	5	rsym	-	-
+7	[disjunct_1]	[disjunct_1]	-	5	r6	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_065>
+1	isa	इस	DEM	2	dem	-	-
+2	aXyayana	अध्ययन	NN	5	intf	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	lie	लिए	PSP	2	lwg__psp	-	-
+5	prApwa	प्राप्त	JJ	7	mod	-	-
+6	saBI	सभी	QF	7	quant	-	-
+7	jAnakArI	जानकारी	NN	14	k2	18	op1
+8	Ora	और	CC	14	k2	-	-
+9	namUnoM	नमूनों	NN	14	k2	18	op2
+10	ko	को	PSP	9	lwg__psp	-	-
+11	eka	एक	QC	13	card	-	-
+12	koda	कोड	NNC	13	pof__cn	17	mod
+13	naMbara	नंबर	NN	14	k2	17	head
+14	xiyA	दिया	VM	0	main	-	-
+15	jAegA	जाएगा	VAUX	14	lwg__vaux	-	-
+16	.	।	SYM	14	rsym	-	-
+17	[nc_1]	[nc_1]	-	14	k2	18	op3
+18	[conj_1]	[conj_1]	-	14	k2	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_066>
+1	aspawAla	अस्पताल	NN	12	vmod	37	op1
+2	,	,	SYM	1	rsym	-	-
+3	medikala	मेडिकल	NNC	5	pof__cn	34	mod
+4	rikOYrda	रिकॉर्ड	NNC	5	pof__cn	35	mod
+5	naMbara	नंबर	NN	12	vmod	35	head
+6	yA	या	CC	12	vmod	-	-
+7	kisI	किसी	PRP	10	mod	-	-
+8	BI	भी	RP	7	lwg__rp	-	-
+9	pahacAna	पहचान	NNC	10	pof__cn	36	mod
+10	saMKyA	संख्या	NN	12	vmod	36	head
+11	jEse	जैसे	PSP	10	lwg__psp	-	-
+12	ki	कि	CC	0	main	-	-
+13	koI	कोई	PRP	14	mod	-	-
+14	nAma	नाम	NN	15	ccof	-	-
+15	yA	या	CC	31	k7	-	-
+16	mahawvapUrNa	महत्वपूर्ण	JJ	17	mod	-	-
+17	saMKyA	संख्या	NN	15	ccof	-	-
+18	,	,	SYM	17	rsym	-	-
+19	unase	उनसे	PRP	31	k2	-	-
+20	AsAnI	आसानी	RB	24	krvn	-	-
+21	se	से	PSP	20	lwg__psp	-	-
+22	ApakI	आपकी	PRP	23	r6	-	-
+23	pahacAna	पहचान	NN	24	k2	-	-
+24	jodane	जोडने	VM	31	rt	-	-
+25	ke	के	PSP	24	lwg__psp	-	-
+26	lie	लिए	PSP	24	lwg__psp	-	-
+27	namUnoM	नमूनों	NN	31	k7	38	op1
+28	para	पर	PSP	27	lwg__psp	-	-
+29	kuCa	कुछ	PRP	31	k2	-	-
+30	nahIM	नहीं	NEG	31	neg	-	-
+31	liKA	लिखा	VM	12	ccof	-	-
+32	jAegA	जाएगा	VAUX	31	lwg__vaux	-	-
+33	.	।	SYM	12	rsym	-	-
+34	[nc_1]	[nc_1]	-	12	vmod	-	-
+35	[nc_2]	[nc_2]	-	12	vmod	37	op2
+36	[nc_3]	[nc_3]	-	12	vmod	37	op3
+37	[disjunct_1]	[disjunct_1]	-	12	vmod	-	-
+38	[disjunct_2]	[disjunct_2]	-	31	k7	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_067F>
+1	xAwA	दाता	NN	0	k2	7	begin
+2	se	से	PSP	1	lwg__psp	-	-
+3	puna	पुन	NNC	5	pof__cn	8	begin
+4	:	:	SYM	5	rsym	-	-
+5	saMparka	संपर्क	NN	0	main	-	-
+6	:	:	SYM	5	rsym	-	-
+7	[ne_1]	per_1	-	0	k2	-	-
+8	[ne_2]	per_2	-	5	pof__cn	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_068a>
+1	eka	एक	QC	2	card	-	-
+2	xAwA	दाता	NN	9	k7	-	-
+3	ke	के	PSP	2	lwg__psp	-	-
+4	rUpa	रूप	PSP	2	lwg__psp	-	-
+5	meM	में	PSP	2	lwg__psp	-	-
+6	,	,	SYM	2	rsym	-	-
+7	yaxi	यदि	CC	0	main	-	-
+8	AvaSyaka	आवश्यक	JJ	9	pof	11	kriyAmUla
+9	ho	हो	VM	0	main	11	verbalizer
+10	.	।	SYM	7	rsym	-	-
+11	[cp_1]	[cp_1]	-	0	main	12	op1
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_068b>
+1	Apase	आपसे	PRP	7	rh	-	-
+2	BaviRya	भविष्य	NN	7	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	Pira	फिर	RB	7	krvn	-	-
+5	se	से	RP	4	lwg__rp	-	-
+6	saMparka	संपर्क	NN	7	pof	12	kriyAmUla
+7	kiyA	किया	VM	0	main	12	verbalizer
+8	jA	जा	VAUX	7	lwg__vaux	12	verbalizer
+9	sakawA	सकता	VAUX	8	lwg__vaux_cont	12	verbalizer
+10	hE	है	VAUX	9	lwg__vaux_cont	12	verbalizer
+11	.	।	SYM	7	rsym	-	-
+12	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_069F>
+1	hiwoM	हितों	NN	3	r6	-	-
+2	kA	का	PSP	1	lwg__psp	-	-
+3	takarAva	टकराव	NN	0	main	-	-
+4	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_070>
+1	KulAsA	खुलासा	NN	2	pof	13	kriyAmUla
+2	karane	करने	VM	11	rt	13	verbalizer
+3	ke	के	PSP	2	lwg__psp	-	-
+4	lie	लिए	PSP	2	lwg__psp	-	-
+5	hiwoM	हितों	NN	9	r6	-	-
+6	kA	का	PSP	5	lwg__psp	-	-
+7	koI	कोई	PRP	9	mod	-	-
+8	saMBAviwa	संभावित	JJ	9	mod	-	-
+9	saMGarRa	संघर्ष	NN	11	k1	-	-
+10	nahIM	नहीं	NEG	11	neg	-	-
+11	hE	है	VM	0	main	-	-
+12	.	।	SYM	11	rsym	-	-
+13	[cp_1]	[cp_1]	-	11	rt	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_071F>
+1	sahamawi	सहमति	NN	4	k2	-	-
+2	ko	को	PSP	1	lwg__psp	-	-
+3	vApasa	वापस	JJ	4	pof	6	kriyAmUla
+4	lenA	लेना	VM	0	main	6	verbalizer
+5	.	।	SYM	4	rsym	-	-
+6	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_072>
+1	ApakI	आपकी	PRP	2	r6	-	-
+2	BAgIxArI	भागीदारी	NN	4	k1	-	-
+3	svEcCika	स्वैच्छिक	JJ	4	k1s	-	-
+4	hE	है	VM	0	main	-	-
+5	.	।	SYM	4	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_073a>
+1	Apa	आप	PRP	8	k1	-	-
+2	pahale	पहले	NST	8	k7t	-	-
+3	BAga	भाग	NN	4	pof	10	kriyAmUla
+4	lene	लेने	VM	8	rt	10	verbalizer
+5	ke	के	PSP	4	lwg__psp	-	-
+6	lie	लिए	PSP	4	lwg__psp	-	-
+7	sahamawa	सहमत	JJ	8	k1s	-	-
+8	hEM	हैं	VM	0	main	-	-
+9	.	।	SYM	8	rsym	-	-
+10	[cp_1]	[cp_1]	-	8	rt	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_073b>
+1	Pira	फिर	RB	4	krvn	-	-
+2	apanA	अपना	PRP	3	r6	-	-
+3	mana	मन	NN	4	k1	-	-
+4	baxalawe	बदलते	VM	0	main	-	-
+5	hEM	हैं	VAUX	4	lwg__vaux	-	-
+6	.	।	SYM	4	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_073c>
+1	Apa	आप	PRP	5	k1	-	-
+2	apanI	अपनी	PRP	3	r6	-	-
+3	sahamawi	सहमति	NN	5	k2	-	-
+4	vApasa	वापस	JJ	5	pof	18	kriyAmUla
+5	lene	लेने	VM	16	rt	18	verbalizer
+6	Ora	और	CC	16	rt	-	-
+7	apanI	अपनी	PRP	9	r6	-	-
+8	prawyakRa	प्रत्यक्ष	JJ	9	mod	-	-
+9	BAgIxArI	भागीदारी	NN	12	k2	-	-
+10	ko	को	PSP	9	lwg__psp	-	-
+11	baMxa	बंद	JJ	12	pof	19	kriyAmUla
+12	karane	करने	VM	16	rt	19	verbalizer
+13	ke	के	PSP	12	lwg__psp	-	-
+14	lie	लिए	PSP	12	lwg__psp	-	-
+15	svawaMwra	स्वतंत्र	JJ	16	k1s	-	-
+16	hEM	हैं	VM	0	main	-	-
+17	.	।	SYM	16	rsym	-	-
+18	[cp_1]	[cp_1]	-	16	rt	20	op1
+19	[cp_2]	[cp_2]	-	16	rt	20	op2
+20	[conj_1]	[conj_1]	-	16	rt	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_074>
+1	xAna	दान	NN	33	k7t	-	-
+2	ke	के	PSP	1	lwg__psp	-	-
+3	bAxa	बाद	NST	1	k7p	-	-
+4	,	,	SYM	3	rsym	-	-
+5	hama	हम	PRP	33	k1	-	-
+6	Uwaka	ऊतक	NN	15	ccof	-	-
+7	,	,	SYM	6	rsym	-	-
+8	Uwaka	ऊतक	NN	11	k5	-	-
+9	se	से	PSP	8	lwg__psp	-	-
+10	pqWaka	पृथक	JJ	11	pof	37	kriyAmUla
+11	kI	की	VM	13	rbks	37	verbalizer
+12	gaI	गई	VAUX	11	lwg__vaux	37	verbalizer
+13	koSikAoM	कोशिकाओं	NN	15	ccof	-	-
+14	,	,	SYM	13	rsym	-	-
+15	Ora	और	CC	21	k2	-	-
+16	/	/	SYM	15	rsym	-	-
+17	yA	या	CC	21	k2	-	-
+18	pqWaka	पृथक	JJ	19	mod	-	-
+19	koSikAoM	कोशिकाओं	NN	21	k2	40	op1
+20	se	से	PSP	19	lwg__psp	-	-
+21	bane	बने	VM	23	rbks	-	-
+22	anya	अन्य	JJ	23	mod	-	-
+23	uwpAxoM	उत्पादों	NN	26	k2	-	-
+24	ko	को	PSP	23	lwg__psp	-	-
+25	vApasa	वापस	JJ	26	pof	38	kriyAmUla
+26	xene	देने	VM	33	k7	38	verbalizer
+27	meM	में	PSP	26	lwg__psp	-	-
+28	nimnaliKiwa	निम्नलिखित	JJ	29	mod	-	-
+29	kAraNoM	कारणों	NN	33	krvn	-	-
+30	se	से	PSP	29	lwg__psp	-	-
+31	sakRama	सक्षम	JJ	33	pof	39	kriyAmUla
+32	nahIM	नहीं	NEG	33	neg	-	-
+33	ho	हो	VM	0	main	39	verbalizer
+34	sakawe	सकते	VAUX	33	lwg__vaux	39	verbalizer
+35	hEM	हैं	VAUX	34	lwg__vaux_cont	39	verbalizer
+36	.	।	SYM	33	rsym	-	-
+37	[cp_1]	[cp_1]	-	13	rbks	-	-
+38	[cp_2]	[cp_2]	-	33	k7	-	-
+39	[cp_3]	[cp_3]	-	0	main	-	-
+40	[conj_1]	[conj_1]	-	21	k2	41	op1
+41	[disjunct_1]	[disjunct_1]	-	21	k2	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_075>
+1	vyakwigawa	व्यक्तिगत	JJ	2	mod	-	-
+2	pahacAna	पहचान	NN	4	r6	-	-
+3	kI	की	PSP	2	lwg__psp	-	-
+4	jAnakArI	जानकारी	NN	8	k2	-	-
+5	ke	के	PSP	4	lwg__psp	-	-
+6	binA	बिना	RP	4	lwg__rp	-	-
+7	saMgrahIwa	संग्रहीत	JJ	8	pof	14	kriyAmUla
+8	kI	की	VM	0	main	14	verbalizer
+9	gaI	गई	VAUX	8	lwg__vaux	14	verbalizer
+10	ho	हो	VAUX	9	lwg__vaux_cont	14	verbalizer
+11	sakawI	सकती	VAUX	10	lwg__vaux_cont	14	verbalizer
+12	hEM	हैं	VAUX	11	lwg__vaux_cont	14	verbalizer
+13	.	।	SYM	8	rsym	-	-
+14	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_076>
+1	jIna	जीन	NNC	3	pof__cn	17	mod
+2	saMpAxana	संपादन	NNC	3	pof__cn	18	mod
+3	nirmANoM	निर्माणों	NN	5	r6	18	head
+4	kI	की	PSP	3	lwg__psp	-	-
+5	praBAvakAriwA	प्रभावकारिता	NN	7	r6	-	-
+6	ke	के	PSP	5	lwg__psp	-	-
+7	parIkRaNa	परीक्षण	NN	13	rt	-	-
+8	ke	के	PSP	7	lwg__psp	-	-
+9	lie	लिए	PSP	7	lwg__psp	-	-
+10	SoXakarwAoM	शोधकर्ताओं	NN	13	k4	-	-
+11	ko	को	PSP	10	lwg__psp	-	-
+12	praxAna	प्रदान	NN	13	pof	19	kriyAmUla
+13	kiye	किये	VM	0	main	19	verbalizer
+14	gaye	गये	VAUX	13	lwg__vaux	19	verbalizer
+15	hoM	हों	VAUX	14	lwg__vaux_cont	19	verbalizer
+16	.	।	SYM	13	rsym	-	-
+17	[nc_1]	[nc_1]	-	5	r6	-	-
+18	[nc_2]	[nc_2]	-	5	r6	-	-
+19	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_077>
+1	kyA	क्या	WQ	11	krvn	-	-
+2	muJe	मुझे	PRP	11	k4	-	-
+3	isa	इस	DEM	4	dem	-	-
+4	aXyayana	अध्ययन	NN	7	k7	-	-
+5	meM	में	PSP	4	lwg__psp	-	-
+6	BAga	भाग	NN	7	pof	14	kriyAmUla
+7	lene	लेने	VM	11	rt	14	verbalizer
+8	ke	के	PSP	7	lwg__psp	-	-
+9	lie	लिए	PSP	7	lwg__psp	-	-
+10	BugawAna	भुगतान	NN	11	pof	15	kriyAmUla
+11	kiyA	किया	VM	0	main	15	verbalizer
+12	jAegA	जाएगा	VAUX	11	lwg__vaux	15	verbalizer
+13	?	?	SYM	11	rsym	-	-
+14	[cp_1]	[cp_1]	-	11	rt	-	-
+15	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_078>
+1	isa	इस	DEM	2	dem	-	-
+2	aXyayana	अध्ययन	NN	5	k7	-	-
+3	meM	में	PSP	2	lwg__psp	-	-
+4	BAga	भाग	NN	5	pof	15	kriyAmUla
+5	lene	लेने	VM	12	rt	15	verbalizer
+6	ke	के	PSP	5	lwg__psp	-	-
+7	lie	लिए	PSP	5	lwg__psp	-	-
+8	Apako	आपको	PRP	12	k2	-	-
+9	koI	कोई	PRP	10	mod	-	-
+10	BugawAna	भुगतान	NN	12	pof	16	kriyAmUla
+11	nahIM	नहीं	NEG	12	neg	-	-
+12	kiyA	किया	VM	0	main	16	verbalizer
+13	jAegA	जाएगा	VAUX	12	lwg__vaux	16	verbalizer
+14	.	।	SYM	12	rsym	-	-
+15	[cp_1]	[cp_1]	-	12	rt	-	-
+16	[cp_2]	[cp_2]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_079>
+1	isa	इस	DEM	2	dem	-	-
+2	SoXa	शोध	NN	4	k2	-	-
+3	kA	का	PSP	2	lwg__psp	-	-
+4	viwwapoRaNa	वित्तपोषण	NN	6	k2	-	-
+5	kOna	कौन	WQ	6	pof	10	kriyAmUla
+6	kara	कर	VM	0	main	10	verbalizer
+7	rahA	रहा	VAUX	6	lwg__vaux	10	verbalizer
+8	hE	है	VAUX	7	lwg__vaux_cont	10	verbalizer
+9	?	?	SYM	6	rsym	-	-
+10	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_080>
+1	isa	इस	DEM	2	dem	-	-
+2	pariyojanA	परियोजना	NN	13	k2	-	-
+3	ko	को	PSP	2	lwg__psp	-	-
+4	BArawa	भारत	NNPC	5	pof__cn	18	begin
+5	sarakAra	सरकार	NNP	9	r6	18	inside
+6	ke	के	PSP	5	lwg__psp	18	inside
+7	jEva	जैव	NNPC	9	pof__cn	20	begin
+8	prOxyogikI	प्रौद्योगिकी	NNPC	9	pof__cn	19	begin
+9	viBAga	विभाग	NNP	13	k1	20	inside
+10	xvArA	द्वारा	PSP	9	lwg__psp	-	-
+11	viwwa	वित्त	NNPC	13	pof__cn	21	begin
+12	poRiwa	पोषित	JJ	13	pof	22	kriyAmUla
+13	kiyA	किया	VM	0	main	22	verbalizer
+14	jA	जा	VAUX	13	lwg__vaux	22	verbalizer
+15	rahA	रहा	VAUX	14	lwg__vaux_cont	22	verbalizer
+16	hE	है	VAUX	15	lwg__vaux_cont	22	verbalizer
+17	.	।	SYM	13	rsym	-	-
+18	[ne_1]	org_1	-	5	pof__cn	-	-
+19	[ne_2]	org_2	-	13	k1	-	-
+20	[ne_3]	[ne_3]	-	13	k1	-	-
+21	[ne_4]	[ne_4]	-	0	main	-	-
+22	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_081a>
+1	mere	मेरे	PRP	9	rsm	-	-
+2	pAsa	पास	NST	1	k7p	-	-
+3	aXyayana	अध्ययन	NN	9	k7	-	-
+4	ke	के	PSP	3	lwg__psp	-	-
+5	bAre	बारे	PSP	3	lwg__psp	-	-
+6	meM	में	PSP	3	lwg__psp	-	-
+7	koI	कोई	PRP	8	mod	-	-
+8	praSna	प्रश्न	NN	9	k1	-	-
+9	hE	है	VM	0	main	-	-
+10	.	।	SYM	9	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_081b>
+1	kyA	क्या	WQ	2	krvn	-	-
+2	hogA	होगा	VM	0	main	-	-
+3	?	?	SYM	2	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_082a>
+1	Apake	आपके	PRP	2	r6	-	-
+2	praSna	प्रश्न	NN	3	k1	-	-
+3	hEM	हैं	VM	0	main	-	-
+4	.	।	SYM	3	rsym	-	-
+</sentence_id>
+
+
+<sentence_id=sept-7-2022ICF-HD_source_hin_082b>
+1	nimnaliKiwa	निम्नलिखित	JJ	2	mod	-	-
+2	cikiwsakoM	चिकित्सकों	NN	5	k4	-	-
+3	ko	को	PSP	2	lwg__psp	-	-
+4	Pona	फोन	NN	5	pof	7	kriyAmUla
+5	kIjiye	कीजिये	VM	0	main	7	verbalizer
+6	.	।	SYM	5	rsym	-	-
+7	[cp_1]	[cp_1]	-	0	main	-	-
+</sentence_id>
+

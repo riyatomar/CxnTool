@@ -24,8 +24,8 @@ def convert_to_tsv(data):
     
     return "\n".join(tsv_data)
 
-input_file = 'IO/cxn_json_out.txt'  
-output_file = 'IO/cxn_tsv_out.tsv' 
+input_file = 'IO/cxn_output.json'  
+output_file = 'IO/cxn_output.tsv' 
 
 with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)

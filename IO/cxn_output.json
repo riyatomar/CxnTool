@@ -1,0 +1,149 @@
+{
+    "response": [
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "11",
+                    "index": 1,
+                    "original_word": "राम",
+                    "pos_tag": "NNP",
+                    "wx_word": "rAma",
+                    "cnx_index": 13,
+                    "cnx_component": "begin"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "1",
+                    "index": 2,
+                    "original_word": "ने",
+                    "pos_tag": "PSP",
+                    "wx_word": "ne"
+                },
+                {
+                    "dependency_relation": "card",
+                    "head_index": "4",
+                    "index": 3,
+                    "original_word": "10",
+                    "pos_tag": "QC",
+                    "wx_word": "10",
+                    "cnx_index": 14,
+                    "cnx_component": "count"
+                },
+                {
+                    "dependency_relation": "rsp",
+                    "head_index": "8",
+                    "index": 4,
+                    "original_word": "किलो",
+                    "pos_tag": "NN",
+                    "wx_word": "kilo",
+                    "cnx_index": 14,
+                    "cnx_component": "unit"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "4",
+                    "index": 5,
+                    "original_word": "से",
+                    "pos_tag": "PSP",
+                    "wx_word": "se"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "4",
+                    "index": 6,
+                    "original_word": "लेकर",
+                    "pos_tag": "PSP",
+                    "wx_word": "lekara"
+                },
+                {
+                    "dependency_relation": "card",
+                    "head_index": "8",
+                    "index": 7,
+                    "original_word": "20",
+                    "pos_tag": "QC",
+                    "wx_word": "20",
+                    "cnx_index": 15,
+                    "cnx_component": "count"
+                },
+                {
+                    "dependency_relation": "k7t",
+                    "head_index": "11",
+                    "index": 8,
+                    "original_word": "किलो",
+                    "pos_tag": "NN",
+                    "wx_word": "kilo",
+                    "cnx_index": 15,
+                    "cnx_component": "unit"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "8",
+                    "index": 9,
+                    "original_word": "तक",
+                    "pos_tag": "PSP",
+                    "wx_word": "waka"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "11",
+                    "index": 10,
+                    "original_word": "वजन",
+                    "pos_tag": "NN",
+                    "wx_word": "vajana"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 11,
+                    "original_word": "उठाया",
+                    "pos_tag": "VM",
+                    "wx_word": "uTAyA"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "11",
+                    "index": 12,
+                    "original_word": "।",
+                    "pos_tag": "SYM",
+                    "wx_word": "."
+                },
+                {
+                    "index": 13,
+                    "original_word": "per_1",
+                    "wx_word": "[ne_1]",
+                    "dependency_relation": "k1",
+                    "head_index": "11"
+                },
+                {
+                    "index": 14,
+                    "original_word": "[meas_1]",
+                    "wx_word": "[meas_1]",
+                    "dependency_relation": "rsp",
+                    "head_index": "8",
+                    "cnx_index": 16,
+                    "cnx_component": "start"
+                },
+                {
+                    "index": 15,
+                    "original_word": "[meas_2]",
+                    "wx_word": "[meas_2]",
+                    "dependency_relation": "k7t",
+                    "head_index": "11",
+                    "cnx_index": 16,
+                    "cnx_component": "end"
+                },
+                {
+                    "index": 16,
+                    "original_word": "[span_1]",
+                    "wx_word": "[span_1]",
+                    "dependency_relation": "k7t",
+                    "head_index": "11"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "राम ने 10 किलो से लेकर 20 किलो तक वजन उठाया ।",
+            "sentence_id": "1"
+        }
+    ]
+}

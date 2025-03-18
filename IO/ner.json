@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "ने"
+                },
+                {
+                    "annotation": "O",
+                    "word": "10"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किलो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "लेकर"
+                },
+                {
+                    "annotation": "O",
+                    "word": "20"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किलो"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "वजन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "उठाया"
+                },
+                {
+                    "annotation": "O",
+                    "word": "।"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "राम ने 10 किलो से लेकर 20 किलो तक वजन उठाया ।",
+            "sentence_id": "1"
+        }
+    ],
+    "response_for": "USR"
+}

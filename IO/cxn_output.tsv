@@ -1,0 +1,19 @@
+<sentence_id=1>
+1	rAma	राम	NNP	11	k1	13	begin
+2	ne	ने	PSP	1	lwg__psp	-	-
+3	10	10	QC	4	card	14	count
+4	kilo	किलो	NN	8	rsp	14	unit
+5	se	से	PSP	4	lwg__psp	-	-
+6	lekara	लेकर	PSP	4	lwg__psp	-	-
+7	20	20	QC	8	card	15	count
+8	kilo	किलो	NN	11	k7t	15	unit
+9	waka	तक	PSP	8	lwg__psp	-	-
+10	vajana	वजन	NN	11	k2	-	-
+11	uTAyA	उठाया	VM	0	main	-	-
+12	.	।	SYM	11	rsym	-	-
+13	[ne_1]	per_1	-	11	k1	-	-
+14	[meas_1]	[meas_1]	-	8	rsp	16	start
+15	[meas_2]	[meas_2]	-	11	k7t	16	end
+16	[span_1]	[span_1]	-	11	k7t	-	-
+</sentence_id>
+

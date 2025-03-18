@@ -1,0 +1,95 @@
+{
+    "response": [
+        {
+            "parser_output": [
+                {
+                    "dependency_relation": "k1",
+                    "head_index": "11",
+                    "index": 1,
+                    "original_word": "राम",
+                    "pos_tag": "NNP"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "1",
+                    "index": 2,
+                    "original_word": "ने",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "card",
+                    "head_index": "4",
+                    "index": 3,
+                    "original_word": "10",
+                    "pos_tag": "QC"
+                },
+                {
+                    "dependency_relation": "rsp",
+                    "head_index": "8",
+                    "index": 4,
+                    "original_word": "किलो",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "4",
+                    "index": 5,
+                    "original_word": "से",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "4",
+                    "index": 6,
+                    "original_word": "लेकर",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "card",
+                    "head_index": "8",
+                    "index": 7,
+                    "original_word": "20",
+                    "pos_tag": "QC"
+                },
+                {
+                    "dependency_relation": "k7t",
+                    "head_index": "11",
+                    "index": 8,
+                    "original_word": "किलो",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "lwg__psp",
+                    "head_index": "8",
+                    "index": 9,
+                    "original_word": "तक",
+                    "pos_tag": "PSP"
+                },
+                {
+                    "dependency_relation": "k2",
+                    "head_index": "11",
+                    "index": 10,
+                    "original_word": "वजन",
+                    "pos_tag": "NN"
+                },
+                {
+                    "dependency_relation": "main",
+                    "head_index": "0",
+                    "index": 11,
+                    "original_word": "उठाया",
+                    "pos_tag": "VM"
+                },
+                {
+                    "dependency_relation": "rsym",
+                    "head_index": "11",
+                    "index": 12,
+                    "original_word": "।",
+                    "pos_tag": "SYM"
+                }
+            ],
+            "project_id": "1",
+            "sentence": "राम ने 10 किलो से लेकर 20 किलो तक वजन उठाया ।",
+            "sentence_id": "1"
+        }
+    ]
+}
