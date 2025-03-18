@@ -352,6 +352,13 @@ The Construction Tool outputs data in structured JSON format that merges insight
     </sentence_id>
 ```
 
+# Dependency
+
+1. Python 3+
+
+2. Required libraries are listed in requirements.txt
+    - pip install -r requirements.txt
+
 # Usage
 
 1. Place the input JSON files (from Parser and NER) within IO directory.
@@ -388,5 +395,12 @@ The Construction Tool outputs data in structured JSON format that merges insight
     │   ├── file_utils.py
     ├── main.py
     ├── json2tsv.py
+    ├── requirements.txt
     ├── README.md
 ```
+
+# Additional Notes
+
+1. Ensure the input JSON files follow the correct format outlined above.
+
+2. If you encounter any errors related to missing dependencies, ensure requirements.txt is fully installed.
