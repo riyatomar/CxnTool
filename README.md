@@ -8,6 +8,7 @@ The tool accepts input in JSON format containing outputs from the Parser and NER
 
 1. NER Tool
 
+```
 {
     "data": [
         {
@@ -68,9 +69,11 @@ The tool accepts input in JSON format containing outputs from the Parser and NER
     ],
     "response_for": "USR"
 }
+```
 
 2. Hindi Parser
 
+```
 {
     "response": [
         {
@@ -166,6 +169,7 @@ The tool accepts input in JSON format containing outputs from the Parser and NER
         }
     ]
 }
+```
 
 # Output Format Structure
 
@@ -327,6 +331,7 @@ The Construction Tool outputs data in structured JSON format that merges insight
 
 2. TSV Output Format
 
+```
     <sentence_id=1>
     1	rAma	राम	NNP	11	k1	13	begin
     2	ne	ने	PSP	1	lwg__psp	-	-
@@ -345,7 +350,7 @@ The Construction Tool outputs data in structured JSON format that merges insight
     15	[meas_2]	[meas_2]	-	11	k7t	16	end
     16	[span_1]	[span_1]	-	11	k7t	-	-
     </sentence_id>
-
+```
 
 # Usage
 
@@ -359,6 +364,7 @@ The Construction Tool outputs data in structured JSON format that merges insight
 
 # Folder Structure
 
+```
     CxnTool
     ├── constant
     │   ├── cc.py
@@ -383,3 +389,4 @@ The Construction Tool outputs data in structured JSON format that merges insight
     ├── main.py
     ├── json2tsv.py
     ├── README.md
+```
