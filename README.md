@@ -173,6 +173,7 @@ The Construction Tool outputs data in structured JSON format that merges insight
 
 1. JSON Output Format
 
+```
     {
     "response": [
         {
@@ -322,6 +323,7 @@ The Construction Tool outputs data in structured JSON format that merges insight
         }
     ]
 }
+```
 
 2. TSV Output Format
 
