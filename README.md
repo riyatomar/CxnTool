@@ -171,7 +171,7 @@ The tool accepts input in JSON format containing outputs from the Parser and NER
 
 The Construction Tool outputs data in structured JSON format that merges insights from the Parser and NER tools.
 
-1. JSOM Output Format
+1. JSON Output Format
 
     {
     "response": [
